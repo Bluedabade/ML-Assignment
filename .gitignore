@@ -1,0 +1,30 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+*.key
+kaggle.json
+
+# Large source and generated datasets
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+kaggle_acne_wrinkle_spots/
+kaggle_oily_dry_normal/
+roboflow_skin_problem_clean3/
+
+# Trained weights and logs
+artifacts/**/*.keras
+artifacts/**/*.h5
+logs/
+tensorboard/
+*.tfevents.*
+.keras/
+*.log
+.pytest_cache/
+.mypy_cache/

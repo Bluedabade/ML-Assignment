@@ -1,0 +1,23 @@
+{
+  "train": {
+    "normal": 836,
+    "wrinkle": 219,
+    "acne": 478,
+    "dark_spot": 161,
+    "large_pores": 18
+  },
+  "val": {
+    "normal": 179,
+    "wrinkle": 47,
+    "acne": 102,
+    "dark_spot": 34,
+    "large_pores": 4
+  },
+  "test": {
+    "normal": 180,
+    "wrinkle": 48,
+    "acne": 104,
+    "dark_spot": 35,
+    "large_pores": 5
+  }
+}
