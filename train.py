@@ -8,10 +8,10 @@ from pathlib import Path
 from config import (ARTIFACTS_DIR, BATCH_SIZE, CLASS_NAMES, FINE_TUNE_EPOCHS,
                     FINE_TUNE_LEARNING_RATE, IMG_SIZE, INITIAL_EPOCHS, PROCESSED_DATA_DIR,
                     LEARNING_RATE, PLOTS_DIR, RESULTS_DIR, SEED)
-from src.dataset import load_datasets
 from src.metrics import evaluate_and_save, plot_history
-from src.models import BACKBONES, build_model, enable_fine_tuning
 from src.utils import save_json, set_seed
+
+MODEL_NAMES = ("mobilenetv2", "efficientnetb0", "resnet50")
 
 def callbacks(path: Path):
     import tensorflow as tf
@@ -23,6 +23,9 @@ def callbacks(path: Path):
 
 def train_one(name: str, args) -> None:
     import tensorflow as tf
+    from src.dataset import load_datasets
+    from src.models import build_model, enable_fine_tuning
+
     set_seed(args.seed)
     train_data, val_data, test_data = load_datasets(args.data_dir, args.img_size, args.batch_size, args.seed)
     model_dir, result_dir = ARTIFACTS_DIR / name, RESULTS_DIR / name
@@ -76,7 +79,7 @@ def train_one(name: str, args) -> None:
 
 def parse_args():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--model", choices=[*BACKBONES, "all"], default="mobilenetv2")
+    parser.add_argument("--model", choices=[*MODEL_NAMES, "all"], default="mobilenetv2")
     parser.add_argument("--epochs", type=int, default=INITIAL_EPOCHS, help="Stage 1 epochs (default: 10)")
     parser.add_argument("--fine-tune-epochs", type=int, default=FINE_TUNE_EPOCHS)
     parser.add_argument("--unfreeze-last", type=int, default=30)
@@ -87,6 +90,8 @@ def parse_args():
     parser.add_argument("--seed", type=int, default=SEED)
     parser.add_argument("--data-dir", type=Path, default=PROCESSED_DATA_DIR)
     parser.add_argument("--weights", default="imagenet", choices=["imagenet", "none"])
+    parser.add_argument("--device", choices=["auto", "gpu", "cpu"], default="auto",
+                        help="Training device: auto selects GPU when available (default: auto)")
     parser.add_argument("--smoke-test", action="store_true",
                         help="Train only a few batches and create non-final history/plots")
     args = parser.parse_args(); args.weights = None if args.weights == "none" else args.weights
@@ -95,4 +100,11 @@ def parse_args():
 
 if __name__ == "__main__":
     arguments = parse_args()
-    for model_name in (BACKBONES if arguments.model == "all" else [arguments.model]): train_one(model_name, arguments)
+    from src.device import configure_device
+
+    try:
+        configure_device(arguments.device)
+    except RuntimeError as error:
+        raise SystemExit(f"ERROR: {error}") from error
+    for model_name in (MODEL_NAMES if arguments.model == "all" else [arguments.model]):
+        train_one(model_name, arguments)
