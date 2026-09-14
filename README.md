@@ -2,6 +2,19 @@
 
 Dataset ที่เตรียมไว้แล้วอยู่ใน Repository นี้ หลังจาก Clone และติดตั้ง Environment สามารถเริ่ม Train ได้ทันที **ไม่ต้องดาวน์โหลดหรือเตรียม Dataset เพิ่ม**
 
+## วิธี Train ด้วย GPU แบบง่ายที่สุด
+
+แนะนำให้ผู้เริ่มต้นใช้ Google Colab เพราะไม่ต้องติดตั้ง CUDA, cuDNN หรือ WSL2 เอง
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bluedabade/ML-Assignment/blob/main/notebooks/train_on_colab.ipynb)
+
+1. เปิด `notebooks/train_on_colab.ipynb` หรือกดปุ่ม **Open in Colab** ด้านบน
+2. ใน Colab เลือก `Runtime > Change runtime type > GPU`
+3. กด `Run all` หรือรันแต่ละ Cell ตามลำดับ
+4. เลือก Model และจำนวน Epoch ใน Cell ตั้งค่า แล้วเริ่ม Train
+
+Dataset ที่เตรียมไว้รวมอยู่ใน Repository แล้ว จึงไม่ต้องดาวน์โหลดหรือเตรียม Dataset เพิ่ม ส่วนการ Train บน Windows ด้วย CPU ยังใช้ขั้นตอนด้านล่างได้ตามเดิม สำหรับการใช้ NVIDIA GPU บนเครื่องผ่าน WSL2 ดูที่ [GPU_SETUP.md](GPU_SETUP.md)
+
 ## 1. Clone Repository
 
 ```bash
