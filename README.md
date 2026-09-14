@@ -1,6 +1,51 @@
-# Skin Condition Classification
+# Quick Start
 
-## Project Overview
+The prepared five-class dataset is already included in this repository. You do
+not need to download, audit, or prepare datasets before training.
+
+Windows PowerShell:
+
+```powershell
+git clone https://github.com/Bluedabade/ML-Assignment.git
+cd ML-Assignment
+
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+python check_environment.py
+
+python train.py --model mobilenetv2 --epochs 10
+```
+
+Train the other models and compare completed runs:
+
+```powershell
+python train.py --model efficientnetb0 --epochs 10
+python train.py --model resnet50 --epochs 10
+python compare_models.py
+```
+
+For a quick few-batch pipeline check without creating final metrics or a model
+comparison entry:
+
+```powershell
+python train.py --model mobilenetv2 --smoke-test
+```
+
+Beginners may also run a short complete one-epoch experiment first:
+
+```powershell
+python train.py --model mobilenetv2 --epochs 1
+```
+
+This verifies the complete training/evaluation path before a longer session,
+but its results are preliminary and should not be presented as final model
+performance.
+
+# Project Overview
 
 This university Machine Learning assignment builds a reproducible facial/skin image classifier with TensorFlow, Keras, and transfer learning. One input image receives one main class. The project compares MobileNetV2, EfficientNetB0, and ResNet50 under the same split, seed, augmentation policy, initial epochs, and evaluation metrics.
 
@@ -13,7 +58,7 @@ Dataset inspection -> Dataset preparation -> Train/Validation/Test split
 
 This is image classification, not object detection or segmentation. Results are educational and must not be treated as medical diagnoses.
 
-## Classes
+# Classes
 
 The model produces exactly five softmax probabilities in this saved order:
 
@@ -23,7 +68,7 @@ The model produces exactly five softmax probabilities in this saved order:
 4. `dark_spot`
 5. `large_pores`
 
-## Project Structure
+# Project Structure
 
 ```text
 ML-Assignment/
@@ -46,9 +91,40 @@ ML-Assignment/
 `-- reports/                          Audit, plots, metrics and comparisons
 ```
 
-## Dataset Sources / Dataset Layout
+# Dataset Sources / Dataset Layout
 
-Datasets are downloaded separately because image collections are too large for normal Git history. Place them here:
+The reviewed and deduplicated dataset used by the assignment is committed under
+`data/processed/`. A normal teammate workflow is simply:
+
+```text
+Clone -> Install requirements -> Train
+```
+
+Its fixed split is:
+
+```text
+data/processed/
+|-- train/<class>/
+|-- validation/<class>/
+`-- test/<class>/
+```
+
+| Class | Images |
+|---|---:|
+| normal | 1,195 |
+| wrinkle | 314 |
+| acne | 684 |
+| dark_spot | 230 |
+| large_pores | 27 |
+
+| Split | Images |
+|---|---:|
+| Train | 1,712 |
+| Validation | 366 |
+| Test | 372 |
+
+Raw datasets are not committed. They are needed only by developers who want to
+rebuild the processed snapshot. Place separately downloaded raw sources here:
 
 ```text
 data/raw/
@@ -57,11 +133,13 @@ data/raw/
 `-- roboflow_skin_problem_clean3/
 ```
 
-For compatibility, the scripts also recognize those exact folders at repository root. They inspect internal layout rather than assuming it. The current sources include folder-classification datasets and a Roboflow COCO object-detection export. Oily and dry are extra classes and are excluded. A COCO image is eligible only when all its annotations unambiguously map to one target.
+For compatibility, rebuild tools also recognize those exact folders at
+repository root. They inspect internal layout rather than assuming it. Dataset
+licenses and attribution are recorded in `DATASET_LICENSES.md`.
 
 Unknown labels, extra labels, multi-target images, conflicting duplicates, missing files, and unreadable images are never silently assigned. See `reports/excluded_images.csv`.
 
-## Known Dataset Limitation
+# Known Dataset Limitation
 
 Only **27 trustworthy `large_pores` images** remain after conservative filtering in the current audit, compared with 1,195 normal images. The prepared split contains only 18 training, 4 validation, and 5 test `large_pores` images.
 
@@ -69,7 +147,7 @@ This severe imbalance may produce unstable `large_pores` Recall/F1 and makes its
 
 Other limitations include differing source definitions, quality, framing, source bias, and conditions that co-occur on one face. Exact SHA-256 hashes find identical files, not resized or visually similar duplicates.
 
-## Setup
+# Setup
 
 Python 3.11 is recommended and was used with the validated TensorFlow 2.16.1 environment.
 
@@ -105,6 +183,16 @@ Optional helpers perform the same environment steps:
 
 ```bash
 sh setup.sh
+```
+
+# Development / Rebuild Workflow
+
+Normal training does **not** require the commands in this section. They are
+development tools for rebuilding the committed dataset from separately obtained
+raw sources:
+
+```text
+Raw datasets -> Audit -> Prepare -> Train
 ```
 
 ## Dataset Audit
@@ -144,7 +232,7 @@ python scripts/prepare_dataset.py --clean
 
 Preparation writes `reports/dataset_manifest.csv`, `reports/dataset_summary.json`, and `artifacts/class_names.json`. Exact duplicates are resolved before splitting, preventing cross-split leakage.
 
-## Training
+# Training
 
 Stage 1 freezes the ImageNet backbone. Stage 2 optionally unfreezes its last layers at a smaller learning rate. Validation is used each epoch; test remains unseen until final evaluation.
 
@@ -160,11 +248,12 @@ Useful overrides:
 python train.py --model mobilenetv2 --epochs 10 --batch-size 16 --learning-rate 0.001
 python train.py --model mobilenetv2 --fine-tune-epochs 5 --fine-tune-lr 0.00001 --unfreeze-last 30
 python train.py --model all --epochs 10
+python train.py --model mobilenetv2 --smoke-test
 ```
 
 Keras downloads ImageNet weights on first use. `--weights none` is only for offline constructor/smoke tests, not final assignment training.
 
-## Evaluation
+# Evaluation
 
 Training automatically evaluates the best checkpoint once on held-out test data. To repeat evaluation:
 
@@ -176,7 +265,7 @@ python evaluate.py --model resnet50
 
 Evaluation saves test loss/accuracy, per-class Precision/Recall/F1, macro Precision/Recall/F1, weighted F1, a classification report, and a confusion matrix.
 
-## Model Comparison
+# Model Comparison
 
 ```bash
 python compare_models.py
@@ -184,7 +273,7 @@ python compare_models.py
 
 Only models with completed `run_summary.json` files are included; missing and smoke-only runs are skipped. No results are invented. The table includes Model, Accuracy, Precision, Recall, F1-score, parameters, and training time. Selection is validation-led rather than based on test accuracy alone.
 
-## Predicting an Image
+# Predicting an Image
 
 After training:
 
@@ -200,7 +289,7 @@ python predict.py --model artifacts/mobilenetv2/best_model.keras --image path/to
 
 The command loads `artifacts/class_names.json`, prints all five probabilities, and identifies the predicted class and confidence.
 
-## Output Files
+# Output Files
 
 ```text
 artifacts/class_names.json
@@ -218,7 +307,7 @@ reports/results/model_comparison.csv
 
 Model result files appear only after real training/evaluation. No final metrics are included unless a full run actually completed.
 
-## Training Accuracy/Loss Graphs
+# Training Accuracy/Loss Graphs
 
 Each completed run produces:
 
@@ -227,7 +316,7 @@ Each completed run produces:
 
 A dashed line marks fine-tuning when enabled. A vertically stacked combined figure is also saved. Test data is never used for epoch curves.
 
-## CPU / GPU
+# CPU / GPU
 
 Training works on CPU but is slower, especially for ResNet50. No GPU is hardcoded. Check availability with:
 
@@ -241,7 +330,7 @@ GPU setup varies by OS, hardware, drivers, and TensorFlow version. Modern Window
 
 `notebooks/skin_transfer_learning.ipynb` mirrors the presentation in numbered beginner-friendly sections. It uses repository-relative paths and works in local Jupyter, VS Code, or Colab after cloning.
 
-## Troubleshooting
+# Troubleshooting
 
 - **PowerShell blocks activation:** run `Set-ExecutionPolicy -Scope Process RemoteSigned`, then activate again.
 - **TensorFlow import error:** confirm Python 3.11, activate `.venv`, and run `pip install -r requirements.txt`.

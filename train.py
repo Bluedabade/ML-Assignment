@@ -30,6 +30,19 @@ def train_one(name: str, args) -> None:
     checkpoint = model_dir / "best_model.keras"
     model, backbone = build_model(name, args.img_size, weights=args.weights,
                                   learning_rate=args.learning_rate)
+    if args.smoke_test:
+        print(f"\nSMOKE TEST ({name}): two training batches, one validation batch")
+        started = time.perf_counter()
+        smoke = model.fit(train_data.take(2), validation_data=val_data.take(1), epochs=1)
+        smoke_dir = RESULTS_DIR / "smoke_test" / name
+        smoke_history = {key: list(values) for key, values in smoke.history.items()}
+        save_json(smoke_dir / "history.json", smoke_history)
+        plot_history(smoke_history, smoke_dir / "training_history.png",
+                     accuracy_output=PLOTS_DIR / f"{name}_smoke_accuracy.png",
+                     loss_output=PLOTS_DIR / f"{name}_smoke_loss.png")
+        print(f"Smoke test passed in {time.perf_counter() - started:.1f}s.")
+        print("No checkpoint, test metrics, or comparable run_summary.json was created.")
+        return
     training_callbacks = callbacks(checkpoint)
     print(f"\nSTAGE 1 - TRANSFER LEARNING ({name}, frozen backbone)")
     started = time.perf_counter()
@@ -74,6 +87,8 @@ def parse_args():
     parser.add_argument("--seed", type=int, default=SEED)
     parser.add_argument("--data-dir", type=Path, default=PROCESSED_DATA_DIR)
     parser.add_argument("--weights", default="imagenet", choices=["imagenet", "none"])
+    parser.add_argument("--smoke-test", action="store_true",
+                        help="Train only a few batches and create non-final history/plots")
     args = parser.parse_args(); args.weights = None if args.weights == "none" else args.weights
     if args.epochs < 1 or args.fine_tune_epochs < 0: parser.error("Epoch counts must be positive (fine tuning may be 0).")
     return args

@@ -6,7 +6,7 @@
     "dark_spot": 161,
     "large_pores": 18
   },
-  "val": {
+  "validation": {
     "normal": 179,
     "wrinkle": 47,
     "acne": 102,

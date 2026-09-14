@@ -9,11 +9,9 @@ Thumbs.db
 *.key
 kaggle.json
 
-# Large source and generated datasets
+# Raw source datasets remain local. The reviewed processed snapshot is versioned.
 data/raw/*
 !data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
 kaggle_acne_wrinkle_spots/
 kaggle_oily_dry_normal/
 roboflow_skin_problem_clean3/
@@ -26,5 +24,7 @@ tensorboard/
 *.tfevents.*
 .keras/
 *.log
+reports/results/smoke_test/
+reports/plots/*_smoke_*.png
 .pytest_cache/
 .mypy_cache/

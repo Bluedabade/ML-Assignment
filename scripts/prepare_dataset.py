@@ -14,11 +14,13 @@ sys.path.insert(0, str(ROOT)); sys.path.insert(0, str(Path(__file__).resolve().p
 from audit_dataset import run_audit
 from config import CLASS_NAMES, PROCESSED_DATA_DIR, REPORTS_DIR, SEED
 from src.utils import save_json
+from PIL import Image
 
 def split_class(records: list[dict], seed: int):
     items = records[:]; random.Random(seed).shuffle(items); n = len(items)
     n_train = int(n * .70); n_val = int(n * .15)
-    return {"train": items[:n_train], "val": items[n_train:n_train+n_val], "test": items[n_train+n_val:]}
+    return {"train": items[:n_train], "validation": items[n_train:n_train+n_val],
+            "test": items[n_train+n_val:]}
 
 def main(output: Path, seed: int, clean: bool, validate_only: bool = False) -> None:
     eligible, _, summary = run_audit(make_plot=True)
@@ -37,7 +39,7 @@ def main(output: Path, seed: int, clean: bool, validate_only: bool = False) -> N
         if root not in resolved.parents: raise SystemExit(f"Refusing to clean outside repository: {resolved}")
         # Empty generated children while keeping the tracked directory itself.
         for child in resolved.iterdir():
-            if child.name == ".gitkeep":
+            if child.name in {".gitkeep", "README.md"}:
                 continue
             if child.is_dir(): shutil.rmtree(child)
             else: child.unlink()
@@ -51,7 +53,17 @@ def main(output: Path, seed: int, clean: bool, validate_only: bool = False) -> N
             for index, row in enumerate(rows):
                 source = ROOT / row["file"]
                 destination = destination_dir / f"{row['sha256'][:16]}_{index:05d}{source.suffix.lower()}"
-                shutil.copy2(source, destination)
+                with Image.open(source) as image:
+                    source_format = image.format
+                    if source_format in {"JPEG", "PNG", "GIF", "BMP"}:
+                        shutil.copy2(source, destination)
+                    else:
+                        # TensorFlow's standard directory loader cannot decode
+                        # formats such as WebP, even when Pillow can. Re-encode
+                        # at high JPEG quality while preserving split/class.
+                        destination = destination.with_suffix(".jpg")
+                        image.convert("RGB").save(destination, format="JPEG",
+                                                  quality=95, optimize=True)
                 manifest.append({**row, "split": split,
                                  "processed_file": destination.resolve().relative_to(ROOT.resolve()).as_posix()})
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
@@ -59,7 +71,8 @@ def main(output: Path, seed: int, clean: bool, validate_only: bool = False) -> N
     with (REPORTS_DIR / "dataset_manifest.csv").open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fields); writer.writeheader(); writer.writerows(manifest)
     counts = Counter((r["split"], r["target_class"]) for r in manifest)
-    dataset_summary = {split: {c: counts[(split,c)] for c in CLASS_NAMES} for split in ("train","val","test")}
+    dataset_summary = {split: {c: counts[(split,c)] for c in CLASS_NAMES}
+                       for split in ("train", "validation", "test")}
     save_json(REPORTS_DIR / "dataset_summary.json", dataset_summary)
     save_json(ROOT / "artifacts" / "class_names.json", CLASS_NAMES)
     print("\nPREPARED DATASET (70/15/15 per class)")
