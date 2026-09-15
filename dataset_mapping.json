@@ -1,0 +1,35 @@
+{
+  "target_classes": [
+    "normal",
+    "wrinkle",
+    "acne",
+    "dark_spot",
+    "large_pore"
+  ],
+  "folder_class_map": {
+    "normal": "normal",
+    "wrinkle": "wrinkle",
+    "wrinkles": "wrinkle",
+    "acne": "acne",
+    "spots": "dark_spot",
+    "dark spot": "dark_spot",
+    "dark spots": "dark_spot",
+    "dark_spot": "dark_spot",
+    "large pore": "large_pore",
+    "large pores": "large_pore",
+    "large_pore": "large_pore",
+    "large_pores": "large_pore"
+  },
+  "coco_class_map": {
+    "Acne": "acne",
+    "Wrinkles": "wrinkle",
+    "Dark-Spots": "dark_spot",
+    "Englarged-Pores": "large_pore"
+  },
+  "split": {
+    "training": 0.7,
+    "validation": 0.15,
+    "testing": 0.15
+  },
+  "seed": 42
+}

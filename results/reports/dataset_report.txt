@@ -1,0 +1,14 @@
+DATASET MAPPING REPORT
+============================================================
+Eligible images: 2450
+Excluded images: 3673
+Duplicates: 119
+Corrupted: 0
+
+Prepared counts:
+training_set: {'normal': 836, 'wrinkle': 219, 'acne': 478, 'dark_spot': 161, 'large_pore': 18} total=1712
+val_set: {'normal': 179, 'wrinkle': 47, 'acne': 102, 'dark_spot': 34, 'large_pore': 4} total=366
+test_set: {'normal': 180, 'wrinkle': 48, 'acne': 104, 'dark_spot': 35, 'large_pore': 5} total=372
+
+รายละเอียดราย source/original class: results/reports/dataset_audit.json
+รายการที่ไม่ map: results/reports/excluded_images.csv

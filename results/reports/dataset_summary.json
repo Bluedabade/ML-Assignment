@@ -1,0 +1,23 @@
+{
+  "training_set": {
+    "normal": 836,
+    "wrinkle": 219,
+    "acne": 478,
+    "dark_spot": 161,
+    "large_pore": 18
+  },
+  "val_set": {
+    "normal": 179,
+    "wrinkle": 47,
+    "acne": 102,
+    "dark_spot": 34,
+    "large_pore": 4
+  },
+  "test_set": {
+    "normal": 180,
+    "wrinkle": 48,
+    "acne": 104,
+    "dark_spot": 35,
+    "large_pore": 5
+  }
+}

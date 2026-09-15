@@ -9,16 +9,12 @@ Thumbs.db
 *.key
 kaggle.json
 
-# Raw source datasets remain local. The reviewed processed snapshot is versioned.
-data/raw/*
-!data/raw/.gitkeep
-kaggle_acne_wrinkle_spots/
-kaggle_oily_dry_normal/
-roboflow_skin_problem_clean3/
+# Dataset images are tracked; only large packaging archives are ignored.
+*.zip
 
 # Trained weights and logs
-artifacts/**/*.keras
-artifacts/**/*.h5
+models/*.keras
+models/*.h5
 logs/
 tensorboard/
 *.tfevents.*

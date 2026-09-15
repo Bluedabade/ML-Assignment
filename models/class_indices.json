@@ -1,0 +1,7 @@
+{
+  "normal": 0,
+  "wrinkle": 1,
+  "acne": 2,
+  "dark_spot": 3,
+  "large_pore": 4
+}

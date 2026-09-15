@@ -1,0 +1,424 @@
+{
+  "target_order": [
+    "normal",
+    "wrinkle",
+    "acne",
+    "dark_spot",
+    "large_pore"
+  ],
+  "eligible_by_target": {
+    "normal": 1195,
+    "wrinkle": 314,
+    "acne": 684,
+    "dark_spot": 230,
+    "large_pore": 27
+  },
+  "eligible_total": 2450,
+  "excluded_total": 3673,
+  "exclusion_summary": {
+    "extra_or_unmapped_labels": 3317,
+    "multiple_target_classes": 221,
+    "other": 9,
+    "exact_duplicates": 119,
+    "conflicting_duplicates": 7,
+    "corrupted_or_unreadable": 0
+  },
+  "sources": [
+    {
+      "source": "kaggle_acne_wrinkle_spots",
+      "path": "dataset/raw/kaggle_acne_wrinkle_spots",
+      "format": "folder classification",
+      "images": 600,
+      "coco_json": 0,
+      "yolo_yaml": 0,
+      "annotation_txt": 0,
+      "extensions": {
+        ".png": 598,
+        ".jpg": 2
+      },
+      "original_classes": {
+        "acne": 200,
+        "spots": 200,
+        "wrinkles": 200
+      }
+    },
+    {
+      "source": "kaggle_oily_dry_normal",
+      "path": "dataset/raw/kaggle_oily_dry_normal",
+      "format": "folder classification",
+      "images": 3152,
+      "coco_json": 0,
+      "yolo_yaml": 0,
+      "annotation_txt": 0,
+      "extensions": {
+        ".jpg": 3152
+      },
+      "original_classes": {
+        "dry": 758,
+        "normal": 1274,
+        "oily": 1120
+      }
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "path": "dataset/raw/roboflow_skin_problem_clean3",
+      "format": "COCO object detection",
+      "images": 2371,
+      "coco_json": 3,
+      "yolo_yaml": 0,
+      "annotation_txt": 0,
+      "extensions": {
+        ".jpg": 2371
+      },
+      "original_classes": {
+        "Acne": {
+          "annotations": 9657,
+          "images": 1165
+        },
+        "Blackheads": {
+          "annotations": 577,
+          "images": 283
+        },
+        "Dark-Spots": {
+          "annotations": 91,
+          "images": 53
+        },
+        "Dry-Skin": {
+          "annotations": 1844,
+          "images": 551
+        },
+        "Englarged-Pores": {
+          "annotations": 594,
+          "images": 299
+        },
+        "Eyebags": {
+          "annotations": 428,
+          "images": 230
+        },
+        "Oily-Skin": {
+          "annotations": 710,
+          "images": 250
+        },
+        "Skin-Redness": {
+          "annotations": 100,
+          "images": 55
+        },
+        "Whiteheads": {
+          "annotations": 584,
+          "images": 172
+        },
+        "Wrinkles": {
+          "annotations": 1960,
+          "images": 257
+        }
+      }
+    }
+  ],
+  "original_label_distribution": [
+    {
+      "source": "kaggle_acne_wrinkle_spots",
+      "label": "acne",
+      "count": 200
+    },
+    {
+      "source": "kaggle_acne_wrinkle_spots",
+      "label": "spots",
+      "count": 200
+    },
+    {
+      "source": "kaggle_acne_wrinkle_spots",
+      "label": "wrinkles",
+      "count": 200
+    },
+    {
+      "source": "kaggle_oily_dry_normal",
+      "label": "dry",
+      "count": 758
+    },
+    {
+      "source": "kaggle_oily_dry_normal",
+      "label": "normal",
+      "count": 1274
+    },
+    {
+      "source": "kaggle_oily_dry_normal",
+      "label": "oily",
+      "count": 1120
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "",
+      "count": 9
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne",
+      "count": 502
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads",
+      "count": 124
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Dark-Spots",
+      "count": 5
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Dark-Spots|Whiteheads",
+      "count": 4
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Dry-Skin|Englarged-Pores",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Englarged-Pores",
+      "count": 18
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Englarged-Pores|Eyebags",
+      "count": 5
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Englarged-Pores|Eyebags|Wrinkles",
+      "count": 2
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Englarged-Pores|Wrinkles",
+      "count": 2
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Eyebags",
+      "count": 10
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Eyebags|Wrinkles",
+      "count": 2
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Oily-Skin",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Whiteheads",
+      "count": 57
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Blackheads|Wrinkles",
+      "count": 4
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Dark-Spots",
+      "count": 5
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Dark-Spots|Whiteheads",
+      "count": 2
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Dry-Skin",
+      "count": 7
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Dry-Skin|Englarged-Pores",
+      "count": 5
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Dry-Skin|Englarged-Pores|Eyebags",
+      "count": 3
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Dry-Skin|Wrinkles",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Englarged-Pores",
+      "count": 135
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Englarged-Pores|Eyebags",
+      "count": 22
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Englarged-Pores|Eyebags|Wrinkles",
+      "count": 12
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Englarged-Pores|Oily-Skin",
+      "count": 5
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Englarged-Pores|Wrinkles",
+      "count": 35
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Eyebags",
+      "count": 35
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Eyebags|Wrinkles",
+      "count": 9
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Oily-Skin",
+      "count": 26
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Whiteheads",
+      "count": 88
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Acne|Wrinkles",
+      "count": 38
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Blackheads",
+      "count": 30
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Blackheads|Englarged-Pores|Wrinkles",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Blackheads|Eyebags",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Blackheads|Eyebags|Wrinkles",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Blackheads|Oily-Skin",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Blackheads|Whiteheads",
+      "count": 13
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Blackheads|Wrinkles",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Dark-Spots",
+      "count": 37
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Dry-Skin",
+      "count": 530
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Dry-Skin|Englarged-Pores",
+      "count": 2
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Dry-Skin|Eyebags|Wrinkles",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Dry-Skin|Wrinkles",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Englarged-Pores",
+      "count": 27
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Englarged-Pores|Eyebags",
+      "count": 4
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Englarged-Pores|Eyebags|Wrinkles",
+      "count": 2
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Englarged-Pores|Oily-Skin",
+      "count": 10
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Englarged-Pores|Wrinkles",
+      "count": 8
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Eyebags",
+      "count": 120
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Eyebags|Wrinkles",
+      "count": 1
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Oily-Skin",
+      "count": 207
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Skin-Redness",
+      "count": 55
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Whiteheads",
+      "count": 8
+    },
+    {
+      "source": "roboflow_skin_problem_clean3",
+      "label": "Wrinkles",
+      "count": 136
+    }
+  ],
+  "warnings": [
+    "COCO images are accepted only when all annotations map to one target class.",
+    "Exact byte hashes detect exact duplicates, not visually similar images.",
+    "Labels from different sources may have different definitions and source bias."
+  ]
+}

@@ -19,8 +19,8 @@ from PIL import Image
 def split_class(records: list[dict], seed: int):
     items = records[:]; random.Random(seed).shuffle(items); n = len(items)
     n_train = int(n * .70); n_val = int(n * .15)
-    return {"train": items[:n_train], "validation": items[n_train:n_train+n_val],
-            "test": items[n_train+n_val:]}
+    return {"training_set": items[:n_train], "val_set": items[n_train:n_train+n_val],
+            "test_set": items[n_train+n_val:]}
 
 def main(output: Path, seed: int, clean: bool, validate_only: bool = False) -> None:
     eligible, _, summary = run_audit(make_plot=True)
@@ -72,9 +72,22 @@ def main(output: Path, seed: int, clean: bool, validate_only: bool = False) -> N
         writer = csv.DictWriter(handle, fields); writer.writeheader(); writer.writerows(manifest)
     counts = Counter((r["split"], r["target_class"]) for r in manifest)
     dataset_summary = {split: {c: counts[(split,c)] for c in CLASS_NAMES}
-                       for split in ("train", "validation", "test")}
+                       for split in ("training_set", "val_set", "test_set")}
     save_json(REPORTS_DIR / "dataset_summary.json", dataset_summary)
-    save_json(ROOT / "artifacts" / "class_names.json", CLASS_NAMES)
+    save_json(ROOT / "models" / "class_names.json", CLASS_NAMES)
+    # JSON mapping ช่วยตรวจย้อนหลังว่า label เดิมถูกใช้หรือไม่
+    mapping = {"target_classes": CLASS_NAMES, "folder_class_map": __import__("config").FOLDER_CLASS_MAP,
+               "coco_class_map": __import__("config").COCO_CLASS_MAP,
+               "split": {"training": 0.70, "validation": 0.15, "testing": 0.15}, "seed": seed}
+    save_json(ROOT / "dataset_mapping.json", mapping)
+    report = ["DATASET MAPPING REPORT", "=" * 60,
+              f"Eligible images: {summary['eligible_total']}", f"Excluded images: {summary['excluded_total']}",
+              f"Duplicates: {summary['exclusion_summary']['exact_duplicates']}",
+              f"Corrupted: {summary['exclusion_summary']['corrupted_or_unreadable']}", "", "Prepared counts:"]
+    report += [f"{split}: {values} total={sum(values.values())}" for split, values in dataset_summary.items()]
+    report += ["", "รายละเอียดราย source/original class: results/reports/dataset_audit.json",
+               "รายการที่ไม่ map: results/reports/excluded_images.csv"]
+    (REPORTS_DIR / "dataset_report.txt").write_text("\n".join(report), encoding="utf-8")
     print("\nPREPARED DATASET (70/15/15 per class)")
     for split, values in dataset_summary.items(): print(f"{split:5}: {values} (total={sum(values.values())})")
 
