@@ -1,0 +1,25 @@
+canonical_classes:
+  0: acne
+  1: wrinkle
+  2: dark_spot
+  3: enlarged_pore
+
+approved_source_mapping:
+  Acne: acne
+  Wrinkles: wrinkle
+  Dark-Spots: dark_spot
+  Englarged-Pores: enlarged_pore
+
+excluded_source_classes:
+  - Acne-Blackhead-Wrinkles-f6HR-vJCz-Vyox
+  - Blackheads
+  - Whiteheads
+  - Dry-Skin
+  - Oily-Skin
+  - Eyebags
+  - Skin-Redness
+
+normal_skin:
+  included_in_draft: false
+  reason: No real normal-skin bounding-box annotations are available.
+

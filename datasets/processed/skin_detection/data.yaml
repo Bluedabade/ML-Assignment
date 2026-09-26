@@ -1,0 +1,10 @@
+# Paths are relative to this data.yaml file.
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: acne
+  1: wrinkle
+  2: dark_spot
+  3: enlarged_pore
