@@ -1,116 +1,196 @@
-# Facial Skin Condition Object Detection
+# Skin Detection - ML Assignment
 
-Student Machine Learning / Computer Vision assignment for detecting facial skin
-conditions with bounding boxes, class names, and confidence scores.
+โปรเจกต์นี้ใช้ YOLO ตรวจจับปัญหาผิว 4 คลาส: `0 acne`, `1 wrinkle`, `2 dark_spot` และ `3 enlarged_pore` โดย `normal_skin` ยังไม่อยู่ในการฝึก detection ปัจจุบัน
 
-The September 30 draft is deliberately a **four-class object detector**:
+## 1. Clone Project
 
-| ID | Class |
-|---:|---|
-| 0 | `acne` |
-| 1 | `wrinkle` |
-| 2 | `dark_spot` |
-| 3 | `enlarged_pore` |
-
-`normal_skin` is future work. The available data has no real normal-skin bounding
-boxes, so this repository does not fabricate full-face or classification-derived
-boxes.
-
-## Data sources
-
-- `datasets/raw/roboflow_skin_problem_clean3/`: COCO object-detection source used
-  for the draft derived dataset.
-- `datasets/raw/kaggle_acne_wrinkle_spots/`: classification only; not used for
-  draft detection training.
-- `datasets/raw/kaggle_oily_dry_normal/`: classification only; not used for draft
-  detection training.
-
-Everything under `datasets/raw/` is immutable. Derived YOLO data is generated at
-`datasets/processed/skin_detection/`.
-
-The instructor workflow is preserved in
-`reference/chapter 8_2 YoLo Dog Breeds.ipynb`. The reference file must not be
-edited. The student-facing notebook uses relative paths and follows the same
-setup, preparation, evaluation, comparison, and inference progression.
-
-## Repository layout
-
-```text
-configs/       class mapping and future YOLO11n/YOLO11s run settings
-datasets/raw/  immutable source datasets
-datasets/processed/skin_detection/  reproducible derived YOLO dataset
-docs/          annotation policy and preparation report
-notebooks/     guided draft notebook
-reference/     instructor notebook (read-only)
-results/       generated visual checks and future training outputs
-scripts/       preparation, validation, and visualization tools
+```powershell
+git clone https://github.com/Bluedabade/ML-Assignment.git
+cd ML-Assignment
 ```
 
-## Setup after cloning
+คำสั่งทั้งหมดด้านล่างให้รันจากโฟลเดอร์หลักของ repository (`ML-Assignment`)
 
-PowerShell:
+## 2. Create Python Virtual Environment
+
+โปรเจกต์ทดสอบด้วย **Python 3.11** ตรวจเวอร์ชันด้วย `python --version` แล้วสร้าง environment แยกสำหรับ dependencies ของโปรเจกต์
+
+Windows PowerShell:
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
+```
+
+เมื่อเปิดใช้งานสำเร็จ terminal จะมี `(.venv)` อยู่หน้าบรรทัด ให้ activate ทุกครั้งที่เปิด terminal ใหม่
+
+ตรวจว่าใช้ Python ใน `.venv` จริง:
+
+```powershell
+where.exe python
+python -c "import sys; print(sys.executable)"
+```
+
+ผลแรกของ `where.exe python` และค่า `sys.executable` ควรเป็น path เช่น `D:\Projects\ML-Assignment\.venv\Scripts\python.exe` (ขึ้นกับตำแหน่งที่ clone) หากไม่ได้ชี้เข้า `.venv` ให้ activate ก่อนติดตั้ง dependencies หรือเช็ก CUDA
+
+หาก PowerShell บล็อกการ activate ให้รันคำสั่งนี้ แล้ว activate อีกครั้ง:
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\.venv\Scripts\Activate.ps1
+```
+
+## 3. Install Dependencies
+
+รันใน terminal ที่ activate `.venv` แล้ว:
+
+```powershell
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-macOS/Linux:
+`requirements.txt` ไม่ระบุ `torch`, `torchvision` หรือ `torchaudio` โดยตรง และไม่ได้กำหนด CUDA build จึงต้องตรวจ PyTorch ใน `.venv` ตามข้อถัดไปหลังติดตั้ง
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
+## 4. GPU / CUDA Check
+
+แนะนำให้ใช้ NVIDIA GPU สำหรับ training ตรวจว่าเครื่องเห็น GPU ด้วย:
+
+การฝึก YOLO11n และ YOLO11s ที่เสร็จแล้วใช้ Python 3.11.9, PyTorch 2.14.0+cu130 และ NVIDIA GeForce GTX 1650 Ti โดย `CUDA: True` สมาชิกแต่ละคนต้องตรวจ installation ของเครื่องตัวเอง:
+
+```powershell
+nvidia-smi
 ```
 
-## Prepare and inspect the dataset
+จากนั้นตรวจว่า PyTorch ใน `.venv` ใช้ CUDA ได้:
 
-Run from the repository root:
+```powershell
+python -c "import torch; print('PyTorch:', torch.__version__); print('CUDA:', torch.cuda.is_available()); print('GPU:', torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'CPU')"
+```
 
-```bash
+ตัวอย่างเมื่อพร้อมใช้ GPU:
+
+```text
+CUDA: True
+GPU: NVIDIA ...
+```
+
+หาก `CUDA: False` ให้ยืนยันก่อนว่า `.venv` active และ `python` ชี้เข้า `.venv` ตามข้อ 2 หากยังเป็น False อาจใช้ PyTorch แบบ CPU-only ให้ติดตั้ง CUDA-enabled PyTorch build ที่เหมาะกับเครื่องตาม [คำแนะนำทางการของ PyTorch](https://pytorch.org/get-started/locally/) หรือถามเจ้าของโปรเจกต์ คำสั่ง training ด้านล่างใช้ `device=0` จึงต้องมี CUDA พร้อม
+
+## 5. Dataset
+
+YOLO dataset ที่เตรียมแล้วอยู่ที่ `datasets/processed/skin_detection/` และใช้ไฟล์ `datasets/processed/skin_detection/data.yaml`
+
+หาก processed dataset มีครบหลัง clone **ไม่ต้องสร้างใหม่** และห้ามแก้ไฟล์ใน `datasets/raw/`
+
+สร้างใหม่เฉพาะเมื่อต้องการ regeneration:
+
+```powershell
 python scripts/prepare_detection_dataset.py
+```
+
+ตรวจ dataset ก่อน training:
+
+```powershell
 python scripts/validate_dataset.py
+```
+
+ควรได้ `PASS` หากได้ `FAIL` ให้แก้สาเหตุหรือแจ้งเจ้าของโปรเจกต์ก่อนเริ่ม training
+
+## 6. Optional: Check Bounding Boxes
+
+```powershell
 python scripts/visualize_annotations.py
 ```
 
-Preparation is deterministic (`seed = 42`), converts only approved COCO classes,
-clips out-of-bound boxes in the derived copy, removes exact duplicate leakage,
-and retains documented negative examples. See
-`docs/ANNOTATION_POLICY.md` and `docs/DATA_PREPARATION_REPORT.md`.
+เปิด preview images ใน `results/annotation_samples/` เพื่อตรวจตำแหน่ง bounding boxes ก่อน training
 
-## Draft Model Results (completed Phase 3)
+## 7. Smoke Test Before Full Training
 
-These are preliminary Draft test results from the completed 30-epoch experiments.
+แนะนำให้ทดสอบ YOLO11n แบบสั้นก่อน:
 
-| Model | Precision | Recall | mAP50 | mAP50-95 | Parameters | Training hours | best.pt (approx.) |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| YOLO11n | 0.386 | 0.130 | 0.0860 | 0.0242 | 2,582,932 | 0.506 | 5.5 MB |
-| YOLO11s | 0.404 | 0.112 | 0.0837 | 0.0230 | 9,414,348 | 0.939 | 19.2 MB |
+```powershell
+yolo detect train model=yolo11n.pt data=datasets/processed/skin_detection/data.yaml epochs=2 imgsz=640 batch=2 device=0 workers=2 seed=42 project=results/smoke_test name=yolo11n_test
+```
 
-YOLO11s had higher test Precision. YOLO11n had higher test Recall and slightly
-higher test mAP50 and mAP50-95. YOLO11n is smaller and trained faster in this
-experiment. These observations do not establish that either model is universally
-better.
+`epochs=2` คือทดสอบเพียง 2 รอบ และ `device=0` คือ NVIDIA GPU หมายเลข 0 หากเกิด `CUDA out of memory` ให้ลอง `batch=1`
 
-Training artifacts, including best/last weights, curves, results, predictions,
-and run settings, are preserved under `runs/detect/results/training/yolo11n/`
-and `runs/detect/results/training/yolo11s/`. Test artifacts are under
-`runs/detect/results/evaluation/yolo11n_test/` and `yolo11s_test/`.
-Smoke-test artifacts are also retained under `runs/detect/results/smoke_test/`.
-The saved training `args.yaml` files record 30 epochs; the current editable
-`configs/yolo11n.yaml` has 2 epochs and is preserved unchanged in this checkpoint.
+## 8. Train YOLO11n
 
-Known limitations remain: severe class imbalance, very few dark_spot objects,
-currently poor wrinkle performance, and many negative images produced by filtering
-excluded source classes. The Draft remains four classes (0 acne, 1 wrinkle,
-2 dark_spot, 3 enlarged_pore); normal_skin is excluded from detection training.
-Raw datasets must remain unchanged. Phase 4 has not started.
+ใช้ settings เดียวกับการทดลองของโปรเจกต์:
 
-## Training workflow reference
+คำสั่งนี้อ้างอิง `args.yaml` ของ run ที่เสร็จแล้ว ไม่ใช่ค่าปัจจุบันใน `configs/` ซึ่งมี epochs/batch ต่างกัน
 
-The editable configurations are `configs/yolo11n.yaml` and `configs/yolo11s.yaml`.
-For the settings actually used in completed experiments, consult each saved
-training `args.yaml`. No training or Phase 4 work was run for this checkpoint.
+```powershell
+yolo detect train model=yolo11n.pt data=datasets/processed/skin_detection/data.yaml epochs=30 imgsz=640 batch=4 device=0 workers=2 optimizer=AdamW lr0=0.001 lrf=0.01 momentum=0.937 weight_decay=0.0005 mosaic=1.0 mixup=0.2 degrees=10.0 fliplr=0.5 patience=15 seed=42 project=results/training name=yolo11n
+```
+
+Training ใช้เวลาตามความเร็ว GPU หากเกิด `CUDA out of memory` ให้เปลี่ยน `batch=4` เป็น `batch=2` หรือ `batch=1`
+
+## 9. Train YOLO11s
+
+```powershell
+yolo detect train model=yolo11s.pt data=datasets/processed/skin_detection/data.yaml epochs=30 imgsz=640 batch=4 device=0 workers=2 optimizer=AdamW lr0=0.001 lrf=0.01 momentum=0.937 weight_decay=0.0005 mosaic=1.0 mixup=0.2 degrees=10.0 fliplr=0.5 patience=15 seed=42 project=results/training name=yolo11s
+```
+
+YOLO11s ใหญ่กว่า YOLO11n จึงใช้ GPU memory และเวลามากกว่า หากเกิด CUDA OOM ให้ลด batch size เป็น 2 หรือ 1
+
+## 10. Training Output
+
+เครื่องปัจจุบันใช้ Ultralytics 8.4.166 โดย `runs_dir` ชี้ไปที่โฟลเดอร์ `runs/` ของ repository เมื่อ `project=results/training` เป็น relative path ระบบจะต่อเป็น `runs/detect/results/training/` ผลทดลองที่เสร็จแล้วอยู่ที่:
+
+```text
+runs/detect/results/training/yolo11n/
+runs/detect/results/training/yolo11s/
+```
+
+ไฟล์สำคัญในแต่ละโฟลเดอร์:
+
+- `weights/best.pt`: checkpoint ที่เลือกจาก validation performance
+- `weights/last.pt`: checkpoint จาก epoch สุดท้าย
+- `results.csv`: ผลแต่ละ epoch
+- `results.png`: กราฟ training
+- `confusion_matrix.png`: confusion matrix
+
+ให้ดูบรรทัด `Results saved to ...` หลังรัน เพื่อดูตำแหน่ง output จริง เพราะ path อาจต่างกันตาม Ultralytics version/settings และอาจเติมเลขท้ายชื่อเมื่อโฟลเดอร์เดิมมีอยู่แล้ว ให้แทน checkpoint path ในคำสั่งด้านล่างด้วย path ของ run ที่ต้องการ
+
+## 11. Test the Trained Model
+
+YOLO11n:
+
+```powershell
+yolo detect val model="runs/detect/results/training/yolo11n/weights/best.pt" data="datasets/processed/skin_detection/data.yaml" split=test imgsz=640 batch=4 device=0 workers=2 project=results/evaluation name=yolo11n_test
+```
+
+YOLO11s:
+
+```powershell
+yolo detect val model="runs/detect/results/training/yolo11s/weights/best.pt" data="datasets/processed/skin_detection/data.yaml" split=test imgsz=640 batch=4 device=0 workers=2 project=results/evaluation name=yolo11s_test
+```
+
+ผลที่แสดงมี Precision, Recall, mAP50 และ mAP50-95 ใช้ Test set หลังเลือกโมเดลจาก Validation แล้ว
+
+## 12. Predict Images
+
+ตัวอย่าง YOLO11n:
+
+```powershell
+yolo detect predict model="runs/detect/results/training/yolo11n/weights/best.pt" source="datasets/processed/skin_detection/images/test" conf=0.25 imgsz=640 device=0 project=results/predictions name=yolo11n_test
+```
+
+คำสั่งนี้สร้างภาพพร้อม predicted bounding boxes
+
+ผลปัจจุบันยังเป็น Draft: คลาสไม่สมดุลมาก, dark_spot มี objects น้อย, wrinkle ยังทำได้ไม่ดี และมี negative images จำนวนมากจากการกรองคลาสที่ไม่ใช้ รายละเอียดอยู่ใน `docs/DATA_PREPARATION_REPORT.md`
+
+## 13. Quick Start
+
+สำหรับเครื่องที่มี Python 3.11 และ CUDA พร้อมแล้ว ให้ตรวจ PyTorch CUDA ใน `.venv` ตามข้อ 4 ก่อน training:
+
+```powershell
+git clone https://github.com/Bluedabade/ML-Assignment.git
+cd ML-Assignment
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python scripts/validate_dataset.py
+yolo detect train model=yolo11n.pt data=datasets/processed/skin_detection/data.yaml epochs=30 imgsz=640 batch=4 device=0 workers=2 optimizer=AdamW lr0=0.001 lrf=0.01 momentum=0.937 weight_decay=0.0005 mosaic=1.0 mixup=0.2 degrees=10.0 fliplr=0.5 patience=15 seed=42 project=results/training name=yolo11n
+```
