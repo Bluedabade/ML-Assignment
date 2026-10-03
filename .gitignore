@@ -17,8 +17,18 @@ Thumbs.db
 *.pt
 *.onnx
 runs/
+!runs/
+runs/*
+!runs/detect/
+runs/detect/*
+!runs/detect/results/
+!runs/detect/results/**/*.pt
 results/training/
 
 # Generated annotation previews (reproducible via script)
 results/annotation_samples/
 
+# Regenerable dataset/runtime caches
+*.cache
+*.tmp
+*.temp

@@ -81,14 +81,36 @@ clips out-of-bound boxes in the derived copy, removes exact duplicate leakage,
 and retains documented negative examples. See
 `docs/ANNOTATION_POLICY.md` and `docs/DATA_PREPARATION_REPORT.md`.
 
-## Future training workflow (Phase 3; do not run yet)
+## Draft Model Results (completed Phase 3)
 
-The prepared configurations are `configs/yolo11n.yaml` and
-`configs/yolo11s.yaml`. In Phase 3, both pretrained models will use the same
-dataset, split, image size, seed, optimizer, and initial hyperparameters.
+These are preliminary Draft test results from the completed 30-epoch experiments.
 
-The comparison will report Precision, Recall, F1, mAP@0.5, mAP@0.5:0.95,
-training time, inference latency/FPS, parameter count, and model size. It will
-also include training/validation curves, confusion matrices, F1 curves, and
-prediction examples. Training is intentionally not executed in Phase 2.
+| Model | Precision | Recall | mAP50 | mAP50-95 | Parameters | Training hours | best.pt (approx.) |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| YOLO11n | 0.386 | 0.130 | 0.0860 | 0.0242 | 2,582,932 | 0.506 | 5.5 MB |
+| YOLO11s | 0.404 | 0.112 | 0.0837 | 0.0230 | 9,414,348 | 0.939 | 19.2 MB |
 
+YOLO11s had higher test Precision. YOLO11n had higher test Recall and slightly
+higher test mAP50 and mAP50-95. YOLO11n is smaller and trained faster in this
+experiment. These observations do not establish that either model is universally
+better.
+
+Training artifacts, including best/last weights, curves, results, predictions,
+and run settings, are preserved under `runs/detect/results/training/yolo11n/`
+and `runs/detect/results/training/yolo11s/`. Test artifacts are under
+`runs/detect/results/evaluation/yolo11n_test/` and `yolo11s_test/`.
+Smoke-test artifacts are also retained under `runs/detect/results/smoke_test/`.
+The saved training `args.yaml` files record 30 epochs; the current editable
+`configs/yolo11n.yaml` has 2 epochs and is preserved unchanged in this checkpoint.
+
+Known limitations remain: severe class imbalance, very few dark_spot objects,
+currently poor wrinkle performance, and many negative images produced by filtering
+excluded source classes. The Draft remains four classes (0 acne, 1 wrinkle,
+2 dark_spot, 3 enlarged_pore); normal_skin is excluded from detection training.
+Raw datasets must remain unchanged. Phase 4 has not started.
+
+## Training workflow reference
+
+The editable configurations are `configs/yolo11n.yaml` and `configs/yolo11s.yaml`.
+For the settings actually used in completed experiments, consult each saved
+training `args.yaml`. No training or Phase 4 work was run for this checkpoint.

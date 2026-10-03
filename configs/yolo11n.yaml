@@ -1,7 +1,7 @@
 # Draft Model 1 configuration. Training is intentionally deferred to Phase 3.
 model: yolo11n.pt
 data: datasets/processed/skin_detection/data.yaml
-epochs: 30
+epochs: 2
 imgsz: 640
 batch: 16
 seed: 42
