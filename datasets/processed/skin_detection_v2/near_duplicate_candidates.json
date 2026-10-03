@@ -1,0 +1,328 @@
+{
+  "method": "Same Phase 4B screening: 64-bit dHash<=4; 32x32 grayscale float32 RMSE<=0.08; Pillow default resize; no automatic decisions",
+  "all_pairs": [
+    {
+      "a": "train/140_jpg.rf.b6c52f06e2bca18ad8effb505adeb382.jpg",
+      "b": "train/8_jpg.rf.4718e614a6217c18290f44ec1f2e52bc.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.002767546335235238,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/23a01088b97c930c8fa8c6781a4c2f0d_jpg.rf.288c04679c3ff51992607b89feb93e47.jpg",
+      "b": "train/Kering-8-_JPG.rf.3b402a0361ff93df6fc53aed47397184.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0010398628655821085,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/240_F_137816577_BdN2G0s5CvyjWBez0EiievvSDnhnEqNF_jpg.rf.bffd48cb611b643ab75c010151bb1f4f.jpg",
+      "b": "train/download_jpg.rf.03b7572635684b1807886a72a3d001b9.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.002457100199535489,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/240_F_505136963_IXrvryaszca1gr3AdLK025QSTCPe22u5_jpg.rf.b3149657c7afc4a4f4a13cc7a61f8acb.jpg",
+      "b": "train/download-1-_jpg.rf.7e6559cc1faca935e59122ef0bc04a6d.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.009474393911659718,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Berminyak-12-_jpg.rf.58b54ade279a2ba8575c2f8a5fba8b4a.jpg",
+      "b": "train/Image_81_jpg.rf.02b87d25c43887fd1e2c81fdc2fa0991.jpg",
+      "hamming": 2,
+      "gray_rmse": 0.011011695489287376,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Image_130_jpg.rf.0e3b08f0c413106966e40ea57af02d8c.jpg",
+      "b": "train/Image_45_jpg.rf.d41a70f3d3231d094a2bcc0014254afe.jpg",
+      "hamming": 4,
+      "gray_rmse": 0.04977406561374664,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Image_36_jpg.rf.8522c00eec2095ed2c931d93eb9d0065.jpg",
+      "b": "train/oily2_jpg.rf.fd29c17e9f1c30086269ab85de651412.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0031531082931905985,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-12-_jpeg.rf.c4da2bc9feec89fe556200b9a5e28be2.jpg",
+      "b": "train/Kering-53-_jpg.rf.1c253e0c9a697165ef4ec8643432a139.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.022195924073457718,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-14-_jpeg.rf.8823827d857f068711cdd7ce3c953fa2.jpg",
+      "b": "train/Kering-24-_jpg.rf.471dabacbbf347d416faf29aff98cfa7.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.0032906178385019302,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-14-_jpeg.rf.8823827d857f068711cdd7ce3c953fa2.jpg",
+      "b": "train/kering-11-_jpg.rf.3196bba48de4c4a7f2a0b6a79dc18e37.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0029817463364452124,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-17-_jpeg.rf.2394bd8797bafdba9c2247d50658a602.jpg",
+      "b": "train/kering-2-_jpg.rf.21103245b15cd78602e22d1809054e0b.jpg",
+      "hamming": 4,
+      "gray_rmse": 0.07111898809671402,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-24-_jpg.rf.471dabacbbf347d416faf29aff98cfa7.jpg",
+      "b": "train/kering-11-_jpg.rf.3196bba48de4c4a7f2a0b6a79dc18e37.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.0037990196142345667,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-26-_jpeg.rf.a3d38d0bf3acfcd4dfd67dc8df4fba61.jpg",
+      "b": "train/kering__-82-_jpg.rf.b38a04222ef42f6c3c0ce4c76fa2746c.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.002648306777700782,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-9-_JPG.rf.6565864f34d329b288aa850e4029037e.jpg",
+      "b": "train/dry-112-_jpg.rf.4801e5a1ce5816340de32045a074bf15.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.0017200576839968562,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Kering-9-_JPG.rf.6565864f34d329b288aa850e4029037e.jpg",
+      "b": "train/dry-150-_jpg.rf.0c736b38a49a20e70f130d0eb802a735.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.0033224124927073717,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/Rosacea-treatment-removal-redness-acne-veins-spider_jpg.rf.91d6d70f121bd74e7078db131579c707.jpg",
+      "b": "train/z4220863771590_9cf7e2bd92036ca75abebde81e8720ce_jpg.rf.60f31e46a6b0976947d669cc3b9b47c0.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.003828553482890129,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/acne-13-_jpeg.rf.7c80534959c9899df1346d9a4dad10d9.jpg",
+      "b": "train/acne-15-_jpeg.rf.a57e49e1187f25d5a0e392f4693edc37.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0016072153812274337,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/acne-2-_jpeg.rf.5dbecb4b41c246162e3627e14d056a74.jpg",
+      "b": "train/oily-221-_jpg.rf.dd91a86284e4e0b179cebee48ee212eb.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0010326163610443473,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/da-bi-kich-ung_9b3f3875_d7b1_4c14_b67c_5e6434550409_jpg.rf.e9d1e1e456d33a1e1412d0c3af5ecd67.jpg",
+      "b": "train/di-ung-da-mat_jpg.rf.1b3106c5679967d497651f337af60485.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0016980889486148953,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/da-mong-noi-gan-mau-la-benh-gi-2_jpg.rf.afeada50ad19d6d4ca12f378e1c309be.jpg",
+      "b": "train/noi-man-do-ngua-toan-than-4_jpg.rf.9558d6c65196a1bf9ef5089fb75acf9f.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.004027371760457754,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/dry-109-_jpg.rf.641769f1f4657ffebb38f7b2d8518f7d.jpg",
+      "b": "train/kering-17-_jpg.rf.1be1109de2a7f3aef73c39b2b65a39d3.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0026226635091006756,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/dry-112-_jpg.rf.4801e5a1ce5816340de32045a074bf15.jpg",
+      "b": "train/dry-150-_jpg.rf.0c736b38a49a20e70f130d0eb802a735.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0032050730660557747,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/dry-skin_10_jpeg.rf.05ea5fd64dd44672fa54cb62c5d83f03.jpg",
+      "b": "train/dry1_jpg.rf.888ce70f1734fd701f6e558a91e421e6.jpg",
+      "hamming": 3,
+      "gray_rmse": 0.004914199933409691,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/dry-skin_10_jpeg.rf.05ea5fd64dd44672fa54cb62c5d83f03.jpg",
+      "b": "train/kering__-21-_JPG.rf.e924e9b833f56592ae696e35f0d55bfd.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.0046873996034264565,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/dry1_jpg.rf.888ce70f1734fd701f6e558a91e421e6.jpg",
+      "b": "train/kering__-21-_JPG.rf.e924e9b833f56592ae696e35f0d55bfd.jpg",
+      "hamming": 2,
+      "gray_rmse": 0.0026932915206998587,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/dry20_JPG.rf.395f440a64cc9646df067ec1b00f982e.jpg",
+      "b": "train/kering_-93-_jpg.rf.904a6d50050b895102d8ea56dfaa9775.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.03735916316509247,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/kering-10-_jpg.rf.b746ab2b79b4a7d0fec43f22ad35c674.jpg",
+      "b": "train/kering_-144-_jpg.rf.02201d791093990d9be44d61d465936b.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.01792946830391884,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/kering-31-_jpg.rf.98fd15119431cbaaa3b40dfe5a27da25.jpg",
+      "b": "train/kering-44-_jpg.rf.6654de5b23962af655225cf6ed5b7c15.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.04383436590433121,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/kering-32-_jpg.rf.a1c4caaf0c4aab4f11ec27b06fa2abc4.jpg",
+      "b": "train/kering-45-_jpg.rf.85c355124fd0d9680590f553e51e5cdb.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.030113911256194115,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/kering-38-_jpg.rf.5deb3b837d023fbec6981326e76f4dbb.jpg",
+      "b": "train/kering-46-_jpg.rf.2c2bc974cb4ee4ca31a647b8e96f84f4.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.020953373983502388,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/kering_-68-_jpg.rf.7fc77db42d084803934d4439b047024d.jpg",
+      "b": "train/kering__-31-_jpg.rf.d4a63715b71838d3c94420bb3254eae6.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.01938755065202713,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/levle1_271_jpg.rf.8cb34954d0b564e2e3feef57bb49afd8.jpg",
+      "b": "train/levle1_271_png.rf.11b20c647d5998a472e47f508b486fa4.jpg",
+      "hamming": 3,
+      "gray_rmse": 0.06238299235701561,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/oily-145-_jpg.rf.14e073f9dc24c37f1a934bb0b960c7e4.jpg",
+      "b": "train/oily-252-_jpg.rf.73f17a41cd2f145c68057f04434aeaf2.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0022430154494941235,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/oily-176-_jpg.rf.f4b84c491bacc37917a1d52c3d17a63b.jpg",
+      "b": "train/oily-278-_jpg.rf.ed3adca3e8e04b16d5c006b6b826833a.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0021542152389883995,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/oily-47-_jpg.rf.1deb07087dcd7d744ccc0088d19fa3a8.jpg",
+      "b": "train/oily-94-_jpg.rf.985f8969e5ecf10310e2d8e11b76bab1.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0033359453082084656,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "train/oily37_jpg.rf.883900c2c917d20dbd50d1dda14cac5d.jpg",
+      "b": "train/oily57_jpg.rf.333632d792b4d5545a53500957423ea5.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.001767427078448236,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "val/dry-110-_jpg.rf.314c39e335f052c20cbeef522a5fc5a8.jpg",
+      "b": "val/dry-skin_31_jpeg.rf.27fd6fae58ae4b161995dede2ab45be5.jpg",
+      "hamming": 2,
+      "gray_rmse": 0.04785190522670746,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "val/oily-183-_jpg.rf.ed5b0dea79059df61c996c47dc7c469c.jpg",
+      "b": "val/oily-229-_jpg.rf.b867a46e19d90cc1d29a0ce09d041d3b.jpg",
+      "hamming": 1,
+      "gray_rmse": 0.0022497011814266443,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "test/Image_22_jpg.rf.c03bd169faa571eebda006e0ecfbf232.jpg",
+      "b": "test/oily-81-_jpg.rf.d8cdb03f8219ca0e03b8e79ba484e520.jpg",
+      "hamming": 2,
+      "gray_rmse": 0.060473810881376266,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    },
+    {
+      "a": "test/Kering-32-_jpg.rf.4f815749c940743f5d4ac31dc298e004.jpg",
+      "b": "test/Kering-9-_jpeg.rf.0f68e182fd5459e6d36681b8aa0297cf.jpg",
+      "hamming": 0,
+      "gray_rmse": 0.0022696396335959435,
+      "cross_split": false,
+      "decision": "PENDING_HUMAN_REVIEW"
+    }
+  ],
+  "cross_split_pairs": [],
+  "new_cross_split_pairs": [],
+  "confirmed_reviewed_leakage_groups_remaining": []
+}

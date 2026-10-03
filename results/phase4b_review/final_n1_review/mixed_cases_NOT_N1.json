@@ -1,0 +1,22 @@
+[
+  {
+    "filename": "52_jpg.rf.54aba908ae10ec1f1cf3dd4feb1013cc.jpg",
+    "source_image_id": 1758,
+    "original_categories": [
+      "Blackheads",
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "oily-48-_jpg.rf.e404d6e5cff64e3e1f4e78b8eb313f06.jpg",
+    "source_image_id": 998,
+    "original_categories": [
+      "Blackheads",
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  }
+]

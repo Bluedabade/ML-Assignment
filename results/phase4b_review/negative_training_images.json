@@ -1,0 +1,6198 @@
+[
+  {
+    "filename": "01F3MMX6SD07BKJYXNPC9DHQTD_jpeg_jpg.rf.1309a63ccc920aaeb5d6b5ee17bbe82c.jpg",
+    "source_image_id": 708,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "01F3MMYCDR14CJP0GTSEQTMHVN_jpeg_jpg.rf.710746101badfe650168a5bd6bb3acee.jpg",
+    "source_image_id": 445,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "01F3MMZ02QJ70C2QHKWDNJRWV6_jpeg_jpg.rf.2257140a88674a59abe1a79270a909fe.jpg",
+    "source_image_id": 830,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "1030333538_1_jpg.rf.ffcb885e0e33afe7d65555b71ebddf15.jpg",
+    "source_image_id": 1203,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "103887554_1_jpg.rf.9d462c8b9c2cce77766c975e13cff794.jpg",
+    "source_image_id": 1371,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "104074861_1_jpg.rf.ed2280460637c8321f4f4c02ee18116d.jpg",
+    "source_image_id": 1065,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "105_jpg.rf.8a54c3eadcbf4c942eee264630adf083.jpg",
+    "source_image_id": 1261,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "107473045_1_jpg.rf.c5e934aaf91a8ac13d260814de0debe3.jpg",
+    "source_image_id": 149,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "1129801707_1_jpg.rf.350013671876f4c144d26316877d7621.jpg",
+    "source_image_id": 1530,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "116_jpg.rf.64b5acf4b0c79f58c6ca45f99514117c.jpg",
+    "source_image_id": 373,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "120801881_1_jpg.rf.74c29b3d092879a64c4221fba96d49b4.jpg",
+    "source_image_id": 475,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "140_jpg.rf.b6c52f06e2bca18ad8effb505adeb382.jpg",
+    "source_image_id": 68,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "142661608_1_jpg.rf.3e054c1d050547a9ac23f55ff017dc30.jpg",
+    "source_image_id": 1597,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "152_jpg.rf.85f644ddbd07ba61a3d34a5aab463abd.jpg",
+    "source_image_id": 1211,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "154_jpg.rf.dfad1f9bd5529d0d64312a8aaf3d33aa.jpg",
+    "source_image_id": 974,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "156_jpg.rf.844c522ee6ee31a0c881378ba4247a69.jpg",
+    "source_image_id": 1232,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "158_jpg.rf.af474bb352e509e3631ad05ac5b2b2f0.jpg",
+    "source_image_id": 13,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "162_jpg.rf.f49cb5eea0838194f6ecb560b5b63a50.jpg",
+    "source_image_id": 1122,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "20200418_102430_703398_thuoc-tri-cham-sua-max-1800x1800_jpg.rf.a79c0bd5e2f55c0b8c2316ab505579d3.jpg",
+    "source_image_id": 1458,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "20220303_042827_532264_da-mat-bi-ngua-va-d-max-1800x1800_jpg.rf.b4487ea99e3e366d479aa02f0485815b.jpg",
+    "source_image_id": 45,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "206273130_1_jpg.rf.c5c6039ba5847120458284a81a09d58f.jpg",
+    "source_image_id": 151,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2091682510_1_jpg.rf.01c7e7b653d91a3ab407f54b82cace8a.jpg",
+    "source_image_id": 605,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2106011059_1_jpg.rf.e911c3e4598bbd58aa7fc1d06efbe4d6.jpg",
+    "source_image_id": 1036,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2113106881_1_jpg.rf.89fc5a86c53e32b271a40a4349565355.jpg",
+    "source_image_id": 1258,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2175042512_1_jpg.rf.06123babaeb60954de552b9f319aa374.jpg",
+    "source_image_id": 641,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2196749951_1_jpg.rf.4311d190a3178dcd2342de3b346f610e.jpg",
+    "source_image_id": 1631,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2200730806_1_jpg.rf.4627037d0dae1c6d48dfc1265384e2bb.jpg",
+    "source_image_id": 1662,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2352254513_1_jpg.rf.f2ec2a1ac464feebd93f45a72647c5c3.jpg",
+    "source_image_id": 1111,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "236817064_1_jpg.rf.ce9a929cb069fd4577d3efba58d76651.jpg",
+    "source_image_id": 217,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2394089614_1_jpg.rf.3a1775c0304d3a4e515a0f064157e036.jpg",
+    "source_image_id": 1565,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2397008230_1_jpg.rf.e6be6a8b6c2a6fd1fd32138043b8d219.jpg",
+    "source_image_id": 1018,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "23a01088b97c930c8fa8c6781a4c2f0d_jpg.rf.288c04679c3ff51992607b89feb93e47.jpg",
+    "source_image_id": 865,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2405801774_1_jpg.rf.89315bc62a9972f2e03e0a8e0705a85d.jpg",
+    "source_image_id": 1255,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_110479910_n9eh4gcWPH8kOGIWN8ZD1PvfQ9XhloHO_jpg.rf.15379d18f1a237ca13450cf564166027.jpg",
+    "source_image_id": 725,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_137816577_BdN2G0s5CvyjWBez0EiievvSDnhnEqNF_jpg.rf.bffd48cb611b643ab75c010151bb1f4f.jpg",
+    "source_image_id": 124,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_175181761_NaukWVZ1iZTbDytJzuiQqN5Y2Xc0zZ2C_jpg.rf.5be71cf7d0cd363e2a7763207bc6faf4.jpg",
+    "source_image_id": 313,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_175181783_9h2VmEFY0xA9yc8O2fqKvhzsEOAfDFtD_jpg.rf.5a934167e520ac687c2f9a4f120e2434.jpg",
+    "source_image_id": 1798,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_203088174_Y10HdNxqyBbEFTBctiIDfMBQNO8Ze3p2_jpg.rf.13ccb11859fa60f787206c4aa4dcae44.jpg",
+    "source_image_id": 714,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_210297159_7tMSDq38NJGGGfjubjo57EoqK1L4Qw6O_jpg.rf.4b6b88aa5c14d3584419e2851b95a85a.jpg",
+    "source_image_id": 1700,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_276016522_IsVo5qn0aPsII5LGQOrflbfCODHW1OkA_jpg.rf.81cb43bf78a5affa4e0c5eba126af1a9.jpg",
+    "source_image_id": 575,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_303787590_E77HGFUoZJhi2l5GEpegMU9jmUrfrHYv_jpg.rf.2d070f169e82ba012cced005f2de4bee.jpg",
+    "source_image_id": 904,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_477645690_E0R8uapTGEyyv0cwUM9P06Uk78kiLPXW_jpg.rf.156af4c2ffbfbda05b13698e52f89413.jpg",
+    "source_image_id": 726,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_504672454_jndgj2KO7RJwbd1f5qgcFFAYtOcNpOgT_jpg.rf.7c7580cf94b8481ca71c702e7d59707f.jpg",
+    "source_image_id": 533,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_505136963_IXrvryaszca1gr3AdLK025QSTCPe22u5_jpg.rf.b3149657c7afc4a4f4a13cc7a61f8acb.jpg",
+    "source_image_id": 38,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "240_F_505842148_TGTabIfdLCUOOQZD2kRsQnYJD7OTf3BT_jpg.rf.53c34ba426994d1afdca99d79a4e9164.jpg",
+    "source_image_id": 1749,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2423457666_1_jpg.rf.324ee5d637abddb342667e612976d72e.jpg",
+    "source_image_id": 937,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2426631349_1_jpg.rf.e6bc30c345c20c98898b55adb83febda.jpg",
+    "source_image_id": 1022,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2437904540_1_jpg.rf.16014eb6d4f36d709700ea865406cf31.jpg",
+    "source_image_id": 738,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2450984791_1_jpg.rf.226f9ce803eb8ccb3c9087af21e69376.jpg",
+    "source_image_id": 831,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2458204984_1_jpg.rf.509d4372b6dccb44ae7fb604d865ae00.jpg",
+    "source_image_id": 1726,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "24604-eczema-on-face_jpg.rf.c9bea1c2d03bcb5a825c8d08601f9e4c.jpg",
+    "source_image_id": 182,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "249852286_2_jpg.rf.60b1df66c1f6ed8f04ca01127000715d.jpg",
+    "source_image_id": 338,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2501339174_1_jpg.rf.824e13ef0bacb428004516162c3374cf.jpg",
+    "source_image_id": 581,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2545119553_1_jpg.rf.dcf4cd55b8b8b38d675c9368f0616d0a.jpg",
+    "source_image_id": 950,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2569659822_1_jpg.rf.7928ee8d7a4e0c1196391d55ea411ad9.jpg",
+    "source_image_id": 502,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2609766139_1_jpg.rf.49376215a3682747fadd670279b1196e.jpg",
+    "source_image_id": 1684,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "262545392_1_jpg.rf.29b8fec0787258cedf8cfdd89bbcccf4.jpg",
+    "source_image_id": 876,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2665784919_1_jpg.rf.f96f053e28eb05c2511c3ebd8c844d9b.jpg",
+    "source_image_id": 1147,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2665879761_1_jpg.rf.cbfe72fdd8d31c57b14ad3362c06476b.jpg",
+    "source_image_id": 196,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2666396914_1_jpg.rf.a4f5fb0aa9ab7615f0294cbb06a178f9.jpg",
+    "source_image_id": 1442,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2677149532_1_jpg.rf.59977e13a9483bea840059c7917568e8.jpg",
+    "source_image_id": 1780,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2688545621_1_jpg.rf.b871d4b48e4b4c4f3a0e42a1076a0343.jpg",
+    "source_image_id": 76,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2692234417_1_jpg.rf.d0a50798ffb5524ff33a3a2bec914cc6.jpg",
+    "source_image_id": 230,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2692799934_1_jpg.rf.ed28c556d14a5b1a7fa263326291ce32.jpg",
+    "source_image_id": 1067,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2699422785_1_jpg.rf.6657a34ca84cac38993d7fe39ca2e35e.jpg",
+    "source_image_id": 381,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2706940948_1_jpg.rf.6336c2e408f78152934c0c4cb7156cdf.jpg",
+    "source_image_id": 357,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2707644515_1_jpg.rf.a5bcaa044b3446a52036955e8f73933b.jpg",
+    "source_image_id": 1444,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2708460596_1_jpg.rf.39e8b0369f17d4faa7adee292c6354b6.jpg",
+    "source_image_id": 1562,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2719463843_1_jpg.rf.35eae27cdc29dcdb6d47c2f5a08dc121.jpg",
+    "source_image_id": 1531,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2719469801_1_jpg.rf.25a2849c55156e128f725c5815ac1a43.jpg",
+    "source_image_id": 846,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2719473671_1_jpg.rf.ca3675df4273af3bbbe0feb030975823.jpg",
+    "source_image_id": 185,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2720293102_1_jpg.rf.5e4b510617e3c796333ae0d1a971d61c.jpg",
+    "source_image_id": 321,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2720295826_1_jpg.rf.551be849641c69af1206509f9dae8eab.jpg",
+    "source_image_id": 1759,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2720297592_1_jpg.rf.84a56d6f17f22761ba08a448887fb138.jpg",
+    "source_image_id": 1217,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2738625961_1_jpg.rf.b001d6d209fc83e9a99084afee062693.jpg",
+    "source_image_id": 7,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2806176632_1_jpg.rf.d9b152e6e223f1e2c4f0ad128c9f83e5.jpg",
+    "source_image_id": 286,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2828057266_1_jpg.rf.e164e5371d7b5e54c47170d6a8165718.jpg",
+    "source_image_id": 984,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2837076619_1_jpg.rf.51d5e45f1b5eff1265afdad3bb47ccdf.jpg",
+    "source_image_id": 1734,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2861547_16_articlelarge_iStock-1327412897_1__jpg.rf.7ae5d8d63b9f8dcef32feccf68275d7c.jpg",
+    "source_image_id": 519,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "286_jpg.rf.b61a8217b6e2ec0d18e486be8c06a0b4.jpg",
+    "source_image_id": 59,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "287_jpg.rf.a13eba621fb6833561d238095977dbbb.jpg",
+    "source_image_id": 1412,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "288_jpg.rf.e34f9bd8789d4c119a977eeaa92f97a1.jpg",
+    "source_image_id": 996,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "2936372160_1_jpg.rf.87134264d6694d74cfd4d1288a49f577.jpg",
+    "source_image_id": 1230,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2937757570_1_jpg.rf.3cd9503475e01fe8192407f48c2c2a21.jpg",
+    "source_image_id": 1590,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2947222498_1_jpg.rf.7ac067816e4f20ac69953f99ca9dd785.jpg",
+    "source_image_id": 520,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "2973A28100000578-0-image-m-194_1433782669849_jpg.rf.dc179822fa269af29556ad0a61d151ab.jpg",
+    "source_image_id": 941,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "34_jpeg_jpg.rf.53256d3375f6ca00467886794f1211fb.jpg",
+    "source_image_id": 1743,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "36_jpg.rf.d72e701102385e63ee15c02c439cc7dc.jpg",
+    "source_image_id": 264,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "432_jpg.rf.e89de9d95f9eaa0c9376f9e74399352e.jpg",
+    "source_image_id": 1029,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "44_jpg.rf.0af8d69d797ece9fedfe6023476c6422.jpg",
+    "source_image_id": 660,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "45_jpg.rf.c6717a51f3c49498bd2922e1b283806d.jpg",
+    "source_image_id": 154,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "490_jpg.rf.5edd42ea35079ff2462a24779e226a03.jpg",
+    "source_image_id": 322,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "52_jpg.rf.54aba908ae10ec1f1cf3dd4feb1013cc.jpg",
+    "source_image_id": 1758,
+    "original_categories": [
+      "Blackheads",
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "556_jpg.rf.a0ea869f84314d15cf1010e2763276da.jpg",
+    "source_image_id": 1409,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "609d08fd2e319c0afbe44f3657988a64_jpg.rf.cef5519511e4545f5d45caa24e3dacb7.jpg",
+    "source_image_id": 222,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "653_jpg.rf.0801f1f335e0069756531f4458466e90.jpg",
+    "source_image_id": 654,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "6b0bbb7874796fd11f8edb526cba498e_jpg.rf.4058ae9c79bc5657e3a734dae4989463.jpg",
+    "source_image_id": 1612,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "8_jpg.rf.4718e614a6217c18290f44ec1f2e52bc.jpg",
+    "source_image_id": 1669,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "965748b1b0e0f4cc84e6fb5daa335cb8_jpg.rf.8688eac856653c9dea863292bec83f92.jpg",
+    "source_image_id": 1208,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "97723bf3c1966b6736962b435dd43bda_jpg.rf.def425e1ce709e358bfc922cc76c9495.jpg",
+    "source_image_id": 965,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "9_jpg.rf.d900a75436415afe1a716f77584b718b.jpg",
+    "source_image_id": 282,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "9adc08c5984e083261d3a71542295d26_jpg.rf.ced517fbb7f0a969c25de857268b7029.jpg",
+    "source_image_id": 218,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "9de7356fc7fe5df062b9719352b38f9c_jpg.rf.bf9be9487b043bd0283a3a14fcfa7981.jpg",
+    "source_image_id": 119,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-1-_jpeg.rf.410521de591baa80145e9e8e3add090f.jpg",
+    "source_image_id": 1614,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-11-_jpg.rf.138c114cb3c74124d8eabfd7ced83f91.jpg",
+    "source_image_id": 715,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-12-_jpg.rf.58b54ade279a2ba8575c2f8a5fba8b4a.jpg",
+    "source_image_id": 1778,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-13-_jpg.rf.6bbd73c9741cd8f594de6de82edf7adc.jpg",
+    "source_image_id": 418,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-14-_jpeg.rf.ff9f8f6ea26f77127486198970cfad26.jpg",
+    "source_image_id": 1202,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-14-_jpg.rf.882a652db9c91ec2c69a67547cf4d67c.jpg",
+    "source_image_id": 1246,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-15-_jpeg.rf.163622ffe4ae29cb43fe98ea546820f4.jpg",
+    "source_image_id": 739,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-15-_jpg.rf.1a3b994b2b7ae1e05103e64f3967928a.jpg",
+    "source_image_id": 759,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-16-_jpg.rf.c9a84d5705969d3234e9949ba8132b73.jpg",
+    "source_image_id": 186,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-17-_jpeg.rf.a8e1898d6fea3745bc50250ee8c9dd76.jpg",
+    "source_image_id": 1465,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-19-_jpeg.rf.96c3302ad5d18271e5fa4aebdcdfa8b9.jpg",
+    "source_image_id": 1335,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-19-_jpg.rf.e952d1c9cc6ec185c2d5746446338931.jpg",
+    "source_image_id": 1039,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-2-_jpeg.rf.854c758d656eacbcb3d96c002f37cd13.jpg",
+    "source_image_id": 1226,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-21-_jpeg.rf.1b249902a9c4c04e7f73740df3493333.jpg",
+    "source_image_id": 765,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-21-_jpg.rf.4db91b5d57c5691305fcc049262ef557.jpg",
+    "source_image_id": 1707,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-22-_jpg.rf.20378142bc8efcc885d513ccc9d87196.jpg",
+    "source_image_id": 809,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-23-_jpeg.rf.414469816cbf4fd874be64460a227338.jpg",
+    "source_image_id": 1620,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-24-_jpeg.rf.b05e7580940018f4cc82f04d733c4735.jpg",
+    "source_image_id": 22,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-26-_JPG.rf.41c201986d99b6991d3bd71925e273f0.jpg",
+    "source_image_id": 1619,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-27-_JPG.rf.0089f5c1cb2cf93a284327ed305fb13a.jpg",
+    "source_image_id": 596,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-27-_jpeg.rf.8dde490d8f84af9ee11d900f998f5587.jpg",
+    "source_image_id": 1278,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-29-_JPG.rf.d1c0e54b1ad35e253ff6998d432b5be5.jpg",
+    "source_image_id": 234,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-30-_JPG.rf.eda7d24cac9f1f8796a0f7ed50259055.jpg",
+    "source_image_id": 1069,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-35-_jpg.rf.77e147b421251a6d5cdd15d433c5a0a9.jpg",
+    "source_image_id": 486,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-4-_jpeg.rf.12beb3dd86e7bbd0baa76f19bddb65de.jpg",
+    "source_image_id": 707,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-6-_jpg.rf.3671e6e1a025a528031aef47ea4a8635.jpg",
+    "source_image_id": 1526,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-7-_jpeg.rf.62e4fbaca060906f5612bb1a749b485c.jpg",
+    "source_image_id": 354,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-7-_jpg.rf.15d697076e862f73d9469f6294236599.jpg",
+    "source_image_id": 734,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-8-_jpg.rf.adfc0414a6f31576a867b67ccce23d00.jpg",
+    "source_image_id": 1494,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak-9-_jpg.rf.1bd0b8e03b6fa20e13cc4ee897432740.jpg",
+    "source_image_id": 768,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak130_jpg.rf.b5e151b1d614135ede7ef4c898d9cafa.jpg",
+    "source_image_id": 60,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak131_jpg.rf.157b6961080db45c316ceb90bd5ba460.jpg",
+    "source_image_id": 729,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak177_jpg.rf.852c03aa0237cf08750a0574c15237e1.jpg",
+    "source_image_id": 1214,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak191_jpg.rf.f2fe80fabe815fb76a7d957ef84f817e.jpg",
+    "source_image_id": 1109,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak205_jpg.rf.106a683fb5274ee275e3d4e469962126.jpg",
+    "source_image_id": 692,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak208_jpg.rf.961d9ad18ffc976447445babfb33282c.jpg",
+    "source_image_id": 1324,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak211_jpg.rf.9fb07f67f4435ca681245d11cf3ab634.jpg",
+    "source_image_id": 1392,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak249_jpg.rf.8dbf6fac78b45acf37a03788d25974b8.jpg",
+    "source_image_id": 1277,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak258_jpg.rf.308d78d72801a00c4b8c8ae381a08f72.jpg",
+    "source_image_id": 921,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak260_jpg.rf.e68ae7fced60eca74d8e1044b27f0e54.jpg",
+    "source_image_id": 1012,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak267_jpg.rf.a6006e824fddd2a9ad0cba9037225db5.jpg",
+    "source_image_id": 1449,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak269_jpg.rf.ebdbac7076943091844b3d25f8a9a3ca.jpg",
+    "source_image_id": 1055,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak279_jpg.rf.e9c51818d39202f0e3b64a2a397d2cb1.jpg",
+    "source_image_id": 1038,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak282_jpg.rf.4488acf7111112ed58f8019b2de695dd.jpg",
+    "source_image_id": 1644,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak286_jpg.rf.fcf653b5aa9622495a4293deb4b743fe.jpg",
+    "source_image_id": 1184,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak288_jpg.rf.3955a600cc4022cae7e5e4eacb3dce30.jpg",
+    "source_image_id": 1556,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak295_jpg.rf.a53bcca2aef24629f0d40899543fbfff.jpg",
+    "source_image_id": 1440,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak302_jpg.rf.63c3361239cf725147817d0b68c4b422.jpg",
+    "source_image_id": 362,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak45_jpg.rf.9b3f20d125055434bd4a7363e6017310.jpg",
+    "source_image_id": 1361,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak87_jpg.rf.9668160693727e9f79ccffc6bfd803e3.jpg",
+    "source_image_id": 1329,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak88_jpg.rf.29c8c86b05e039e216503e14b473eb67.jpg",
+    "source_image_id": 875,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Berminyak96_jpg.rf.20406ae81a09f8a5e3d4659e5f4038fa.jpg",
+    "source_image_id": 811,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Condition-Rosacea_jpg.rf.ae1bd3318a2bb9261efebc73f0e7c392.jpg",
+    "source_image_id": 1498,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "GettyImages-546459592-5b215d8996c74956bc733aa9f6dd21a8_jpg.rf.4d4d68e619c67777bd9501d44c9e3eac.jpg",
+    "source_image_id": 1704,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "IMG_6807_JPG.rf.317328e8da49bb8377f5f8ef67b17574.jpg",
+    "source_image_id": 932,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_100_jpg.rf.64cdd2899816af50ea1ed47933028523.jpg",
+    "source_image_id": 374,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_110_jpg.rf.5877b0d0e3bd0b879a5a207f77545516.jpg",
+    "source_image_id": 1777,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_112_jpg.rf.45bc795fa3f0e63fdb954cd7bb52e474.jpg",
+    "source_image_id": 1654,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_115_jpg.rf.d1a891a2a40726ca423a76db8e210193.jpg",
+    "source_image_id": 235,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_117_jpg.rf.669afcd65b0d363e10fbcd045a0737bd.jpg",
+    "source_image_id": 382,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_119_jpg.rf.53fd4f087d18a7d9855c121d55320e49.jpg",
+    "source_image_id": 1756,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_11_jpg.rf.ecbeadc7d22446a707ae9a05ff6ff227.jpg",
+    "source_image_id": 1059,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_121_png.rf.4817bc2aa89a4b5806771361ad1f514c.jpg",
+    "source_image_id": 1677,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_122_jpg.rf.1f5df8d077f6a726458e2fa5b44a37b0.jpg",
+    "source_image_id": 798,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_130_jpg.rf.0e3b08f0c413106966e40ea57af02d8c.jpg",
+    "source_image_id": 672,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_131_jpg.rf.72f11136b0b9cc03551e20c1549fe4f7.jpg",
+    "source_image_id": 468,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_131_png.rf.603da32d510776935889258cccbc6ba8.jpg",
+    "source_image_id": 339,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_132_jpg.rf.3d8e98886d7df23244eb15897fc00fdc.jpg",
+    "source_image_id": 1591,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_137_jpg.rf.becde4f0977f3978d4cf04aaabee276b.jpg",
+    "source_image_id": 109,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_140_jpg.rf.0ee3a9e28374eca0bc4ddfbbff7031cd.jpg",
+    "source_image_id": 676,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_145_png.rf.d8d2e77b348e05d77d809fb65bd5f76a.jpg",
+    "source_image_id": 276,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_146_jpg.rf.80facb228abbdd5cd08c6147168fa3dd.jpg",
+    "source_image_id": 568,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_14_jpg.rf.4635c848e95fd3807841ec5fa818ef9e.jpg",
+    "source_image_id": 1657,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_16_jpeg.rf.322663a8ebab3d64411624b8fbd02bab.jpg",
+    "source_image_id": 933,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_17_jpg.rf.455c5dd500170d57b3bd51e9058a3094.jpg",
+    "source_image_id": 1649,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_29_jpg.rf.d392f075fe089104ccd4754fb5af8d79.jpg",
+    "source_image_id": 245,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_29_jpg.rf.eb6d09a6affbac35d413cae48aa92729.jpg",
+    "source_image_id": 1051,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_33_jpg.rf.faa33e4d4b429d43dbb47115b52682bd.jpg",
+    "source_image_id": 1158,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_36_jpg.rf.8522c00eec2095ed2c931d93eb9d0065.jpg",
+    "source_image_id": 1222,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_36_jpg.rf.c704104ad0be71b9bffec8fb5d73eed4.jpg",
+    "source_image_id": 162,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_38_jpg.rf.eb0f8dcdb2ed5ccc9989df1855430f2a.jpg",
+    "source_image_id": 1047,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_42_jpg.rf.dc949a8458139ec9b2240d66aa65a698.jpg",
+    "source_image_id": 964,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_45_jpg.rf.d41a70f3d3231d094a2bcc0014254afe.jpg",
+    "source_image_id": 249,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_49_jpg.rf.9e9657100f7f29fc1462ef3d3fb577ff.jpg",
+    "source_image_id": 1381,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_4_jpg.rf.6d1e9282f3fc54ebf457e383be73ab01.jpg",
+    "source_image_id": 426,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_51_jpg.rf.2160be2452c8fcb6c09152551fd141ef.jpg",
+    "source_image_id": 823,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_52_jpg.rf.dc58182c31093a75b9f552a53b3f4fd3.jpg",
+    "source_image_id": 954,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_57_jpg.rf.f84d6fdaccfc7bd1f07fdf38fa472c56.jpg",
+    "source_image_id": 1142,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_58_jpg.rf.de5a9e6eda1c137a2adfc04efb21081a.jpg",
+    "source_image_id": 963,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_60_jpg.rf.18abe877f29fe97bcbc855b49db3276b.jpg",
+    "source_image_id": 747,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_68_jpg.rf.726ca1b9a427fe472e15af3d5b63b490.jpg",
+    "source_image_id": 463,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_71_jpg.rf.212bd18b8e09633c2e0e2c2bb558545d.jpg",
+    "source_image_id": 819,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_71_jpg.rf.a1084fe8c34bfaff9c0c94f1bb69c42a.jpg",
+    "source_image_id": 1410,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_78_jpg.rf.6143cbfb037e1bbf49414235b0385c51.jpg",
+    "source_image_id": 346,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_81_jpg.rf.02b87d25c43887fd1e2c81fdc2fa0991.jpg",
+    "source_image_id": 615,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_82_jpg.rf.dc07396c7d5c5afd05512a28098ee2a0.jpg",
+    "source_image_id": 951,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_86_png.rf.cbffb3efc60501f53e50fc1aeba175b4.jpg",
+    "source_image_id": 199,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_87_JPG.rf.c5487712bdd9e81bc740e454850b202f.jpg",
+    "source_image_id": 148,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_92_jpg.rf.697c554f773feeeccc1ee5071ba3f245.jpg",
+    "source_image_id": 399,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_97_jpg.rf.e51ec168e6bf0c9d2227343c3981ec5f.jpg",
+    "source_image_id": 1002,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_98_jpg.rf.07c131145a83226071a6ee654517c62e.jpg",
+    "source_image_id": 646,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Image_99_jpg.rf.b0fe5960dcb2f97ceb230cad040f067a.jpg",
+    "source_image_id": 12,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Img_82_jpg.rf.084bd8099bbf1b01d68d132fa1545bc1.jpg",
+    "source_image_id": 649,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-1-_JPG.rf.1ab9c27f2a20280639d8124bea5e407a.jpg",
+    "source_image_id": 763,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-1-_jpeg.rf.7d6f9203fcd20781c589a5be31145556.jpg",
+    "source_image_id": 545,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-1-_png.rf.d206c206488c6460ea6462650a927c83.jpg",
+    "source_image_id": 238,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-10-_JPG.rf.bb2b3def801fd80c17ff198efade218f.jpg",
+    "source_image_id": 87,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-10-_jpeg.rf.157e2e69c98f8955f9a9a0c03c7a4456.jpg",
+    "source_image_id": 732,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-11-_JPG.rf.1c99d18caba0ce0d71fee121a1aad278.jpg",
+    "source_image_id": 776,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-12-_JPG.rf.d27d06d039837e49aed235710889d87c.jpg",
+    "source_image_id": 240,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-12-_jpeg.rf.c4da2bc9feec89fe556200b9a5e28be2.jpg",
+    "source_image_id": 144,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-14-_jpeg.rf.8823827d857f068711cdd7ce3c953fa2.jpg",
+    "source_image_id": 1248,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-16-_JPG.rf.9d2d6bd76492b85b47256c8940fce38a.jpg",
+    "source_image_id": 1368,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-16-_jpeg.rf.a07d2af01c088fee25f0a3a4b20c2139.jpg",
+    "source_image_id": 1401,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-17-_JPG.rf.33e69d8f05b0be759231825ed3d9b123.jpg",
+    "source_image_id": 1507,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-17-_jpeg.rf.2394bd8797bafdba9c2247d50658a602.jpg",
+    "source_image_id": 842,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-18-_jpeg.rf.5a864a3afbeb6eb8c88254cbd798e82f.jpg",
+    "source_image_id": 1792,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-19-_JPG.rf.36d8068b1db2ddab306f762a374179f3.jpg",
+    "source_image_id": 1533,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-19-_jpeg.rf.7c08cf7a40977677300819c1f2c01ed3.jpg",
+    "source_image_id": 530,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-20-_jpeg.rf.04f4184fe0682ad51e386294c9b70cd8.jpg",
+    "source_image_id": 628,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-22-_jpeg.rf.53878c26486e1197e88a80c85fd8dc1e.jpg",
+    "source_image_id": 1746,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-22-_jpg.rf.46d2ec3c4265729e4b5e905a0121529c.jpg",
+    "source_image_id": 1668,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-23-_jpeg.rf.2c1213018a05482d1928cd0e29f2fd10.jpg",
+    "source_image_id": 898,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-24-_jpeg.rf.dbe0aea65f68a278fa9beb60427cf2d8.jpg",
+    "source_image_id": 940,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-24-_jpg.rf.471dabacbbf347d416faf29aff98cfa7.jpg",
+    "source_image_id": 1671,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-25-_jpg.rf.017a918deee26fab25759adb9ffa95ba.jpg",
+    "source_image_id": 604,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-26-_jpeg.rf.a3d38d0bf3acfcd4dfd67dc8df4fba61.jpg",
+    "source_image_id": 1425,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-26-_jpg.rf.856f4261d4b363ffb1f461b32028396a.jpg",
+    "source_image_id": 1225,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-27-_jpeg.rf.7e71dc56c987df7210bfa2975ab81fad.jpg",
+    "source_image_id": 546,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-27-_jpg.rf.1d69b4145fb68e252acf130cb5a1cdd3.jpg",
+    "source_image_id": 783,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-28-_jpeg.rf.bcbd75c74ba262558adb0782211a6e06.jpg",
+    "source_image_id": 95,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-29-_jpeg.rf.1297ad68e056287ffc9d00759706e73b.jpg",
+    "source_image_id": 700,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-3-_JPG.rf.bfc83f406c78a961f6e8110cc56d4340.jpg",
+    "source_image_id": 117,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-3-_jpeg.rf.d177cddfc74e3c0a27e1baa4b26c053c.jpg",
+    "source_image_id": 233,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-31-_jpeg.rf.f2172b4a673a3bd5e39dfac20575673c.jpg",
+    "source_image_id": 1104,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-31-_jpg.rf.12bd11ec11dbed9f0b84eac62c2c0c7e.jpg",
+    "source_image_id": 706,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-32-_jpeg.rf.c9f974320c395e0eca6c4d10553436fa.jpg",
+    "source_image_id": 181,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-34-_jpeg.rf.c46b113114631f8c1a90593fd522bebd.jpg",
+    "source_image_id": 141,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-42-_jpg.rf.2216ccb8ab8e99ecec80e89e71edff7c.jpg",
+    "source_image_id": 829,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-43-_jpg.rf.8a36400d7a260b32bca6d5eaf344caf0.jpg",
+    "source_image_id": 1259,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-46-_jpg.rf.525e0ad7d2f02e5bce294ba1a2d49bce.jpg",
+    "source_image_id": 1738,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-5-_JPG.rf.b0e26ac65082f47779aa9ea3e40636cd.jpg",
+    "source_image_id": 14,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg",
+    "source_image_id": 1527,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-52-_jpg.rf.be0d90bcec1f22bf5dc16cad03690226.jpg",
+    "source_image_id": 106,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-53-_jpg.rf.1c253e0c9a697165ef4ec8643432a139.jpg",
+    "source_image_id": 771,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-6-_JPG.rf.19afe710531a586bcbf4e62d32ad06da.jpg",
+    "source_image_id": 756,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-6-_jpeg.rf.b165ff1c24a62782f6e93bfae89459aa.jpg",
+    "source_image_id": 24,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-7-_JPG.rf.a63ab8f56c9ccdd071a2ee1e6368d8f0.jpg",
+    "source_image_id": 1453,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-7-_jpeg.rf.d49f13078b59eda2ca7fbe805784132d.jpg",
+    "source_image_id": 255,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-8-_JPG.rf.3b402a0361ff93df6fc53aed47397184.jpg",
+    "source_image_id": 1570,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-8-_jpeg.rf.4f73236efaecd890235dc5bf5fa72860.jpg",
+    "source_image_id": 1724,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Kering-9-_JPG.rf.6565864f34d329b288aa850e4029037e.jpg",
+    "source_image_id": 375,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Normal108_jpg.rf.5384789363138090fecb28c93930de8f.jpg",
+    "source_image_id": 1748,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Normal227_jpg.rf.aef31e192ddd841bef7a1ea66e8caa29.jpg",
+    "source_image_id": 19,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Normal280_jpg.rf.e914e1161abe9fc99e597552808e89b5.jpg",
+    "source_image_id": 1035,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Normal81_jpg.rf.f086ff58394d4f9f62566fb5ff56196e.jpg",
+    "source_image_id": 1088,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Rosacea-Skin-Concerns-Vitality-Laser-Geelong_jpg.rf.38b31c31f6e66bce01a04870b8890142.jpg",
+    "source_image_id": 1549,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Rosacea-eritematosa-iniziale_jpg.rf.b69354a8baa55c4782c387cc68a61d7e.jpg",
+    "source_image_id": 67,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Rosacea-treatment-removal-redness-acne-veins-spider_jpg.rf.91d6d70f121bd74e7078db131579c707.jpg",
+    "source_image_id": 1299,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot-2023-03-29-144401_png.rf.46cd1ad21ec14903e7150e29dc132751.jpg",
+    "source_image_id": 1666,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot-2023-03-29-144433_png.rf.1508f8085ec0f83de7bc3f69d2eacb19.jpg",
+    "source_image_id": 723,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot-2023-03-29-144534_png.rf.ad95dac391131cd236a960643c2848ee.jpg",
+    "source_image_id": 1490,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot-2023-03-29-145456_png.rf.5d3891bd40997975f2a646840ad8dc49.jpg",
+    "source_image_id": 316,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot-2023-03-29-145623_png.rf.899cc55c924ecd780adb197e3848a58c.jpg",
+    "source_image_id": 1254,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot-2023-03-29-145645_png.rf.466409b8f5d9c4b516410440b2546a5d.jpg",
+    "source_image_id": 1661,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot_2_png.rf.bd8c70e9cd4166e6d573376cf572caa1.jpg",
+    "source_image_id": 104,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot_34_png.rf.927d42a0c52b92455f93cff5b6261f53.jpg",
+    "source_image_id": 1304,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Screenshot_3_png.rf.493eaf889fac923a4a884f8069e14495.jpg",
+    "source_image_id": 1686,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "Skin-Redness_jpg.rf.8dff0dbf21097c83d9917c4dde33568a.jpg",
+    "source_image_id": 1280,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "_1495410572_jpg.rf.f1934277db264eb66f6d0e912e9bdebc.jpg",
+    "source_image_id": 1100,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "_1679374360_jpg.rf.46812fdeeaf08cdd3e1be257ebca7f76.jpg",
+    "source_image_id": 1660,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "_1869624823_jpg.rf.22901d2050a89b78a15269103bd803f8.jpg",
+    "source_image_id": 837,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "_1892688412_jpg.rf.3896e7d4bdb3df0e356a98365da2f799.jpg",
+    "source_image_id": 1547,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "_2094077383_jpg.rf.c42b2c1599c714b3e7d2c810327c0638.jpg",
+    "source_image_id": 139,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "_2250439467_jpg.rf.3a110c2e1deabd44da74625e60eafe52.jpg",
+    "source_image_id": 1564,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "_2265062407_jpg.rf.03f63e3faf745520525c1a449fd99dc0.jpg",
+    "source_image_id": 625,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "a3_jpg.rf.1388e0540279c45c7117ceed88dbe3c8.jpg",
+    "source_image_id": 713,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "a7_jpg.rf.8147c62ecedff2a47d2c7c36d6faa72d.jpg",
+    "source_image_id": 576,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "acne-411-_jpg.rf.c85f22c98bfd61331030a559de83038d.jpg",
+    "source_image_id": 170,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-412-_jpg.rf.747d919ed823b6ecae959bef3ddb84fd.jpg",
+    "source_image_id": 473,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-5561750_1280_jpg.rf.3259cd4b32289ae53c148dc23b3533c9.jpg",
+    "source_image_id": 1517,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-570-_jpg.rf.4e2f632245488868b37dedaaf537e675.jpg",
+    "source_image_id": 1711,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-571-_jpg.rf.30e5bedbe78b0f478aa99cf2a1b3c460.jpg",
+    "source_image_id": 925,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-688-_jpg.rf.c69d947ef184e4de04a9a5207afab893.jpg",
+    "source_image_id": 158,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-689-_jpg.rf.9a6d95aeeb5b42ebd11e2ded48aa9140.jpg",
+    "source_image_id": 1358,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-704-_jpg.rf.ecb235b5e24e37f9c033099e19c11a3c.jpg",
+    "source_image_id": 1062,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-705-_jpg.rf.2ea6665adee3d8668472d4751ace4ba9.jpg",
+    "source_image_id": 916,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-722-_jpg.rf.cd65a10cdd1bb0e9bda3279afe85b23a.jpg",
+    "source_image_id": 204,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-788-_jpg.rf.4ada677be62da4213805708ddce5f50f.jpg",
+    "source_image_id": 1695,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-792-_jpg.rf.40e4ec42c28f874945686c505bcfb716.jpg",
+    "source_image_id": 1613,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-793-_jpg.rf.3c8d51d3a5ffcb55fcf004b646fa4fe7.jpg",
+    "source_image_id": 1585,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "acne-prone-skin_155_jpeg.rf.21878aefbc9fc1a5ff3e18e40dbc1afb.jpg",
+    "source_image_id": 826,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "b61395854e4e782abf671266ca89d1b0_jpg.rf.5fbd076348a9548bebbbb7a56aa32f67.jpg",
+    "source_image_id": 330,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak-40_jpg.rf.1f5571d41865743884ceadd376343978.jpg",
+    "source_image_id": 797,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak-47_jpg.rf.81dcc59f11af30e94ac9ae29a393daee.jpg",
+    "source_image_id": 577,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-10-_jpg.rf.9685a1f78b4172d7d77259f42fbaa5bd.jpg",
+    "source_image_id": 1331,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-13-_jpg.rf.23e10368e7a803905a4b7e0dcfdad781.jpg",
+    "source_image_id": 841,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-14-_jpg.rf.c757621654b4bee063c8339d40ce9752.jpg",
+    "source_image_id": 164,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-16-_jpg.rf.21aa25cf159b349c6b52e583f175247b.jpg",
+    "source_image_id": 825,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-17-_jpg.rf.bc184b4d893717b9bce74c69725d4a5d.jpg",
+    "source_image_id": 91,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-19-_jpg.rf.5615844e9b1476a9c46160fd22d29f76.jpg",
+    "source_image_id": 1767,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-2-_jpg.rf.451896d12b6e2c164acb90aa8fff9ac4.jpg",
+    "source_image_id": 1650,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-20-_jpg.rf.8ffc7ebf1f5223352ab3384584f11f6f.jpg",
+    "source_image_id": 1292,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-22-_jpg.rf.32400937094ddac69376b39dc62e2587.jpg",
+    "source_image_id": 935,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-23-_jpg.rf.e263b68f906df5ece0e8fd37656a0859.jpg",
+    "source_image_id": 992,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-24-_jpg.rf.e6fe150c02b3aff08825d0a7c60e6a38.jpg",
+    "source_image_id": 1019,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-26-_jpg.rf.065b1a6cc96ebf6cdb79f09b5d741f6e.jpg",
+    "source_image_id": 642,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-3-_jpg.rf.85c4336a12fe3cd1b99b0b0e93dd887e.jpg",
+    "source_image_id": 1235,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-31-_jpg.rf.59e2a49d2fac79d913db90f1f0e22f7d.jpg",
+    "source_image_id": 1791,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-33-_jpg.rf.8a1ac6ca384293c98f2dea57c63b34ee.jpg",
+    "source_image_id": 1256,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-34-_jpg.rf.a5c00a619fef5b044c7402a0ff5444d0.jpg",
+    "source_image_id": 1446,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-35-_jpg.rf.99e425264f121d4eee996347243c2ba3.jpg",
+    "source_image_id": 1355,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-36-_jpg.rf.633b5d28635dd3e5f8a9f9d2320053a9.jpg",
+    "source_image_id": 356,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-39-_jpg.rf.f3fc910455160dfb8519c6f2b6f2b9ca.jpg",
+    "source_image_id": 1116,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-4-_jpg.rf.a2a2775d1d5b5c6879e9db1a11953db6.jpg",
+    "source_image_id": 1422,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-40-_jpg.rf.9f690ba36266f8fc772531f6352eff68.jpg",
+    "source_image_id": 1391,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-41-_jpg.rf.7a7fc1ea211d1378e51637b280843a0e.jpg",
+    "source_image_id": 514,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-42-_jpg.rf.3902b6bf41828927cd9a2825a4c3c12a.jpg",
+    "source_image_id": 1560,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-43-_jpg.rf.d9d51e0baaa257cd55b79723237471cd.jpg",
+    "source_image_id": 289,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-44-_jpg.rf.18def7e69cdd7dd0426cae84b806413f.jpg",
+    "source_image_id": 752,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-5-_jpg.rf.6bdb3704b71e1b46a9d0b298189d56c1.jpg",
+    "source_image_id": 420,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-50-_jpg.rf.d84e4bc7b4bc1a146fc58636a2354d5b.jpg",
+    "source_image_id": 272,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-51-_JPG.rf.fbcd94c739b95ed4fc6882544f0a1a75.jpg",
+    "source_image_id": 1168,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-52-_JPG.rf.2bf4aecc94acf6bb87d502c2882d6622.jpg",
+    "source_image_id": 893,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-53-_JPG.rf.4e4574d9f06ba4e63f6b16932d02bc07.jpg",
+    "source_image_id": 1713,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-54-_JPG.rf.4e42b2c87d06a372b3624bfb3448cb43.jpg",
+    "source_image_id": 1716,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-57-_JPG.rf.e1d682114266858eee07f92973ec4507.jpg",
+    "source_image_id": 988,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-59-_JPG.rf.532b014664184eb835229a55eb35f276.jpg",
+    "source_image_id": 1745,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-6-_jpg.rf.cd6e4ff5c739527fa9aaab1af7219072.jpg",
+    "source_image_id": 209,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-7-_jpg.rf.c210ece2d84e58d905d210d8900e4af6.jpg",
+    "source_image_id": 134,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "berminyak__-9-_jpg.rf.2271bb0741cdd7586628644290d2a618.jpg",
+    "source_image_id": 832,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "bieu-hien-cua-benh-lupus-ban-do2_jpg.rf.61d2969e76f40ce89aece3b081d0b73a.jpg",
+    "source_image_id": 347,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "c0500787-800px-wm_jpg.rf.42e74f37f3124239849ee76b5c6fd1cb.jpg",
+    "source_image_id": 1629,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "c0500788-800px-wm_jpg.rf.857e6d14dffd73e1ee770cf7b6c32695.jpg",
+    "source_image_id": 1207,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "c3bf013ac75c78c5d78fc8f7277af52f_jpg.rf.4fb348e977d7b7e03f70617161818af2.jpg",
+    "source_image_id": 1721,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "chung-do-mat2_jpg.rf.be4cfb2ebfefeaa488711991007cfed8.jpg",
+    "source_image_id": 111,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "da-bi-kich-ung_9b3f3875_d7b1_4c14_b67c_5e6434550409_jpg.rf.e9d1e1e456d33a1e1412d0c3af5ecd67.jpg",
+    "source_image_id": 1042,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "da-mat-bi-do-rat-va-ngua-600x400_jpg.rf.391dde71a440675e95352ac8fcf09ec7.jpg",
+    "source_image_id": 1552,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "da-mat-bi-rat-khong-ro-nguyen-nhan-1_jpg.rf.a64298c51caf2db6a403855e77db544f.jpg",
+    "source_image_id": 1456,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "da-mat-noi-man-do-khong-ngua-do-di-ung_jpg.rf.eb3031b5d309ff1449da5c2b12d4f9f0.jpg",
+    "source_image_id": 1049,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "da-mong-noi-gan-mau-la-benh-gi-2_jpg.rf.afeada50ad19d6d4ca12f378e1c309be.jpg",
+    "source_image_id": 3,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "da-mong-noi-mach-mau-1-2_png.rf.35b6c09b6b34bf86e065b8a693137eea.jpg",
+    "source_image_id": 1508,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "di-ung-da-mat_jpg.rf.1b3106c5679967d497651f337af60485.jpg",
+    "source_image_id": 766,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "download-1-_jpg.rf.7e6559cc1faca935e59122ef0bc04a6d.jpg",
+    "source_image_id": 547,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "download_jpg.rf.03b7572635684b1807886a72a3d001b9.jpg",
+    "source_image_id": 622,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-108-_jpg.rf.59d9143ec992e5b3c71b5d3af150b597.jpg",
+    "source_image_id": 1796,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-109-_jpg.rf.641769f1f4657ffebb38f7b2d8518f7d.jpg",
+    "source_image_id": 368,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-112-_jpg.rf.4801e5a1ce5816340de32045a074bf15.jpg",
+    "source_image_id": 1673,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-113-_jpg.rf.5cdea739cf9d53a2d4a22245c2f74352.jpg",
+    "source_image_id": 325,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-117-_jpg.rf.6d56938bd5e9d7c72bfc3a81fd2a638b.jpg",
+    "source_image_id": 436,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-121-_jpg.rf.3a764ff4cd11a2c63b36c86477e47a9a.jpg",
+    "source_image_id": 1566,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-131-_jpg.rf.e60d4abe23fd4e6ead7ef1f61fecdee7.jpg",
+    "source_image_id": 1011,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-141-_jpg.rf.f5a7099041a4b13d480b909d45e3aa36.jpg",
+    "source_image_id": 1135,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-147-_jpg.rf.de28358b4ad9f60db56182ff53caf482.jpg",
+    "source_image_id": 944,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-150-_jpg.rf.0c736b38a49a20e70f130d0eb802a735.jpg",
+    "source_image_id": 651,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-162-_jpg.rf.1805c5ee36108603571f2122827cac93.jpg",
+    "source_image_id": 748,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "dry-166-_jpg.rf.fcaf7cc4e484177d39f4857d18ec30ff.jpg",
+    "source_image_id": 1177,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-236-_jpg.rf.852c3928a5e128ed9f1c3282415b0514.jpg",
+    "source_image_id": 1224,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-skin_10_jpeg.rf.05ea5fd64dd44672fa54cb62c5d83f03.jpg",
+    "source_image_id": 634,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-skin_118_jpeg.rf.a7587c4a3ba00779e2d904aa9705e2ec.jpg",
+    "source_image_id": 1457,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-skin_13_jpeg.rf.64808bbef80812980cf36c4a7e3e8ae0.jpg",
+    "source_image_id": 372,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-skin_15_jpeg.rf.14fcdfc986d016335c5affd8602b6015.jpg",
+    "source_image_id": 724,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-skin_19_jpeg.rf.2a0a55fd8eb765c640bb47c5f71b27bb.jpg",
+    "source_image_id": 879,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry-skin_36_jpeg.rf.cdb1053e7e42d376cfc433bb9367c6b7.jpg",
+    "source_image_id": 211,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry10_jpg.rf.0186c3535d9be3e200b6a4988370c6d9.jpg",
+    "source_image_id": 607,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry11_jpg.rf.bc2e5c61fe6bf96c68f094c01118f38d.jpg",
+    "source_image_id": 89,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry12_jpg.rf.94e2cc7094a0e9d47b0bce2ff0e73c5f.jpg",
+    "source_image_id": 1319,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry15_jpg.rf.0ba2b626f08d94d0acbddda368356ead.jpg",
+    "source_image_id": 667,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry16_jpg.rf.7b7025391d65d0421523057840945ff6.jpg",
+    "source_image_id": 526,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry18_jpg.rf.a5e4ad1b491a60ad22bdcc3d13758e30.jpg",
+    "source_image_id": 1450,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry1_jpg.rf.888ce70f1734fd701f6e558a91e421e6.jpg",
+    "source_image_id": 1250,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry20_JPG.rf.395f440a64cc9646df067ec1b00f982e.jpg",
+    "source_image_id": 1558,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry21_jpg.rf.b98bed70d296e7ec58b0869da058ab7b.jpg",
+    "source_image_id": 79,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry22_jpg.rf.2a6282fc941fe78dbe065246d895f231.jpg",
+    "source_image_id": 882,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry23_jpg.rf.1b4859bdcc1955da8a84acb037f95608.jpg",
+    "source_image_id": 769,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry25_jpg.rf.80e1c5add70fc962c2695e5fda5cb50c.jpg",
+    "source_image_id": 566,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry27_jpg.rf.826a418538972d79cdc8f2db5f1425b3.jpg",
+    "source_image_id": 582,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry31_jpg.rf.92f5a20fc591a5c8913677dc165ce9bf.jpg",
+    "source_image_id": 1310,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry32_jpg.rf.55568914eb17872e358d78bd8dd05269.jpg",
+    "source_image_id": 1761,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry34_jpg.rf.3ba80132436b6a8a1c419ad4c05ba978.jpg",
+    "source_image_id": 1580,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry3_jpg.rf.80a4a26b6333970d7805d2d176fe88ba.jpg",
+    "source_image_id": 565,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry4_jpg.rf.a6253bae2b390f85b24d85d0e8bcd32d.jpg",
+    "source_image_id": 1452,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry5_jpg.rf.51bdb8e574131b8b6194868360393fe6.jpg",
+    "source_image_id": 1733,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry6_jpg.rf.ba59980f848342c016763c3562dbe18d.jpg",
+    "source_image_id": 84,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "dry7_jpg.rf.c73112902c64eeead8462544e706571b.jpg",
+    "source_image_id": 165,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "excelvplus-Vascular-Lesions-Telangiectasias-Ross-P1-before_jpg.rf.41c7f75d4ea37c9fd4cfd1a525f6a31f.jpg",
+    "source_image_id": 1621,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "how-to-get-rid-of-redness-on-face-feat_jpg.rf.382997c6a20171ace42aab72ab83c1b8.jpg",
+    "source_image_id": 1546,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "image_jpg.rf.380efc7a03344f1d02c66e2b36c89976.jpg",
+    "source_image_id": 1544,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "images_jpg.rf.afabccae76622b2e37c223425a5925d9.jpg",
+    "source_image_id": 5,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "istockphoto-1214062242-170667a_jpg.rf.5f7224e3b30d166ab471a2c5b2b2e2ee.jpg",
+    "source_image_id": 329,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "istockphoto-638452020-612x612_jpg.rf.6b430ec0ec3611ab427a01cba0605013.jpg",
+    "source_image_id": 413,
+    "original_categories": [
+      "Eyebags"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-1-_jpg.rf.c5fe9140c063a64de858298b8aaa503c.jpg",
+    "source_image_id": 150,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-1-_jpg.rf.ebf0a5b0a48c206bbc519ca18f96110e.jpg",
+    "source_image_id": 1056,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-10-_jpg.rf.b746ab2b79b4a7d0fec43f22ad35c674.jpg",
+    "source_image_id": 73,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-11-_jpg.rf.3196bba48de4c4a7f2a0b6a79dc18e37.jpg",
+    "source_image_id": 931,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-12-_jpg.rf.5cb0f1e5f369ffb3876a5cf8aba1c96c.jpg",
+    "source_image_id": 300,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-13-_jpg.rf.0f582ad82548f74af117b1514e2e8de3.jpg",
+    "source_image_id": 681,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-14-_jpg.rf.a0b76cfa799cb0ab5cdb699421374dfa.jpg",
+    "source_image_id": 1407,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-15-_jpg.rf.c89aeea7e1584a028b819a922838dcbc.jpg",
+    "source_image_id": 172,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-16-_jpg.rf.6c38301114398a7514f165499661a18f.jpg",
+    "source_image_id": 421,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-16-_jpg.rf.aca146c0450a937e6913f40e3c1e4535.jpg",
+    "source_image_id": 1483,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-17-_jpg.rf.1be1109de2a7f3aef73c39b2b65a39d3.jpg",
+    "source_image_id": 770,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-18-_jpg.rf.486cbe8abb8d752c6954fbe48f2b2264.jpg",
+    "source_image_id": 1682,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-18-_jpg.rf.f25484c7b92bbcf9ae9fb3398d96eca0.jpg",
+    "source_image_id": 1106,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-19-_jpg.rf.0588749f93b817f81b9e4f9f38786fc0.jpg",
+    "source_image_id": 631,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-19-_jpg.rf.a009bf16af7b98436bec81f412fea90a.jpg",
+    "source_image_id": 1398,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-2-_jpg.rf.21103245b15cd78602e22d1809054e0b.jpg",
+    "source_image_id": 817,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-2-_jpg.rf.59c9cfb49785140b3c53580ce4b89e63.jpg",
+    "source_image_id": 1785,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-20-_jpg.rf.3b6c27ec82bcaa538874aa3f05046816.jpg",
+    "source_image_id": 1574,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-21-_jpg.rf.00a1d44312ca638551a8794d0821b736.jpg",
+    "source_image_id": 595,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-23-_jpg.rf.40e5ae9bfea66c757286339899d6bc1b.jpg",
+    "source_image_id": 1615,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-24-_jpg.rf.b708ff511951c37091214dab00afce91.jpg",
+    "source_image_id": 72,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-25-_jpg.rf.3b5fb1c0eb4acc63ccf79bb2b8492763.jpg",
+    "source_image_id": 1573,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-27-_jpg.rf.341d6bacbffd439e6cc59451ff062312.jpg",
+    "source_image_id": 1506,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-28-_jpg.rf.3db6089dbba1fb3d5dc31f960c3e5079.jpg",
+    "source_image_id": 1594,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-29-_jpg.rf.c6a16d672d842d44b390a1741347af56.jpg",
+    "source_image_id": 159,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-29-_jpg.rf.f9ae78eb746e6dadd8d2a10e8f8f9e05.jpg",
+    "source_image_id": 1150,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-3-_jpg.rf.1b1dc54eac4b9f316069e0752a2126b8.jpg",
+    "source_image_id": 762,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-3-_jpg.rf.f438afc9a545e182b616db267fef70aa.jpg",
+    "source_image_id": 1119,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-30-_jpg.rf.b5410e140f324744c7e2c38b78c3dbdb.jpg",
+    "source_image_id": 50,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-30-_jpg.rf.dfbc1b2d0d71a1797846addaa29561a2.jpg",
+    "source_image_id": 973,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-31-_jpg.rf.98fd15119431cbaaa3b40dfe5a27da25.jpg",
+    "source_image_id": 1351,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-32-_jpg.rf.a1c4caaf0c4aab4f11ec27b06fa2abc4.jpg",
+    "source_image_id": 1419,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-32-_jpg.rf.ca8857649ac3f19a989bd83e934134a0.jpg",
+    "source_image_id": 191,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-33-_jpg.rf.077a5836ce7c206287ef152d81644590.jpg",
+    "source_image_id": 661,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-34-_jpg.rf.6400990f9e3a3675308314f7e3a0072e.jpg",
+    "source_image_id": 367,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-36-_jpg.rf.156df35984edf87035230cb8ab608008.jpg",
+    "source_image_id": 730,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-36-_jpg.rf.4d2053fecef95e75e802e84a0cf0762a.jpg",
+    "source_image_id": 1702,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-37-_jpg.rf.37e61cec7871ff3291d2ac9f8e8f3a34.jpg",
+    "source_image_id": 1543,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-37-_jpg.rf.4daa835762c1d53b7043f4b7c4c13034.jpg",
+    "source_image_id": 1705,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-38-_jpg.rf.5deb3b837d023fbec6981326e76f4dbb.jpg",
+    "source_image_id": 304,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-39-_jpg.rf.3a9307582ee998552ec2cd0259df671f.jpg",
+    "source_image_id": 1568,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-4-_jpg.rf.9806cec711298fab0f39685406e4bbba.jpg",
+    "source_image_id": 1342,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-4-_jpg.rf.bee78de87891c5675cbbb047e3c47fe1.jpg",
+    "source_image_id": 112,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-4-_jpg.rf.e565819bd351f4cd3c21c1af139aa221.jpg",
+    "source_image_id": 1007,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-40-_jpg.rf.59bf7611c6d9daccc3c99d46a684465e.jpg",
+    "source_image_id": 1788,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-42-_jpg.rf.9ba281ef0a59acb6476bd1927d6d362c.jpg",
+    "source_image_id": 1359,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-42-_jpg.rf.b56acf4c6d2c72b1c70556ed1f565792.jpg",
+    "source_image_id": 51,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-43-_jpg.rf.05e0a5e0e20a1177819d3c1be00345ea.jpg",
+    "source_image_id": 635,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-43-_jpg.rf.4300112e169e8c926dcaf96e090b85b6.jpg",
+    "source_image_id": 1630,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-44-_jpg.rf.6654de5b23962af655225cf6ed5b7c15.jpg",
+    "source_image_id": 379,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-45-_JPG.rf.959f0a4f790e58023445d1565c223a8f.jpg",
+    "source_image_id": 1320,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-45-_jpg.rf.269c58a91ca07dd04220c75badf6b1d7.jpg",
+    "source_image_id": 849,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-45-_jpg.rf.85c355124fd0d9680590f553e51e5cdb.jpg",
+    "source_image_id": 1213,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-46-_jpg.rf.2c2bc974cb4ee4ca31a647b8e96f84f4.jpg",
+    "source_image_id": 895,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-46-_jpg.rf.d9ba295957e495895f6e3899a5bd5d77.jpg",
+    "source_image_id": 287,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-47-_jpg.rf.29bc385c4b8fac16c0c62449dc262306.jpg",
+    "source_image_id": 873,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-49-_jpg.rf.0db948ea7546cedeaa53570851e8ca6d.jpg",
+    "source_image_id": 670,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-49-_jpg.rf.5d072fb0ef0c6f02cda0fd4c6ccf2ca9.jpg",
+    "source_image_id": 307,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-5-_jpg.rf.2bf42dcb4b8d1d3e02ed9d168f3c00a7.jpg",
+    "source_image_id": 894,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-50-_jpg.rf.201a4220dc460dc76cd0c91e68bab7db.jpg",
+    "source_image_id": 806,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-51-_jpg.rf.d82067e6c6920a84267610e1de64cbc8.jpg",
+    "source_image_id": 271,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-53-_jpg.rf.30cc1e5625d85168931a002c613f3cf2.jpg",
+    "source_image_id": 919,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-55-_jpg.rf.fc8f49903ada888c7445729a6a126249.jpg",
+    "source_image_id": 1178,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-56-_jpg.rf.2de783bf4393e7c98ae196925224f95a.jpg",
+    "source_image_id": 906,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-6-_jpg.rf.6b65ab481e8a6326e3be23d20bd0d64a.jpg",
+    "source_image_id": 414,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-6-_jpg.rf.d95a63a70c23f0bdf8cbab3c62c79395.jpg",
+    "source_image_id": 284,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-61-_jpg.rf.a4e8f682300a13da3c9ff13698bf0abd.jpg",
+    "source_image_id": 1439,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-71-_jpg.rf.4d4ceee3feafec8cf0307f09a2e1eb87.jpg",
+    "source_image_id": 1703,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-8-_jpg.rf.486487f21d337248418ae88b8438e459.jpg",
+    "source_image_id": 1680,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-8-_jpg.rf.b4d7f735ee0ed03ef0d67dc3c83f3d9d.jpg",
+    "source_image_id": 46,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-88-_jpg.rf.0a589f9d3b03a0c0d2982f5179b11bee.jpg",
+    "source_image_id": 655,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering-9-_jpg.rf.ab2fc57d61e5f933c5c57e672fe9a6d5.jpg",
+    "source_image_id": 1476,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-101-_jpg.rf.f69de2223f3aa0ada3f8c552ad94318f.jpg",
+    "source_image_id": 1128,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-102-_jpg.rf.a83b721f83277945d6d99dd620238edd.jpg",
+    "source_image_id": 1463,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-103-_jpg.rf.eec6ced893b63b687da88ff24dfb33c0.jpg",
+    "source_image_id": 1083,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-104-_jpg.rf.7884497a352c858a622de0d706f26bdf.jpg",
+    "source_image_id": 494,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-107-_jpg.rf.714b1f24781cf5cef309d4f79f1172c9.jpg",
+    "source_image_id": 447,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-109-_jpg.rf.34635a424ae12508fd750ff1039ab547.jpg",
+    "source_image_id": 1521,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-11-_jpg.rf.454a7c489449e8ef44452d49989d4692.jpg",
+    "source_image_id": 1651,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-110-_jpg.rf.a0dd22ac6cf59069b4c1a7c6e89afec9.jpg",
+    "source_image_id": 1406,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-111-_jpg.rf.56aaa232ae017c2a732ffe3561cd888d.jpg",
+    "source_image_id": 1773,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-112-_jpg.rf.7aa954affe3b4aedef66502a8a5968c0.jpg",
+    "source_image_id": 518,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-114-_jpg.rf.7f9a41d9acfc3867dfdb2491d9f2a796.jpg",
+    "source_image_id": 557,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-115-_jpg.rf.254d8b3d343e5cfb35ff9039f2535a39.jpg",
+    "source_image_id": 844,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-118-_jpg.rf.04dbbbfebb42b8d623d0ed48b21e1d2b.jpg",
+    "source_image_id": 627,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-119-_jpg.rf.3bbdfee5b023954b04b2438f62776f1f.jpg",
+    "source_image_id": 1579,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-121-_jpg.rf.de14c84169ed57578f59c5e0c5e81c5a.jpg",
+    "source_image_id": 949,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-122-_jpg.rf.f0edd6e81713a92ec0a8b1e1363e3803.jpg",
+    "source_image_id": 1095,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-123-_jpg.rf.b4543cb46b0bf6bbf179d2f1522433b2.jpg",
+    "source_image_id": 48,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-127-_jpg.rf.770c9b4e7c2f00f8536d6d43f0b58da1.jpg",
+    "source_image_id": 484,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-128-_jpg.rf.fdb5d7f5506335aa84268d5f53fae795.jpg",
+    "source_image_id": 1196,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-129-_jpg.rf.1dd7a2fbfe7a6dfb59a4f1a8cc4b11eb.jpg",
+    "source_image_id": 786,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-130-_jpg.rf.e9f5aa4fc7e796888f602408981f49cd.jpg",
+    "source_image_id": 1044,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-134-_jpg.rf.aa9fe983239e02d5b7d369150299fb18.jpg",
+    "source_image_id": 1472,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-136-_jpg.rf.20d8d4bc6f29e64ccc196f590d862e50.jpg",
+    "source_image_id": 813,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-137-_jpg.rf.7511ec57a03ddb1949131ff42d290ac0.jpg",
+    "source_image_id": 474,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-138-_jpg.rf.ed4a24c175295a89daf687b8314ef8b8.jpg",
+    "source_image_id": 1070,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-143-_jpg.rf.9f84134f4a35f391496205c43f850e12.jpg",
+    "source_image_id": 1390,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-144-_jpg.rf.02201d791093990d9be44d61d465936b.jpg",
+    "source_image_id": 611,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-147-_jpg.rf.752cfa50b5756e65e1d02bbd2cf62d2f.jpg",
+    "source_image_id": 480,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-149-_jpg.rf.2ec2e1f191d518e264f0e20711efc75a.jpg",
+    "source_image_id": 914,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-17-_jpg.rf.ce2521e3e7a4eda55febf38b456cb5a1.jpg",
+    "source_image_id": 215,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-18-_jpg.rf.df435d15ce8833f72bd7539541ec09a7.jpg",
+    "source_image_id": 968,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-19-_jpg.rf.5b448c276365731cc65fd03d493436bf.jpg",
+    "source_image_id": 1799,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-2-_jpg.rf.b04a627f285c316d8441e894c0287a32.jpg",
+    "source_image_id": 17,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-22-_jpg.rf.afd4bc64294ca007257890e969b5f05f.jpg",
+    "source_image_id": 18,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-24-_jpg.rf.230f4d237bd7aeeeb2bb9ab79b494801.jpg",
+    "source_image_id": 838,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-25-_jpg.rf.13588a113180cf8b4778d1b2c1b79743.jpg",
+    "source_image_id": 711,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-26-_jpg.rf.f6fa5cf617753230f4ca89e2d8995052.jpg",
+    "source_image_id": 1136,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-28-_jpg.rf.6d785b7529d6280b6fe888f1fbb83fac.jpg",
+    "source_image_id": 431,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-29-_jpg.rf.1f11478fc893b0cf93c059838d242a05.jpg",
+    "source_image_id": 793,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-3-_jpg.rf.87572c7f83d8892fb0dc9971302825b1.jpg",
+    "source_image_id": 1238,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-34-_jpg.rf.29f06a504526aed94074446978172a94.jpg",
+    "source_image_id": 877,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-35-_jpg.rf.11360d8e2beeefa6d56a7094131ddacf.jpg",
+    "source_image_id": 702,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-37-_jpg.rf.e9998236f652b75cddf4be9afa610cf8.jpg",
+    "source_image_id": 1037,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-38-_jpg.rf.14b44f5406c93233ce45451b23fcce7e.jpg",
+    "source_image_id": 718,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-39-_jpg.rf.a1312a7a2575c37219e0df1b34dad2e7.jpg",
+    "source_image_id": 1408,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-4-_jpg.rf.10307e16287480cd21ee3bcec26a0ce3.jpg",
+    "source_image_id": 689,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-40-_jpg.rf.e79a22bc013ed692b686b9371cfa8d3c.jpg",
+    "source_image_id": 1026,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-43-_jpg.rf.423270d934587efbc0e76542e7856586.jpg",
+    "source_image_id": 1625,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-45-_jpg.rf.3f12fc2d05b043c7a87ab9977ee70a02.jpg",
+    "source_image_id": 1608,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-47-_jpg.rf.d21a304bd5a43dc98c317dfd3a8dfb4f.jpg",
+    "source_image_id": 237,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-48-_jpg.rf.ead9b37e87c534c7b3b00a4ad1d13ae0.jpg",
+    "source_image_id": 1048,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-50-_jpg.rf.79c251e81949b3c7d0f6d50fb17e75f3.jpg",
+    "source_image_id": 506,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-56-_jpg.rf.ebe1778ccb40b948bd3f2df5eebf7973.jpg",
+    "source_image_id": 1053,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-57-_jpg.rf.079e012246a19ae1ee8c51b90cf775e9.jpg",
+    "source_image_id": 662,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-6-_jpg.rf.b05f6a323b1d57be6149308293d4ba74.jpg",
+    "source_image_id": 1,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-61-_jpg.rf.610882d31b70ba2299adaacdfdad999f.jpg",
+    "source_image_id": 343,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-62-_jpg.rf.3bd0b85222368625d4617ebd23b5095f.jpg",
+    "source_image_id": 1583,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-67-_jpg.rf.a4c88c1a28262396a684eb12b1c9fea5.jpg",
+    "source_image_id": 1438,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-68-_jpg.rf.7fc77db42d084803934d4439b047024d.jpg",
+    "source_image_id": 559,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-7-_jpg.rf.2afd97edb3c8268f23170031e0b773e3.jpg",
+    "source_image_id": 885,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-70-_jpg.rf.6f9947155291e02878a24249bd8b5ce3.jpg",
+    "source_image_id": 441,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-72-_jpg.rf.27ee81acf4910048d8c93615054a0103.jpg",
+    "source_image_id": 858,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-74-_jpg.rf.0cc45fc1bef42bbe990a1cf60b5b39a5.jpg",
+    "source_image_id": 653,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-75-_jpg.rf.ca6c742cf37a9f147f66ecae5a6e47ce.jpg",
+    "source_image_id": 183,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-76-_jpg.rf.98680dc73198d2ea3395bd5f9efa973e.jpg",
+    "source_image_id": 1343,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-77-_jpg.rf.87492278f38507a541fc8c3494a68aa8.jpg",
+    "source_image_id": 1236,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-79-_jpg.rf.1f408d3dbc47ecc5dc19555f44ba57cd.jpg",
+    "source_image_id": 799,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-8-_jpg.rf.a894623646444ab7accc809e7c91082f.jpg",
+    "source_image_id": 1464,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-80-_jpg.rf.b09a477ecd1dd01b2064f50b1c7927ed.jpg",
+    "source_image_id": 8,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-83-_jpg.rf.52c4dfd64dcef357695aadea26f8a90f.jpg",
+    "source_image_id": 1742,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-84-_jpg.rf.a054d36e1f78dcc15829fca7b9e07aa4.jpg",
+    "source_image_id": 1399,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-85-_jpg.rf.622544017c36126ca1ee5dd58aede1eb.jpg",
+    "source_image_id": 349,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-86-_jpg.rf.d165bb07837eece34dbb75c7d20d8456.jpg",
+    "source_image_id": 232,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-87-_jpg.rf.8407749937db585edfbcb4015a7ececb.jpg",
+    "source_image_id": 591,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-89-_jpg.rf.9a7c5f092335a458d0027dadc5fee327.jpg",
+    "source_image_id": 1357,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-90-_jpg.rf.c68b18519096a21ccd7e271911eb9189.jpg",
+    "source_image_id": 160,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-91-_jpg.rf.73bb050737136039d3369389d8207440.jpg",
+    "source_image_id": 469,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-92-_jpg.rf.6a0f1ff761043a5b7f062f0a228a49ab.jpg",
+    "source_image_id": 403,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-93-_jpg.rf.904a6d50050b895102d8ea56dfaa9775.jpg",
+    "source_image_id": 1295,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-94-_jpg.rf.11894e403c78da45c326a56eab83071e.jpg",
+    "source_image_id": 701,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-95-_jpg.rf.5689337fa3dabae3a85acddda14a6b7e.jpg",
+    "source_image_id": 1768,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering_-97-_jpg.rf.802f2f38874c374704eb69937a4339fa.jpg",
+    "source_image_id": 560,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-103-_jpg.rf.c93e760b21c2315239536dbd6454565c.jpg",
+    "source_image_id": 178,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-105-_jpg.rf.33a04a5b6fbd6db0e7835da08a8fb77b.jpg",
+    "source_image_id": 1512,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-107-_jpg.rf.5ffd1605dce56a86deb9db6b7a2d2016.jpg",
+    "source_image_id": 331,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-109-_jpg.rf.3d86cc28c6ac1461bb2c10729e747645.jpg",
+    "source_image_id": 1592,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-13-_JPG.rf.7190edc0bb4c68937147fdfdda5803d0.jpg",
+    "source_image_id": 453,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-14-_JPG.rf.879355a96b8bc5b2fd9b061bc6a1cdf3.jpg",
+    "source_image_id": 1242,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-16-_JPG.rf.351b298f6be2dd4c95e1cc7bf3a2e35b.jpg",
+    "source_image_id": 1511,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-17-_JPG.rf.e08cf4407a0740ea99488d0a85774d5b.jpg",
+    "source_image_id": 979,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-19-_JPG.rf.49ac03a6547c0e92f3c8207116e3b9d0.jpg",
+    "source_image_id": 1688,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-21-_JPG.rf.e924e9b833f56592ae696e35f0d55bfd.jpg",
+    "source_image_id": 1032,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-22-_jpg.rf.3dd1b4eb07b4a32a5d1ed52ea916cf49.jpg",
+    "source_image_id": 1595,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-23-_jpg.rf.9930c86439b2e09c39c1291facffdbce.jpg",
+    "source_image_id": 1349,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-24-_jpg.rf.ab3128875434f9730e566e16d1d9ab70.jpg",
+    "source_image_id": 1478,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-26-_jpg.rf.6587cc3d7aea45b5af965209fd8af21b.jpg",
+    "source_image_id": 377,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-27-_jpg.rf.a0bbde6a69b9cb7cb63458881f83d755.jpg",
+    "source_image_id": 1404,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-28-_jpg.rf.e1d44dd3939d1954c2ddb915acbf81e1.jpg",
+    "source_image_id": 987,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-29-_jpg.rf.7463e8d974f16fdbe79bbf1b2f9f0f22.jpg",
+    "source_image_id": 472,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-3-_JPG.rf.7851d43c3dca90fb1faf7ee1722201e0.jpg",
+    "source_image_id": 497,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-31-_jpg.rf.d4a63715b71838d3c94420bb3254eae6.jpg",
+    "source_image_id": 254,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-33-_jpg.rf.09fe553b3697e8ddbb122b1fe3ffd4b2.jpg",
+    "source_image_id": 650,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-36-_jpg.rf.68280074c4e20d9b5dc103e9a9fc4442.jpg",
+    "source_image_id": 392,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-38-_jpg.rf.bf2c1c45f56fb99c3afbd0fcc897b529.jpg",
+    "source_image_id": 114,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-4-_JPG.rf.ffe81f9b7f0acba60b6084800658af5d.jpg",
+    "source_image_id": 1206,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-43-_jpg.rf.0d563d97fdb084d99cef0f966abd758a.jpg",
+    "source_image_id": 669,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-47-_jpg.rf.281167120c647e6f71e9087fa91956aa.jpg",
+    "source_image_id": 860,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-50-_jpg.rf.fd1e662de713c17c78c3258879f75d71.jpg",
+    "source_image_id": 1182,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-51-_jpg.rf.53f7a680309a063a2a54d04a41f9da59.jpg",
+    "source_image_id": 1752,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-52-_jpg.rf.37ec322da8591981977266d8e393e7db.jpg",
+    "source_image_id": 1542,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-54-_jpg.rf.39abf25f8fa50400c836185907be55fd.jpg",
+    "source_image_id": 1559,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-55-_jpg.rf.408a91446c4938a7bac39b2976f495c3.jpg",
+    "source_image_id": 1616,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-57-_jpg.rf.8ec78fc2807ab2f0632c01e93b70cb7b.jpg",
+    "source_image_id": 1284,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-58-_jpg.rf.60ca9292a62f0c2478386dd15bc0c3e3.jpg",
+    "source_image_id": 340,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-63-_jpg.rf.dfb3f1a06dbdfee0a1d4d9449409ad1d.jpg",
+    "source_image_id": 976,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-65-_jpg.rf.aa4c3088d8f5bc65334868207ec7fdd3.jpg",
+    "source_image_id": 1474,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-7-_JPG.rf.cc67fc1f61a9aef50c4d40d222023fc0.jpg",
+    "source_image_id": 202,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-70-_jpg.rf.642233099b210025402e356c705985c9.jpg",
+    "source_image_id": 370,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-71-_jpg.rf.13609c684b81372243af00e1fa666b7b.jpg",
+    "source_image_id": 710,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-73-_jpg.rf.8d2c5045571d50d58210f0b82c9ed415.jpg",
+    "source_image_id": 1273,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-76-_jpg.rf.205797a820d85fbc9c50489658fd322f.jpg",
+    "source_image_id": 812,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-77-_jpg.rf.961cbe69b3a18f9feb46023c56eb3a9f.jpg",
+    "source_image_id": 1326,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-80-_jpg.rf.32745b5af9b9aefe676951afb4afc395.jpg",
+    "source_image_id": 1514,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-82-_jpg.rf.b38a04222ef42f6c3c0ce4c76fa2746c.jpg",
+    "source_image_id": 41,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-87-_jpg.rf.2af9c583c51f8e1eeb898bc8e42ec4be.jpg",
+    "source_image_id": 888,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-88-_jpg.rf.0a79d46c353273054f54441dc55958b0.jpg",
+    "source_image_id": 657,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-90-_jpg.rf.25a4ecff97271577c3ccb632e4bea3de.jpg",
+    "source_image_id": 845,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-92-_jpg.rf.4368c4b28ed3ca3768faacd37d65d072.jpg",
+    "source_image_id": 1639,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-94-_jpg.rf.67bfceef5789e37662c5473a335dc1d1.jpg",
+    "source_image_id": 389,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "kering__-97-_jpg.rf.9e15252cb6a288737f4e0275081d168d.jpg",
+    "source_image_id": 1376,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "levle0_124_png.rf.ca3ad935fa64f7f48a43ede8c71227eb.jpg",
+    "source_image_id": 190,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_143_png.rf.cb97b330093dd0aa886a0606e4fb46d2.jpg",
+    "source_image_id": 192,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_166_png.rf.bfdb390c9162a38ab66e668a26a4c5dd.jpg",
+    "source_image_id": 120,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_252_png.rf.3a1460487c14a04d0d8dd33fc5fa7117.jpg",
+    "source_image_id": 1563,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_255_png.rf.96514eacca25eef7d76dbf2ccd082706.jpg",
+    "source_image_id": 1330,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_274_png.rf.73b4b808f7e289022100b6233a4d3773.jpg",
+    "source_image_id": 470,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_296_jpg.rf.8134987aa6a6d8343206078253842301.jpg",
+    "source_image_id": 572,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_304_jpg.rf.fcb43e080273f656bbfcd1ec0c3a4a7d.jpg",
+    "source_image_id": 1180,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_353_png.rf.8d2068d017fc957673f4650f216eb15a.jpg",
+    "source_image_id": 1272,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_385_png.rf.39ecfd2d528956dee4d15308561c8d7b.jpg",
+    "source_image_id": 1561,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_513_png.rf.c8981f2f9256acb9d58af4c781739dcf.jpg",
+    "source_image_id": 174,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_78_png.rf.f90ccf9c04e13457ebf4694d44ca3a5e.jpg",
+    "source_image_id": 1146,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_97_jpg.rf.b54b7a23a05976cf7ce91f99a827b9aa.jpg",
+    "source_image_id": 52,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle0_9_jpg.rf.53029e4b7dc27f5578bbfed6e0d8beb9.jpg",
+    "source_image_id": 1744,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_108_png.rf.a86528cf71fc7525d5a211dee01afd5d.jpg",
+    "source_image_id": 1462,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_151_jpg.rf.cb3ffb7e090af319696a983d5cd9348e.jpg",
+    "source_image_id": 193,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_164_jpg.rf.c0e67b7628cb217a36c9f6ee2c9e809c.jpg",
+    "source_image_id": 126,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_199_jpg.rf.99c94de947ff7c3fc0a0dd78d09c2224.jpg",
+    "source_image_id": 1354,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_229_png.rf.5980b9e1bc834ce895404e137fce60f2.jpg",
+    "source_image_id": 1781,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_250_png.rf.c8d43a32c7c73f44955afdabcf70e630.jpg",
+    "source_image_id": 179,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_279_png.rf.c80c812276718789ad9a3e599fa7ef27.jpg",
+    "source_image_id": 169,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_381_png.rf.925a710d3317c3fd67e0d8895c54896d.jpg",
+    "source_image_id": 1302,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_414_jpg.rf.3632bf3368c7e2956064bbd75f38cc9c.jpg",
+    "source_image_id": 1505,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_433_png.rf.82e5936052b52f32ad8fe0cbb0b0c9d5.jpg",
+    "source_image_id": 587,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_46_png.rf.6e9aaaf4b4f9d7d9f5ac9913031217d9.jpg",
+    "source_image_id": 435,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_512_jpg.rf.feefb01d34326ff60b13f17bd517aeed.jpg",
+    "source_image_id": 1197,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_544_png.rf.8c69ec3aa3e7d2775471a522695c197d.jpg",
+    "source_image_id": 1268,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_564_png.rf.dbcb9822d1e30a012d3163d2edf8b895.jpg",
+    "source_image_id": 958,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_593_png.rf.f9937dae39e24c1a11fa4c3de3bf1bdf.jpg",
+    "source_image_id": 1152,
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle1_604_png.rf.a9243162d21532cd27e0835237e5b104.jpg",
+    "source_image_id": 1469,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle2_161_jpg.rf.889902c67c0192f0059aa705d5c0f1af.jpg",
+    "source_image_id": 1251,
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle2_46_png.rf.f756b26338b49a4d35415071c4ad20f2.jpg",
+    "source_image_id": 1137,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle2_56_png.rf.d919231ac2e940b999585f9ed55d07f9.jpg",
+    "source_image_id": 280,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "levle2_85_png.rf.dd0f45ce29b4a2d6aec43002151e3e0e.jpg",
+    "source_image_id": 948,
+    "original_categories": [
+      "Blackheads"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "noi-man-do-ngua-toan-than-4_jpg.rf.9558d6c65196a1bf9ef5089fb75acf9f.jpg",
+    "source_image_id": 1322,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "noi-mao-mach_jpg.rf.28ca6d8476cc1f30824c1450c77a9345.jpg",
+    "source_image_id": 864,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "normal-140-_jpg.rf.a8cc93010856132ca065e267404bf5b2.jpg",
+    "source_image_id": 1466,
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-115-_jpg.rf.e52e7f0de8312c19eda628259ba85f05.jpg",
+    "source_image_id": 1004,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-116-_jpg.rf.80b1bb512df4f8812d5f89e709e8ad8f.jpg",
+    "source_image_id": 562,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-122-_jpg.rf.325f36e427c5fb72fabf5f6f0c8f9502.jpg",
+    "source_image_id": 1528,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-168-_jpg.rf.1fac449b913108b27646b96eef2983b7.jpg",
+    "source_image_id": 802,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-176-_jpg.rf.f4b84c491bacc37917a1d52c3d17a63b.jpg",
+    "source_image_id": 1121,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-194-_jpg.rf.f0fbd3b3879842ecb4eba72881bd12f0.jpg",
+    "source_image_id": 1094,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-199-_jpg.rf.eb22dee5826b50962cd4a6356c383f71.jpg",
+    "source_image_id": 1052,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-263-_jpg.rf.af32fc7f740975fbd99dcbb57ccbe761.jpg",
+    "source_image_id": 9,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-278-_jpg.rf.ed3adca3e8e04b16d5c006b6b826833a.jpg",
+    "source_image_id": 1072,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-48-_jpg.rf.e404d6e5cff64e3e1f4e78b8eb313f06.jpg",
+    "source_image_id": 998,
+    "original_categories": [
+      "Blackheads",
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": true
+  },
+  {
+    "filename": "oily-skin_10_jpeg.rf.d3383aded8a9b60d3e0aeb53b38f0c3a.jpg",
+    "source_image_id": 242,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-skin_110_jpeg.rf.7d628eb44fc612c4d3a5742fc6c0f420.jpg",
+    "source_image_id": 539,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-skin_148_png.rf.6115746165ad5c8b650a56052609bc5c.jpg",
+    "source_image_id": 345,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily-skin_187_jpeg.rf.f050ecd5a5e0f0a5d30b683c6fdec8b4.jpg",
+    "source_image_id": 1091,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily13_jpg.rf.f7e4346b4ac8d640fc62b799448ee503.jpg",
+    "source_image_id": 1141,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily15_jpg.rf.ec2ee78a4a5f3f82e52978093e48f966.jpg",
+    "source_image_id": 1061,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily17_jpg.rf.175c87fecc102442bb11ecc88dbd602b.jpg",
+    "source_image_id": 742,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily18_jpg.rf.857e99e6693975c0eeb342c874be624a.jpg",
+    "source_image_id": 1233,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily20_jpg.rf.450a2e3fb3453d738cf8e4cd8c5299ca.jpg",
+    "source_image_id": 1646,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily21_jpg.rf.22b70448931fadfceaf612d71d14e8c2.jpg",
+    "source_image_id": 833,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily22_jpg.rf.939e33aa8929d8c7cd4f3f7cd39f244f.jpg",
+    "source_image_id": 1313,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily23_jpg.rf.a623e0a5b2ada477afde9cf0475375ff.jpg",
+    "source_image_id": 1454,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily28_jpg.rf.8236ee7e505701cfd83cb0377badd064.jpg",
+    "source_image_id": 578,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily2_jpg.rf.fd29c17e9f1c30086269ab85de651412.jpg",
+    "source_image_id": 1183,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily31_jpg.rf.79a6a1dbe6ad4f9775ed634088bdeaa9.jpg",
+    "source_image_id": 507,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily33_jpg.rf.7a7b34dd7097dc65b94dfd96fa7c8e0c.jpg",
+    "source_image_id": 515,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily34_jpg.rf.18b34657e9ab6a699285d3c3160ce3e7.jpg",
+    "source_image_id": 746,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily35_jpg.rf.67be89559b32a3184b13305711969209.jpg",
+    "source_image_id": 388,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily36_jpg.rf.efcf72207ec8550188f39808cde9d757.jpg",
+    "source_image_id": 1090,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily37_jpg.rf.883900c2c917d20dbd50d1dda14cac5d.jpg",
+    "source_image_id": 1245,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily42_jpg.rf.85638078c6a9d7cd0aab262987d8d0ad.jpg",
+    "source_image_id": 1212,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily43_jpg.rf.751e5e93065de42fbb2056570b90d492.jpg",
+    "source_image_id": 477,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily47_jpg.rf.5830616735fce5eb4696dab262471f68.jpg",
+    "source_image_id": 1774,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily48_jpg.rf.b213403caf2837545ed9c8ed8031aeeb.jpg",
+    "source_image_id": 32,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily49_jpg.rf.9e392da96e6ca8559eee5d9544f4cf2c.jpg",
+    "source_image_id": 1379,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily51_jpg.rf.3165df86bb5e251b468d087f1fd4b633.jpg",
+    "source_image_id": 929,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily52_jpg.rf.ae5cbeaaf94b29765276e4bdf0d47c85.jpg",
+    "source_image_id": 1500,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily54_jpg.rf.132cbb2b5dda8e1a46b62889470bf731.jpg",
+    "source_image_id": 712,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily55-4-_jpg.rf.5be4d366d0a86d91946d2c18626f5e65.jpg",
+    "source_image_id": 314,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily57_jpg.rf.333632d792b4d5545a53500957423ea5.jpg",
+    "source_image_id": 1520,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily58_jpg.rf.d35bb197b96105c952dd9804dd7ca2f9.jpg",
+    "source_image_id": 244,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily59_jpg.rf.0f594a127194f15d6a973cb06cffb0cb.jpg",
+    "source_image_id": 684,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily5_jpg.rf.ca333af80bc5b3898d4e8c70e7a161ea.jpg",
+    "source_image_id": 184,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily6_jpg.rf.76890812f7e8adc0d82db58286e6d39c.jpg",
+    "source_image_id": 485,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily7_jpg.rf.f591a7038c278475a4dd56c41d10fe85.jpg",
+    "source_image_id": 1125,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily8_jpg.rf.4360d3322212bdfeaf39f7bdcbeb6751.jpg",
+    "source_image_id": 1635,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "oily9_jpg.rf.5c4e8e6fbdc14bae0e6b29ab1d1e36f2.jpg",
+    "source_image_id": 324,
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "persistent-erythema_3249_jpg.rf.ceee57b74db4f270fac190834ad55399.jpg",
+    "source_image_id": 221,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "pro04_sec03_png.rf.f85679a7727179b6f4e3a547a72d761a.jpg",
+    "source_image_id": 1145,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "right_before_jpg.rf.8129525ce1ce8b50e7e96c8d29b2e19c.jpg",
+    "source_image_id": 570,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "sc-broken_png.rf.5d0c81c0173eac6d5fe957bc53a15565.jpg",
+    "source_image_id": 318,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "serum-phuc-hoi-da-mong-noi-mach-mau-min_jpg.rf.325f9c6e310a6c2b394196ed06302602.jpg",
+    "source_image_id": 1532,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "shutterstock_1545102416_jpg.rf.30f47e0bfdfd3e87e2a794149158ceac.jpg",
+    "source_image_id": 926,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  },
+  {
+    "filename": "z4220863771590_9cf7e2bd92036ca75abebde81e8720ce_jpg.rf.60f31e46a6b0976947d669cc3b9b47c0.jpg",
+    "source_image_id": 344,
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "derived_label_status": "EMPTY_AFTER_FILTERING",
+    "potential_conflicting_negative": false
+  }
+]

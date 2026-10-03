@@ -1,0 +1,8 @@
+﻿file,pair_ids,num_pairs
+test/Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg,D041;D059;D060,3
+train/Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg,D041;D061,2
+train/Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg,D038;D040,2
+val/Image_62_jpg.rf.c9113dfd4b71bc1308f2c68053c2c76b.jpg,D032;D048,2
+val/dry-107-_jpg.rf.b97a1f1d2d2e7feee6db30a6a1ddbfc9.jpg,D039;D045,2
+val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg,D037;D046;D049,3
+val/oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg,D059;D061,2

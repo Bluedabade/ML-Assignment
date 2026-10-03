@@ -1,0 +1,64 @@
+﻿pair_id,annotation_flag,classes_counts_a,classes_counts_b,absent_one_side,comparison_source
+D001,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D002,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D003,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D004,ANNOTATION_CONFLICT,"{""acne"": 1}",{},True,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D005,ANNOTATION_DIFFERENCE,"{""dark_spot"": 1}","{""dark_spot"": 1}",False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D006,ANNOTATION_DIFFERENCE,"{""dark_spot"": 1}","{""dark_spot"": 1}",False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D007,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D008,ANNOTATION_CONFLICT,"{""acne"": 1}","{""acne"": 19}",False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D009,ANNOTATION_CONFLICT,"{""enlarged_pore"": 1}",{},True,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D010,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D011,ANNOTATION_CONFLICT,"{""acne"": 1}",{},True,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D012,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D013,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D014,ANNOTATION_CONFLICT,{},"{""dark_spot"": 1}",True,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D015,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D016,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D017,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D018,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D019,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D020,ANNOTATION_CONFLICT,{},"{""acne"": 1}",True,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D021,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D022,ANNOTATION_CONFLICT,"{""acne"": 1}",{},True,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D023,ANNOTATION_CONFLICT,"{""enlarged_pore"": 1}",{},True,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D024,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D025,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D026,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D027,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D028,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D029,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D030,MATCH,{},{},False,pair_metadata.json; existing normalized-bbox comparison (6 decimals)
+D031,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D032,ANNOTATION_DIFFERENCE,"{""dark_spot"": 1}","{""dark_spot"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D033,ANNOTATION_CONFLICT,{},"{""acne"": 1}",True,d031_d063/annotation_differences.csv + pair_metadata.json
+D034,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D035,ANNOTATION_CONFLICT,"{""acne"": 1}","{""acne"": 1, ""enlarged_pore"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D036,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D037,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D038,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D039,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D040,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D041,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D042,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D043,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D044,ANNOTATION_CONFLICT,"{""dark_spot"": 2}",{},True,d031_d063/annotation_differences.csv + pair_metadata.json
+D045,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D046,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D047,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D048,ANNOTATION_DIFFERENCE,"{""dark_spot"": 1}","{""dark_spot"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D049,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D050,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D051,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D052,ANNOTATION_CONFLICT,"{""enlarged_pore"": 1}",{},True,d031_d063/annotation_differences.csv + pair_metadata.json
+D053,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D054,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D055,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D056,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D057,ANNOTATION_DIFFERENCE,"{""acne"": 2}","{""acne"": 2}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D058,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D059,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D060,ANNOTATION_CONFLICT,{},"{""acne"": 1}",True,d031_d063/annotation_differences.csv + pair_metadata.json
+D061,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json
+D062,MATCH,{},{},False,d031_d063/annotation_differences.csv + pair_metadata.json
+D063,ANNOTATION_DIFFERENCE,"{""acne"": 1}","{""acne"": 1}",False,d031_d063/annotation_differences.csv + pair_metadata.json

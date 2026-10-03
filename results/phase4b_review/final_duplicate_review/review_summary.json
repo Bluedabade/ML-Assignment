@@ -1,0 +1,147 @@
+{
+  "cross_split_pairs": 63,
+  "rank": "ascending grayscale RMSE, then dHash distance, then filenames; heuristic ranking only",
+  "top10": [
+    {
+      "pair_id": "D001",
+      "file_a": "9adc08c5984e083261d3a71542295d26_jpg.rf.ced517fbb7f0a969c25de857268b7029.jpg",
+      "split_a": "train",
+      "file_b": "dry9_jpg.rf.85e6429ada5b7e750570c43b50d81e5e.jpg",
+      "split_b": "test",
+      "dhash_distance": 2,
+      "rmse": 0.0010253186337649822,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D002",
+      "file_a": "Kering-10-_JPG.rf.bb2b3def801fd80c17ff198efade218f.jpg",
+      "split_a": "train",
+      "file_b": "dry9_jpg.rf.85e6429ada5b7e750570c43b50d81e5e.jpg",
+      "split_b": "test",
+      "dhash_distance": 0,
+      "rmse": 0.0011029411107301712,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D003",
+      "file_a": "Kering-11-_JPG.rf.1c99d18caba0ce0d71fee121a1aad278.jpg",
+      "split_a": "train",
+      "file_b": "1979d8a0484daed8c4e98ee0581f447f_jpg.rf.0ebe8a9fcd33347cb2b81306ff130c9e.jpg",
+      "split_b": "val",
+      "dhash_distance": 0,
+      "rmse": 0.0011626019841060042,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D004",
+      "file_a": "Image_34_jpg.rf.3fb6264a2e392de88bdbbd9f07010912.jpg",
+      "split_a": "train",
+      "file_b": "Image_2_jpg.rf.bd4bea9a0b8020ffd4b78859af319fed.jpg",
+      "split_b": "test",
+      "dhash_distance": 2,
+      "rmse": 0.001162602100521326,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D005",
+      "file_a": "Image_99_jpg.rf.4dd9c7084989fc627c33b091dd87bdf8.jpg",
+      "split_a": "train",
+      "file_b": "Image_4_jpg.rf.c4ed0f85f87d6fe52f1514bdf10650f8.jpg",
+      "split_b": "val",
+      "dhash_distance": 0,
+      "rmse": 0.001308465376496315,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D006",
+      "file_a": "Image_127_jpg.rf.6bfe520f8ede1ae8b40b8dcd67e0d1a5.jpg",
+      "split_a": "val",
+      "file_b": "Image_10_jpg.rf.ad1378747ef024bbb55d8303d993608a.jpg",
+      "split_b": "test",
+      "dhash_distance": 0,
+      "rmse": 0.0014551890781149268,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D007",
+      "file_a": "Image_34_jpg.rf.f6a66c7dd85109c86a419b1bb48e0d53.jpg",
+      "split_a": "train",
+      "file_b": "Image_67_jpg.rf.5dff7627070050bc8eddac9aa0addfbe.jpg",
+      "split_b": "test",
+      "dhash_distance": 0,
+      "rmse": 0.0015059075085446239,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D008",
+      "file_a": "acne-10-_jpeg.rf.0e312c4a85171e98572b6bde12402b71.jpg",
+      "split_a": "train",
+      "file_b": "acne-12-_jpeg.rf.ecbcd6d7e8a3acd36a3f17426479f5c7.jpg",
+      "split_b": "val",
+      "dhash_distance": 0,
+      "rmse": 0.001510885776951909,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D009",
+      "file_a": "oily-251-_jpg.rf.e88387255b092b31336aff809c82b622.jpg",
+      "split_a": "train",
+      "file_b": "oily27_jpg.rf.dbc004fddec7aaa8870496a389bcb3ed.jpg",
+      "split_b": "val",
+      "dhash_distance": 1,
+      "rmse": 0.0015741706592962146,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    },
+    {
+      "pair_id": "D010",
+      "file_a": "Image_34_jpg.rf.3fb6264a2e392de88bdbbd9f07010912.jpg",
+      "split_a": "train",
+      "file_b": "Image_49_jpg.rf.3beb0f8ba489b72c88143584eb0a6321.jpg",
+      "split_b": "val",
+      "dhash_distance": 1,
+      "rmse": 0.0015884169843047857,
+      "likely_same_source": "UNKNOWN",
+      "human_decision": "PENDING",
+      "notes": ""
+    }
+  ],
+  "wrinkle_group_slots": {
+    "SMALLEST_20": 20,
+    "THINNEST_20": 20,
+    "WIDEST_10": 10,
+    "NEAREST_BOUNDARY_10": 10
+  },
+  "unique_wrinkle_annotations": 54,
+  "unique_wrinkle_images": 33,
+  "wrinkle_splits": {
+    "test": 1,
+    "train": 53
+  },
+  "strict_n1": 46,
+  "excluded_mixed_cases": 2,
+  "human_decisions": "ALL PENDING",
+  "likely_same_source": "ALL UNKNOWN",
+  "automated_duplicate_or_annotation_decisions": 0,
+  "protected_files_unchanged": true,
+  "existing_audit_files_unchanged": true,
+  "v2_created": false,
+  "training": "NOT_RUN"
+}

@@ -1,0 +1,287 @@
+[
+  {
+    "image": "681_jpg.rf.b7eda6cef7ec6c876de0c8672790d742.jpg",
+    "split": "test",
+    "preview": "W001.jpg",
+    "selected_annotation_ids": [
+      1364
+    ]
+  },
+  {
+    "image": "15_jpeg.rf.fd49c11d295d262bf2824914dfaa0a71.jpg",
+    "split": "train",
+    "preview": "W002.jpg",
+    "selected_annotation_ids": [
+      8493
+    ]
+  },
+  {
+    "image": "162_jpg.rf.ba03e5895223e074c0c120755175a59d.jpg",
+    "split": "train",
+    "preview": "W003.jpg",
+    "selected_annotation_ids": [
+      518
+    ]
+  },
+  {
+    "image": "180_jpg.rf.e6b86ce9216ef67fe243039b6676d2da.jpg",
+    "split": "train",
+    "preview": "W004.jpg",
+    "selected_annotation_ids": [
+      7222,
+      7223,
+      7224,
+      7225
+    ]
+  },
+  {
+    "image": "185_jpg.rf.4673ad2d14eb930dad356ddf92dd7e31.jpg",
+    "split": "train",
+    "preview": "W005.jpg",
+    "selected_annotation_ids": [
+      12275
+    ]
+  },
+  {
+    "image": "198_jpg.rf.24573fb6268f09a9b70f8018a4e871ab.jpg",
+    "split": "train",
+    "preview": "W006.jpg",
+    "selected_annotation_ids": [
+      6025,
+      6026
+    ]
+  },
+  {
+    "image": "242_jpg.rf.33d33424a50a3bce6bc061e2dd4092c7.jpg",
+    "split": "train",
+    "preview": "W007.jpg",
+    "selected_annotation_ids": [
+      11237,
+      11239
+    ]
+  },
+  {
+    "image": "246_jpg.rf.2020d2a27a304f47a5c5cd8b9a81c6fe.jpg",
+    "split": "train",
+    "preview": "W008.jpg",
+    "selected_annotation_ids": [
+      5781
+    ]
+  },
+  {
+    "image": "266_jpeg.rf.941a7215de8f57190aca0c0e07d3a82a.jpg",
+    "split": "train",
+    "preview": "W009.jpg",
+    "selected_annotation_ids": [
+      9660,
+      9661
+    ]
+  },
+  {
+    "image": "267_jpeg.rf.d79767091eb963362df139ecf5e9499e.jpg",
+    "split": "train",
+    "preview": "W010.jpg",
+    "selected_annotation_ids": [
+      1677,
+      1685
+    ]
+  },
+  {
+    "image": "273_jpg.rf.525ffba59c2b6dd07139a87ba80bfd0b.jpg",
+    "split": "train",
+    "preview": "W011.jpg",
+    "selected_annotation_ids": [
+      12683,
+      12685,
+      12689,
+      12690
+    ]
+  },
+  {
+    "image": "2_jpg.rf.15dfeb912adaed6e5d5e89b31f677598.jpg",
+    "split": "train",
+    "preview": "W012.jpg",
+    "selected_annotation_ids": [
+      5405
+    ]
+  },
+  {
+    "image": "302_jpg.rf.8c3ee47da660561943a473209e7d73d3.jpg",
+    "split": "train",
+    "preview": "W013.jpg",
+    "selected_annotation_ids": [
+      9245,
+      9249,
+      9256
+    ]
+  },
+  {
+    "image": "303_jpg.rf.8636a655d73a8ab646d3f6431e714730.jpg",
+    "split": "train",
+    "preview": "W014.jpg",
+    "selected_annotation_ids": [
+      8903
+    ]
+  },
+  {
+    "image": "307_jpg.rf.44b9c9bc793285cf2202295acf5cc80d.jpg",
+    "split": "train",
+    "preview": "W015.jpg",
+    "selected_annotation_ids": [
+      12097,
+      12104
+    ]
+  },
+  {
+    "image": "331_jpg.rf.8d64cd23228a43a99a2f7f0ebb71f176.jpg",
+    "split": "train",
+    "preview": "W016.jpg",
+    "selected_annotation_ids": [
+      9293
+    ]
+  },
+  {
+    "image": "356_jpg.rf.4c4e2331a83ea7538db9dc0504d6d633.jpg",
+    "split": "train",
+    "preview": "W017.jpg",
+    "selected_annotation_ids": [
+      12461
+    ]
+  },
+  {
+    "image": "363_jpg.rf.2005161743f65b157fa720f74fd8e6a2.jpg",
+    "split": "train",
+    "preview": "W018.jpg",
+    "selected_annotation_ids": [
+      5775
+    ]
+  },
+  {
+    "image": "364_jpg.rf.bf11ee7589dba0c6931f670a2da79c47.jpg",
+    "split": "train",
+    "preview": "W019.jpg",
+    "selected_annotation_ids": [
+      747
+    ]
+  },
+  {
+    "image": "36_jpeg.rf.0ab01482b4f6b86e6343eb0fd3e87794.jpg",
+    "split": "train",
+    "preview": "W020.jpg",
+    "selected_annotation_ids": [
+      4772
+    ]
+  },
+  {
+    "image": "4_jpeg.rf.c53dc6405f30a6111d70603cfaaf89b4.jpg",
+    "split": "train",
+    "preview": "W021.jpg",
+    "selected_annotation_ids": [
+      990
+    ]
+  },
+  {
+    "image": "50_jpg.rf.71d5af705dac7506c8c213bc5fd51574.jpg",
+    "split": "train",
+    "preview": "W022.jpg",
+    "selected_annotation_ids": [
+      3184,
+      3192,
+      3193
+    ]
+  },
+  {
+    "image": "52_jpg.rf.2754f22c6458c41b3895aeaf131549cb.jpg",
+    "split": "train",
+    "preview": "W023.jpg",
+    "selected_annotation_ids": [
+      6119
+    ]
+  },
+  {
+    "image": "53_jpg.rf.bd590b2ccbbc9043cc83ccf2653ade0a.jpg",
+    "split": "train",
+    "preview": "W024.jpg",
+    "selected_annotation_ids": [
+      664
+    ]
+  },
+  {
+    "image": "566_jpg.rf.3e5a79d3cf0cf758b5eae448dd1be3b4.jpg",
+    "split": "train",
+    "preview": "W025.jpg",
+    "selected_annotation_ids": [
+      11756
+    ]
+  },
+  {
+    "image": "62_jpg.rf.44da9c24e708164cebf705f210b5425f.jpg",
+    "split": "train",
+    "preview": "W026.jpg",
+    "selected_annotation_ids": [
+      12122
+    ]
+  },
+  {
+    "image": "66_jpg.rf.85ef0d1c8d73a65df68260cb723a2f2c.jpg",
+    "split": "train",
+    "preview": "W027.jpg",
+    "selected_annotation_ids": [
+      8852
+    ]
+  },
+  {
+    "image": "69_jpg.rf.b2c3f06a6a4907dd2598659409d67a8b.jpg",
+    "split": "train",
+    "preview": "W028.jpg",
+    "selected_annotation_ids": [
+      186
+    ]
+  },
+  {
+    "image": "89_jpg.rf.492679605078fe6d984a4de2d6d1d1fc.jpg",
+    "split": "train",
+    "preview": "W029.jpg",
+    "selected_annotation_ids": [
+      12329
+    ]
+  },
+  {
+    "image": "93_jpg.rf.5e02edb1912b99b0b71be88e6b68faad.jpg",
+    "split": "train",
+    "preview": "W030.jpg",
+    "selected_annotation_ids": [
+      1885,
+      1886,
+      1888,
+      1889,
+      1890
+    ]
+  },
+  {
+    "image": "94_jpg.rf.fc7b30de8e3e9f6ad8d9aa3332b8bff3.jpg",
+    "split": "train",
+    "preview": "W031.jpg",
+    "selected_annotation_ids": [
+      8401,
+      8405
+    ]
+  },
+  {
+    "image": "95_jpg.rf.ad67301a031e1ef07cb4fb65047f2a0f.jpg",
+    "split": "train",
+    "preview": "W032.jpg",
+    "selected_annotation_ids": [
+      10963,
+      10964
+    ]
+  },
+  {
+    "image": "9_jpeg.rf.45c868afbddabf7c70a2be219f52c54c.jpg",
+    "split": "train",
+    "preview": "W033.jpg",
+    "selected_annotation_ids": [
+      12199
+    ]
+  }
+]

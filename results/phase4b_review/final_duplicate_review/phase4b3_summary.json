@@ -1,0 +1,227 @@
+{
+  "phase": "4B.3",
+  "human_decision": "B_VARIANT",
+  "likely_same_source": "YES",
+  "pairs": 63,
+  "connected_groups": 43,
+  "unique_files": 102,
+  "group_split_composition": {
+    "train;test": 12,
+    "train;val": 24,
+    "train;val;test": 3,
+    "val;test": 4
+  },
+  "annotation_pair_flags": {
+    "MATCH": 36,
+    "ANNOTATION_CONFLICT": 13,
+    "ANNOTATION_DIFFERENCE": 14
+  },
+  "duplicate_train_removals": 52,
+  "strict_n1_total": 46,
+  "n1_overlap": 0,
+  "n1_only": 46,
+  "duplicate_only": 52,
+  "combined_unique_train_removals": 98,
+  "estimated_counts": {
+    "train": {
+      "baseline": {
+        "images": 1785,
+        "negative_images": 692,
+        "acne": 7495,
+        "wrinkle": 1815,
+        "dark_spot": 57,
+        "enlarged_pore": 443
+      },
+      "estimated_v2": {
+        "images": 1687,
+        "negative_images": 610,
+        "acne": 7484,
+        "wrinkle": 1815,
+        "dark_spot": 54,
+        "enlarged_pore": 440
+      },
+      "proposed_removed": {
+        "images": 98,
+        "negative_images": 82,
+        "acne": 11,
+        "wrinkle": 0,
+        "dark_spot": 3,
+        "enlarged_pore": 3
+      }
+    },
+    "val": {
+      "baseline": {
+        "images": 322,
+        "negative_images": 176,
+        "acne": 737,
+        "wrinkle": 22,
+        "dark_spot": 19,
+        "enlarged_pore": 33
+      },
+      "estimated_v2": {
+        "images": 322,
+        "negative_images": 176,
+        "acne": 737,
+        "wrinkle": 22,
+        "dark_spot": 19,
+        "enlarged_pore": 33
+      },
+      "proposed_removed": {
+        "images": 0,
+        "negative_images": 0,
+        "acne": 0,
+        "wrinkle": 0,
+        "dark_spot": 0,
+        "enlarged_pore": 0
+      }
+    },
+    "test": {
+      "baseline": {
+        "images": 248,
+        "negative_images": 102,
+        "acne": 1415,
+        "wrinkle": 89,
+        "dark_spot": 15,
+        "enlarged_pore": 117
+      },
+      "estimated_v2": {
+        "images": 248,
+        "negative_images": 102,
+        "acne": 1415,
+        "wrinkle": 89,
+        "dark_spot": 15,
+        "enlarged_pore": 117
+      },
+      "proposed_removed": {
+        "images": 0,
+        "negative_images": 0,
+        "acne": 0,
+        "wrinkle": 0,
+        "dark_spot": 0,
+        "enlarged_pore": 0
+      }
+    }
+  },
+  "val_test_groups": [
+    {
+      "group_id": "G003",
+      "pair_ids": "D004;D010;D011",
+      "num_files": 3,
+      "files": "test/Image_2_jpg.rf.bd4bea9a0b8020ffd4b78859af319fed.jpg;train/Image_34_jpg.rf.3fb6264a2e392de88bdbbd9f07010912.jpg;val/Image_49_jpg.rf.3beb0f8ba489b72c88143584eb0a6321.jpg",
+      "splits": "train;val;test",
+      "train_files": "Image_34_jpg.rf.3fb6264a2e392de88bdbbd9f07010912.jpg",
+      "val_files": "Image_49_jpg.rf.3beb0f8ba489b72c88143584eb0a6321.jpg",
+      "test_files": "Image_2_jpg.rf.bd4bea9a0b8020ffd4b78859af319fed.jpg",
+      "has_train": true,
+      "has_val": true,
+      "has_test": true,
+      "contains_annotation_difference": true,
+      "contains_annotation_conflict": true,
+      "proposed_cleanup_status": "HOLD_VAL_TEST_REVIEW"
+    },
+    {
+      "group_id": "G005",
+      "pair_ids": "D006",
+      "num_files": 2,
+      "files": "test/Image_10_jpg.rf.ad1378747ef024bbb55d8303d993608a.jpg;val/Image_127_jpg.rf.6bfe520f8ede1ae8b40b8dcd67e0d1a5.jpg",
+      "splits": "val;test",
+      "train_files": "",
+      "val_files": "Image_127_jpg.rf.6bfe520f8ede1ae8b40b8dcd67e0d1a5.jpg",
+      "test_files": "Image_10_jpg.rf.ad1378747ef024bbb55d8303d993608a.jpg",
+      "has_train": false,
+      "has_val": true,
+      "has_test": true,
+      "contains_annotation_difference": true,
+      "contains_annotation_conflict": false,
+      "proposed_cleanup_status": "HOLD_VAL_TEST_REVIEW"
+    },
+    {
+      "group_id": "G011",
+      "pair_ids": "D014",
+      "num_files": 2,
+      "files": "test/Image_106_jpg.rf.37587514eb393373a24a04787ff6360d.jpg;val/kering__-67-_jpg.rf.687a0f1bc496ee49ebfb1a5a5167ec1b.jpg",
+      "splits": "val;test",
+      "train_files": "",
+      "val_files": "kering__-67-_jpg.rf.687a0f1bc496ee49ebfb1a5a5167ec1b.jpg",
+      "test_files": "Image_106_jpg.rf.37587514eb393373a24a04787ff6360d.jpg",
+      "has_train": false,
+      "has_val": true,
+      "has_test": true,
+      "contains_annotation_difference": false,
+      "contains_annotation_conflict": true,
+      "proposed_cleanup_status": "HOLD_VAL_TEST_REVIEW"
+    },
+    {
+      "group_id": "G015",
+      "pair_ids": "D020;D041;D059;D060;D061",
+      "num_files": 4,
+      "files": "test/Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg;train/Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg;train/oily-212-_jpg.rf.75ae360db63f2180cb4e7aa57aa93313.jpg;val/oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg",
+      "splits": "train;val;test",
+      "train_files": "Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg;oily-212-_jpg.rf.75ae360db63f2180cb4e7aa57aa93313.jpg",
+      "val_files": "oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg",
+      "test_files": "Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg",
+      "has_train": true,
+      "has_val": true,
+      "has_test": true,
+      "contains_annotation_difference": true,
+      "contains_annotation_conflict": true,
+      "proposed_cleanup_status": "HOLD_VAL_TEST_REVIEW"
+    },
+    {
+      "group_id": "G021",
+      "pair_ids": "D029;D038;D040",
+      "num_files": 3,
+      "files": "test/dry-256-_jpg.rf.f4851271ee93f20aac22d5c45818a99c.jpg;train/Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg;val/dry-128-_jpg.rf.51b6790156b026d6203d7edbb61fc9ef.jpg",
+      "splits": "train;val;test",
+      "train_files": "Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg",
+      "val_files": "dry-128-_jpg.rf.51b6790156b026d6203d7edbb61fc9ef.jpg",
+      "test_files": "dry-256-_jpg.rf.f4851271ee93f20aac22d5c45818a99c.jpg",
+      "has_train": true,
+      "has_val": true,
+      "has_test": true,
+      "contains_annotation_difference": false,
+      "contains_annotation_conflict": false,
+      "proposed_cleanup_status": "HOLD_VAL_TEST_REVIEW"
+    },
+    {
+      "group_id": "G032",
+      "pair_ids": "D044",
+      "num_files": 2,
+      "files": "test/Kering-35-_jpeg.rf.efc481a843791cdc17e2d425ba5f7321.jpg;val/Image_51_png.rf.360808079a579904692b0d92baa67426.jpg",
+      "splits": "val;test",
+      "train_files": "",
+      "val_files": "Image_51_png.rf.360808079a579904692b0d92baa67426.jpg",
+      "test_files": "Kering-35-_jpeg.rf.efc481a843791cdc17e2d425ba5f7321.jpg",
+      "has_train": false,
+      "has_val": true,
+      "has_test": true,
+      "contains_annotation_difference": false,
+      "contains_annotation_conflict": true,
+      "proposed_cleanup_status": "HOLD_VAL_TEST_REVIEW"
+    },
+    {
+      "group_id": "G038",
+      "pair_ids": "D054",
+      "num_files": 2,
+      "files": "test/Image_53_png.rf.870501844ada1750de32496f832ff11b.jpg;val/Image_37_jpg.rf.0d83eb147af2cef1b358d7086952d160.jpg",
+      "splits": "val;test",
+      "train_files": "",
+      "val_files": "Image_37_jpg.rf.0d83eb147af2cef1b358d7086952d160.jpg",
+      "test_files": "Image_53_png.rf.870501844ada1750de32496f832ff11b.jpg",
+      "has_train": false,
+      "has_val": true,
+      "has_test": true,
+      "contains_annotation_difference": true,
+      "contains_annotation_conflict": false,
+      "proposed_cleanup_status": "HOLD_VAL_TEST_REVIEW"
+    }
+  ],
+  "wrinkle_review_pending": 54,
+  "evaluation_warning": "Confirmed val/test same-source variants make validation and test non-independent. Historical baseline evaluation may be optimistic. Bias magnitude unknown; metrics not recomputed.",
+  "historical_reports": "Earlier review summaries/previews describe pre-decision state; duplicate_review.csv and this phase4b3_summary.json are current.",
+  "protected_file_count": 10961,
+  "v2_created": false,
+  "training": "NOT_RUN",
+  "protected_files_unchanged": true,
+  "existing_review_metadata_unchanged_except_authorized_csv": true
+}

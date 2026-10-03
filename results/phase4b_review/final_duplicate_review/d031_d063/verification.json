@@ -1,0 +1,253 @@
+{
+  "pairs": 33,
+  "contact_sheets": [
+    "D031_D036.jpg",
+    "D037_D042.jpg",
+    "D043_D048.jpg",
+    "D049_D054.jpg",
+    "D055_D060.jpg",
+    "D061_D063.jpg"
+  ],
+  "annotation_difference_pairs": [
+    {
+      "pair_id": "D032",
+      "classes_counts_a": {
+        "dark_spot": 1
+      },
+      "classes_counts_b": {
+        "dark_spot": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D033",
+      "classes_counts_a": {},
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "CLASS_OR_COUNT",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D035",
+      "classes_counts_a": {
+        "acne": 1
+      },
+      "classes_counts_b": {
+        "acne": 1,
+        "enlarged_pore": 1
+      },
+      "difference": "CLASS_OR_COUNT",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D041",
+      "classes_counts_a": {
+        "acne": 1
+      },
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D043",
+      "classes_counts_a": {
+        "acne": 1
+      },
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D044",
+      "classes_counts_a": {
+        "dark_spot": 2
+      },
+      "classes_counts_b": {},
+      "difference": "CLASS_OR_COUNT",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D048",
+      "classes_counts_a": {
+        "dark_spot": 1
+      },
+      "classes_counts_b": {
+        "dark_spot": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D052",
+      "classes_counts_a": {
+        "enlarged_pore": 1
+      },
+      "classes_counts_b": {},
+      "difference": "CLASS_OR_COUNT",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D054",
+      "classes_counts_a": {
+        "acne": 1
+      },
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D057",
+      "classes_counts_a": {
+        "acne": 2
+      },
+      "classes_counts_b": {
+        "acne": 2
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D059",
+      "classes_counts_a": {
+        "acne": 1
+      },
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D060",
+      "classes_counts_a": {},
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "CLASS_OR_COUNT",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D061",
+      "classes_counts_a": {
+        "acne": 1
+      },
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    },
+    {
+      "pair_id": "D063",
+      "classes_counts_a": {
+        "acne": 1
+      },
+      "classes_counts_b": {
+        "acne": 1
+      },
+      "difference": "BOX_GEOMETRY",
+      "human_decision": "PENDING"
+    }
+  ],
+  "candidate_components": 25,
+  "multi_pair_groups": [
+    {
+      "group_id": "G006",
+      "pair_ids": "D041;D059;D060;D061",
+      "files": "test/Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg;train/Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg;train/oily-212-_jpg.rf.75ae360db63f2180cb4e7aa57aa93313.jpg;val/oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg",
+      "splits": "test;train;val",
+      "num_files": 4,
+      "num_pairs": 4
+    },
+    {
+      "group_id": "G008",
+      "pair_ids": "D038;D040",
+      "files": "test/dry-256-_jpg.rf.f4851271ee93f20aac22d5c45818a99c.jpg;train/Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg;val/dry-128-_jpg.rf.51b6790156b026d6203d7edbb61fc9ef.jpg",
+      "splits": "test;train;val",
+      "num_files": 3,
+      "num_pairs": 2
+    },
+    {
+      "group_id": "G015",
+      "pair_ids": "D032;D048",
+      "files": "train/Image_1_jpg.rf.e5dc87305847861b3e53e0881c39953c.jpg;train/Image_35_jpg.rf.f58b80d3b622a6197b30b354de683eed.jpg;val/Image_62_jpg.rf.c9113dfd4b71bc1308f2c68053c2c76b.jpg",
+      "splits": "train;val",
+      "num_files": 3,
+      "num_pairs": 2
+    },
+    {
+      "group_id": "G019",
+      "pair_ids": "D037;D046;D049",
+      "files": "train/dry-166-_jpg.rf.fcaf7cc4e484177d39f4857d18ec30ff.jpg;train/dry-236-_jpg.rf.852c3928a5e128ed9f1c3282415b0514.jpg;train/kering-1-_jpg.rf.c5fe9140c063a64de858298b8aaa503c.jpg;val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg",
+      "splits": "train;val",
+      "num_files": 4,
+      "num_pairs": 3
+    },
+    {
+      "group_id": "G020",
+      "pair_ids": "D039;D045",
+      "files": "train/kering-2-_jpg.rf.59c9cfb49785140b3c53580ce4b89e63.jpg;train/kering__-54-_jpg.rf.39abf25f8fa50400c836185907be55fd.jpg;val/dry-107-_jpg.rf.b97a1f1d2d2e7feee6db30a6a1ddbfc9.jpg",
+      "splits": "train;val",
+      "num_files": 3,
+      "num_pairs": 2
+    }
+  ],
+  "repeated_files": [
+    {
+      "file": "test/Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg",
+      "pair_ids": "D041;D059;D060",
+      "num_pairs": 3
+    },
+    {
+      "file": "train/Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg",
+      "pair_ids": "D041;D061",
+      "num_pairs": 2
+    },
+    {
+      "file": "train/Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg",
+      "pair_ids": "D038;D040",
+      "num_pairs": 2
+    },
+    {
+      "file": "val/Image_62_jpg.rf.c9113dfd4b71bc1308f2c68053c2c76b.jpg",
+      "pair_ids": "D032;D048",
+      "num_pairs": 2
+    },
+    {
+      "file": "val/dry-107-_jpg.rf.b97a1f1d2d2e7feee6db30a6a1ddbfc9.jpg",
+      "pair_ids": "D039;D045",
+      "num_pairs": 2
+    },
+    {
+      "file": "val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg",
+      "pair_ids": "D037;D046;D049",
+      "num_pairs": 3
+    },
+    {
+      "file": "val/oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg",
+      "pair_ids": "D059;D061",
+      "num_pairs": 2
+    }
+  ],
+  "d001_d030_status": {
+    "PENDING": 30
+  },
+  "d031_d063_status": "PENDING",
+  "likely_same_source": "UNKNOWN",
+  "source_manifest_unchanged": true,
+  "existing_review_outputs_unchanged": true,
+  "protected_files_unchanged": true,
+  "protected_file_count": 10961,
+  "v2_created": false,
+  "training": "NOT_RUN",
+  "group_scope": "D031-D063 only; candidate graph, not confirmed duplicates",
+  "annotation_comparison": "class + normalized bbox rounded to 6 decimals; IDs ignored; small geometry changes flagged, not judged errors"
+}

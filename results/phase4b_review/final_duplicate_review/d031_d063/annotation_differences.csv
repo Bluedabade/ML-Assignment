@@ -1,0 +1,15 @@
+﻿pair_id,difference,classes_counts_a,classes_counts_b,human_decision
+D032,BOX_GEOMETRY,"{""dark_spot"": 1}","{""dark_spot"": 1}",PENDING
+D033,CLASS_OR_COUNT,{},"{""acne"": 1}",PENDING
+D035,CLASS_OR_COUNT,"{""acne"": 1}","{""acne"": 1, ""enlarged_pore"": 1}",PENDING
+D041,BOX_GEOMETRY,"{""acne"": 1}","{""acne"": 1}",PENDING
+D043,BOX_GEOMETRY,"{""acne"": 1}","{""acne"": 1}",PENDING
+D044,CLASS_OR_COUNT,"{""dark_spot"": 2}",{},PENDING
+D048,BOX_GEOMETRY,"{""dark_spot"": 1}","{""dark_spot"": 1}",PENDING
+D052,CLASS_OR_COUNT,"{""enlarged_pore"": 1}",{},PENDING
+D054,BOX_GEOMETRY,"{""acne"": 1}","{""acne"": 1}",PENDING
+D057,BOX_GEOMETRY,"{""acne"": 2}","{""acne"": 2}",PENDING
+D059,BOX_GEOMETRY,"{""acne"": 1}","{""acne"": 1}",PENDING
+D060,CLASS_OR_COUNT,{},"{""acne"": 1}",PENDING
+D061,BOX_GEOMETRY,"{""acne"": 1}","{""acne"": 1}",PENDING
+D063,BOX_GEOMETRY,"{""acne"": 1}","{""acne"": 1}",PENDING

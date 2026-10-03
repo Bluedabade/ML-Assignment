@@ -1,0 +1,56 @@
+{
+  "train": {
+    "acne": {
+      "images": 895,
+      "objects": 7495
+    },
+    "wrinkle": {
+      "images": 214,
+      "objects": 1815
+    },
+    "dark_spot": {
+      "images": 32,
+      "objects": 57
+    },
+    "enlarged_pore": {
+      "images": 227,
+      "objects": 443
+    }
+  },
+  "val": {
+    "acne": {
+      "images": 132,
+      "objects": 737
+    },
+    "wrinkle": {
+      "images": 8,
+      "objects": 22
+    },
+    "dark_spot": {
+      "images": 12,
+      "objects": 19
+    },
+    "enlarged_pore": {
+      "images": 15,
+      "objects": 33
+    }
+  },
+  "test": {
+    "acne": {
+      "images": 131,
+      "objects": 1415
+    },
+    "wrinkle": {
+      "images": 30,
+      "objects": 89
+    },
+    "dark_spot": {
+      "images": 9,
+      "objects": 15
+    },
+    "enlarged_pore": {
+      "images": 56,
+      "objects": 117
+    }
+  }
+}

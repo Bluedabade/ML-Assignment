@@ -1,0 +1,1018 @@
+[
+  {
+    "a": "train/140_jpg.rf.b6c52f06e2bca18ad8effb505adeb382.jpg",
+    "b": "train/8_jpg.rf.4718e614a6217c18290f44ec1f2e52bc.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002767546335235238,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/23a01088b97c930c8fa8c6781a4c2f0d_jpg.rf.288c04679c3ff51992607b89feb93e47.jpg",
+    "b": "train/Kering-8-_JPG.rf.3b402a0361ff93df6fc53aed47397184.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0010398628655821085,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/240_F_137816577_BdN2G0s5CvyjWBez0EiievvSDnhnEqNF_jpg.rf.bffd48cb611b643ab75c010151bb1f4f.jpg",
+    "b": "train/download_jpg.rf.03b7572635684b1807886a72a3d001b9.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002457100199535489,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/240_F_505136963_IXrvryaszca1gr3AdLK025QSTCPe22u5_jpg.rf.b3149657c7afc4a4f4a13cc7a61f8acb.jpg",
+    "b": "train/download-1-_jpg.rf.7e6559cc1faca935e59122ef0bc04a6d.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.009474393911659718,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/33_jpeg_jpg.rf.073ca4bfc8f2c1fea58a468168e757d4.jpg",
+    "b": "train/a3_jpg.rf.1388e0540279c45c7117ceed88dbe3c8.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002407706342637539,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/9adc08c5984e083261d3a71542295d26_jpg.rf.ced517fbb7f0a969c25de857268b7029.jpg",
+    "b": "train/Kering-10-_JPG.rf.bb2b3def801fd80c17ff198efade218f.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.0011944600846618414,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/9adc08c5984e083261d3a71542295d26_jpg.rf.ced517fbb7f0a969c25de857268b7029.jpg",
+    "b": "test/dry9_jpg.rf.85e6429ada5b7e750570c43b50d81e5e.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.0010253186337649822,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Berminyak-12-_jpg.rf.58b54ade279a2ba8575c2f8a5fba8b4a.jpg",
+    "b": "train/Image_81_jpg.rf.02b87d25c43887fd1e2c81fdc2fa0991.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.011011695489287376,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Berminyak-2-_jpeg.rf.854c758d656eacbcb3d96c002f37cd13.jpg",
+    "b": "val/Image_26_png.rf.b9378b5225d62a6afe4096a7af6ada30.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.005716619547456503,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Berminyak-21-_jpeg.rf.1b249902a9c4c04e7f73740df3493333.jpg",
+    "b": "test/Image_4_jpg.rf.3251ff2255c9d27800b7ffec3505c40e.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0023219725117087364,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Berminyak-27-_jpeg.rf.8dde490d8f84af9ee11d900f998f5587.jpg",
+    "b": "val/oily1_jpg.rf.f6d0f0fc190376e8781bb69064b9c9fd.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0025353138335049152,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Berminyak-7-_jpeg.rf.62e4fbaca060906f5612bb1a749b485c.jpg",
+    "b": "val/Image_111_jpg.rf.ab44cbe792ba03b18a00e242413b1d67.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0030954242683947086,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_110_jpg.rf.5877b0d0e3bd0b879a5a207f77545516.jpg",
+    "b": "test/Image_25_jpg.rf.d377b8a5c2811ad4c39d0714db2b5a75.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002469294238835573,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_122_jpg.rf.1f5df8d077f6a726458e2fa5b44a37b0.jpg",
+    "b": "val/dry26_jpg.rf.f75048c54f0f0f629b2322cc5e96f221.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002222837880253792,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_130_jpg.rf.0e3b08f0c413106966e40ea57af02d8c.jpg",
+    "b": "train/Image_45_jpg.rf.d41a70f3d3231d094a2bcc0014254afe.jpg",
+    "hamming": 4,
+    "gray_rmse": 0.04977406561374664,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_140_jpg.rf.0ee3a9e28374eca0bc4ddfbbff7031cd.jpg",
+    "b": "val/kering-11-_jpeg.rf.a59fb80751532585c4bdf0f75ef7f538.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.001910350052639842,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg",
+    "b": "train/oily-212-_jpg.rf.75ae360db63f2180cb4e7aa57aa93313.jpg",
+    "hamming": 4,
+    "gray_rmse": 0.03958864510059357,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg",
+    "b": "val/oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg",
+    "hamming": 3,
+    "gray_rmse": 0.039453551173210144,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_1_jpg.rf.0d78afd877d8eb06d217faf27bdb16cd.jpg",
+    "b": "test/Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.004717739298939705,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_1_jpg.rf.e5dc87305847861b3e53e0881c39953c.jpg",
+    "b": "train/Image_35_jpg.rf.f58b80d3b622a6197b30b354de683eed.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.014367010444402695,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_1_jpg.rf.e5dc87305847861b3e53e0881c39953c.jpg",
+    "b": "val/Image_62_jpg.rf.c9113dfd4b71bc1308f2c68053c2c76b.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.0026397868059575558,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_2_jpg.rf.cdc349fa92d6750ed0d159695c68a9c4.jpg",
+    "b": "val/Image_52_jpeg.rf.faa607a40989f227a1353af33ca82a92.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.07696487754583359,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_34_jpg.rf.3fb6264a2e392de88bdbbd9f07010912.jpg",
+    "b": "val/Image_49_jpg.rf.3beb0f8ba489b72c88143584eb0a6321.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0015884169843047857,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_34_jpg.rf.3fb6264a2e392de88bdbbd9f07010912.jpg",
+    "b": "test/Image_2_jpg.rf.bd4bea9a0b8020ffd4b78859af319fed.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.001162602100521326,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_34_jpg.rf.f6a66c7dd85109c86a419b1bb48e0d53.jpg",
+    "b": "test/Image_67_jpg.rf.5dff7627070050bc8eddac9aa0addfbe.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0015059075085446239,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_35_jpg.rf.f58b80d3b622a6197b30b354de683eed.jpg",
+    "b": "val/Image_62_jpg.rf.c9113dfd4b71bc1308f2c68053c2c76b.jpg",
+    "hamming": 3,
+    "gray_rmse": 0.014801567420363426,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_36_jpg.rf.8522c00eec2095ed2c931d93eb9d0065.jpg",
+    "b": "train/oily2_jpg.rf.fd29c17e9f1c30086269ab85de651412.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0031531082931905985,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_49-1-_jpg.rf.c78485c5fbc5318f2a77869f5f15d9fe.jpg",
+    "b": "val/Image_1_jpg.rf.cee37d1fe7dcb61c958eaf262487e020.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.007752617821097374,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_4_jpg.rf.e7bfc3c254cbfcbc4d6fb1472477c13c.jpg",
+    "b": "test/Image_45_jpg.rf.2675f98c10d5d1300502d24a45d8e8dd.jpg",
+    "hamming": 3,
+    "gray_rmse": 0.031341418623924255,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Image_99_jpg.rf.4dd9c7084989fc627c33b091dd87bdf8.jpg",
+    "b": "val/Image_4_jpg.rf.c4ed0f85f87d6fe52f1514bdf10650f8.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.001308465376496315,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-10-_JPG.rf.bb2b3def801fd80c17ff198efade218f.jpg",
+    "b": "test/dry9_jpg.rf.85e6429ada5b7e750570c43b50d81e5e.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0011029411107301712,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-11-_JPG.rf.1c99d18caba0ce0d71fee121a1aad278.jpg",
+    "b": "val/1979d8a0484daed8c4e98ee0581f447f_jpg.rf.0ebe8a9fcd33347cb2b81306ff130c9e.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0011626019841060042,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-12-_jpeg.rf.c4da2bc9feec89fe556200b9a5e28be2.jpg",
+    "b": "train/Kering-53-_jpg.rf.1c253e0c9a697165ef4ec8643432a139.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.022195924073457718,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-14-_jpeg.rf.8823827d857f068711cdd7ce3c953fa2.jpg",
+    "b": "train/Kering-24-_jpg.rf.471dabacbbf347d416faf29aff98cfa7.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0032906178385019302,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-14-_jpeg.rf.8823827d857f068711cdd7ce3c953fa2.jpg",
+    "b": "train/kering-11-_jpg.rf.3196bba48de4c4a7f2a0b6a79dc18e37.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0029817463364452124,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-16-_JPG.rf.9d2d6bd76492b85b47256c8940fce38a.jpg",
+    "b": "train/dry16_jpg.rf.7b7025391d65d0421523057840945ff6.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0014186076587066054,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-16-_JPG.rf.9d2d6bd76492b85b47256c8940fce38a.jpg",
+    "b": "val/Kering-41-_jpg.rf.f3f3353f42ce5c4f2d2e35b9441a118b.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0019415417918935418,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-17-_jpeg.rf.2394bd8797bafdba9c2247d50658a602.jpg",
+    "b": "train/kering-2-_jpg.rf.21103245b15cd78602e22d1809054e0b.jpg",
+    "hamming": 4,
+    "gray_rmse": 0.07111898809671402,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-24-_jpg.rf.471dabacbbf347d416faf29aff98cfa7.jpg",
+    "b": "train/kering-11-_jpg.rf.3196bba48de4c4a7f2a0b6a79dc18e37.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0037990196142345667,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-26-_jpeg.rf.a3d38d0bf3acfcd4dfd67dc8df4fba61.jpg",
+    "b": "train/kering__-82-_jpg.rf.b38a04222ef42f6c3c0ce4c76fa2746c.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002648306777700782,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-3-_jpeg.rf.d177cddfc74e3c0a27e1baa4b26c053c.jpg",
+    "b": "train/Kering-7-_JPG.rf.a63ab8f56c9ccdd071a2ee1e6368d8f0.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.030893778428435326,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-3-_jpeg.rf.d177cddfc74e3c0a27e1baa4b26c053c.jpg",
+    "b": "train/kering-14-_jpg.rf.a0b76cfa799cb0ab5cdb699421374dfa.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0023889204021543264,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-3-_jpeg.rf.d177cddfc74e3c0a27e1baa4b26c053c.jpg",
+    "b": "train/normal-140-_jpg.rf.a8cc93010856132ca065e267404bf5b2.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002086934633553028,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-3-_jpeg.rf.d177cddfc74e3c0a27e1baa4b26c053c.jpg",
+    "b": "test/Image_1_jpg.rf.15bf0dc256859541631d09c2f2be7ccf.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002295955317094922,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg",
+    "b": "val/dry-128-_jpg.rf.51b6790156b026d6203d7edbb61fc9ef.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.004389582201838493,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-5-_jpeg.rf.3639b946e23febbe7fb8c867f22f629c.jpg",
+    "b": "test/dry-256-_jpg.rf.f4851271ee93f20aac22d5c45818a99c.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.003431372344493866,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-7-_JPG.rf.a63ab8f56c9ccdd071a2ee1e6368d8f0.jpg",
+    "b": "train/kering-14-_jpg.rf.a0b76cfa799cb0ab5cdb699421374dfa.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.031039755791425705,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-7-_JPG.rf.a63ab8f56c9ccdd071a2ee1e6368d8f0.jpg",
+    "b": "train/normal-140-_jpg.rf.a8cc93010856132ca065e267404bf5b2.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.030929245054721832,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-7-_JPG.rf.a63ab8f56c9ccdd071a2ee1e6368d8f0.jpg",
+    "b": "test/Image_1_jpg.rf.15bf0dc256859541631d09c2f2be7ccf.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.031114904209971428,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-7-_jpeg.rf.d49f13078b59eda2ca7fbe805784132d.jpg",
+    "b": "val/dry2_jpg.rf.91d263b40c92c6b9cf33b8f5db66d6be.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002046972280368209,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-9-_JPG.rf.6565864f34d329b288aa850e4029037e.jpg",
+    "b": "train/dry-112-_jpg.rf.4801e5a1ce5816340de32045a074bf15.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0017200576839968562,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Kering-9-_JPG.rf.6565864f34d329b288aa850e4029037e.jpg",
+    "b": "train/dry-150-_jpg.rf.0c736b38a49a20e70f130d0eb802a735.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0033224124927073717,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/Rosacea-treatment-removal-redness-acne-veins-spider_jpg.rf.91d6d70f121bd74e7078db131579c707.jpg",
+    "b": "train/z4220863771590_9cf7e2bd92036ca75abebde81e8720ce_jpg.rf.60f31e46a6b0976947d669cc3b9b47c0.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.003828553482890129,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/acne-10-_jpeg.rf.0e312c4a85171e98572b6bde12402b71.jpg",
+    "b": "val/acne-12-_jpeg.rf.ecbcd6d7e8a3acd36a3f17426479f5c7.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.001510885776951909,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/acne-129-_jpg.rf.3159486324be0a28e6df9041cd404e55.jpg",
+    "b": "val/Image_147_png.rf.7d24c3ee951f9322f149f5a7333244bc.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0022663287818431854,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/acne-13-_jpeg.rf.7c80534959c9899df1346d9a4dad10d9.jpg",
+    "b": "train/acne-15-_jpeg.rf.a57e49e1187f25d5a0e392f4693edc37.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0016072153812274337,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/acne-2-_jpeg.rf.5dbecb4b41c246162e3627e14d056a74.jpg",
+    "b": "train/oily-221-_jpg.rf.dd91a86284e4e0b179cebee48ee212eb.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0010326163610443473,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/berminyak__-16-_jpg.rf.21aa25cf159b349c6b52e583f175247b.jpg",
+    "b": "test/Berminyak-1-_jpg.rf.b95da23888cb27be3e1fdf5402a18aab.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.03531176969408989,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/berminyak__-57-_JPG.rf.e1d682114266858eee07f92973ec4507.jpg",
+    "b": "val/Berminyak-12-_jpeg.rf.85e2e509763694f78f80a760e6010c30.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.016269046813249588,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/da-bi-kich-ung_9b3f3875_d7b1_4c14_b67c_5e6434550409_jpg.rf.e9d1e1e456d33a1e1412d0c3af5ecd67.jpg",
+    "b": "train/di-ung-da-mat_jpg.rf.1b3106c5679967d497651f337af60485.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0016980889486148953,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/da-mong-noi-gan-mau-la-benh-gi-2_jpg.rf.afeada50ad19d6d4ca12f378e1c309be.jpg",
+    "b": "train/noi-man-do-ngua-toan-than-4_jpg.rf.9558d6c65196a1bf9ef5089fb75acf9f.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.004027371760457754,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-109-_jpg.rf.641769f1f4657ffebb38f7b2d8518f7d.jpg",
+    "b": "train/kering-17-_jpg.rf.1be1109de2a7f3aef73c39b2b65a39d3.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0026226635091006756,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-112-_jpg.rf.4801e5a1ce5816340de32045a074bf15.jpg",
+    "b": "train/dry-150-_jpg.rf.0c736b38a49a20e70f130d0eb802a735.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0032050730660557747,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-166-_jpg.rf.fcaf7cc4e484177d39f4857d18ec30ff.jpg",
+    "b": "train/dry-236-_jpg.rf.852c3928a5e128ed9f1c3282415b0514.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.013274384662508965,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-166-_jpg.rf.fcaf7cc4e484177d39f4857d18ec30ff.jpg",
+    "b": "train/dry18_jpg.rf.a5e4ad1b491a60ad22bdcc3d13758e30.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.013288519345223904,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-166-_jpg.rf.fcaf7cc4e484177d39f4857d18ec30ff.jpg",
+    "b": "train/kering-1-_jpg.rf.c5fe9140c063a64de858298b8aaa503c.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.019496852532029152,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-166-_jpg.rf.fcaf7cc4e484177d39f4857d18ec30ff.jpg",
+    "b": "train/kering__-19-_JPG.rf.49ac03a6547c0e92f3c8207116e3b9d0.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0133623406291008,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-166-_jpg.rf.fcaf7cc4e484177d39f4857d18ec30ff.jpg",
+    "b": "val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.013312231749296188,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-236-_jpg.rf.852c3928a5e128ed9f1c3282415b0514.jpg",
+    "b": "train/dry18_jpg.rf.a5e4ad1b491a60ad22bdcc3d13758e30.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.003024255856871605,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-236-_jpg.rf.852c3928a5e128ed9f1c3282415b0514.jpg",
+    "b": "train/kering-1-_jpg.rf.c5fe9140c063a64de858298b8aaa503c.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.015278871171176434,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-236-_jpg.rf.852c3928a5e128ed9f1c3282415b0514.jpg",
+    "b": "train/kering__-19-_JPG.rf.49ac03a6547c0e92f3c8207116e3b9d0.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0032003838568925858,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-236-_jpg.rf.852c3928a5e128ed9f1c3282415b0514.jpg",
+    "b": "val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0031316012609750032,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-skin_10_jpeg.rf.05ea5fd64dd44672fa54cb62c5d83f03.jpg",
+    "b": "train/dry1_jpg.rf.888ce70f1734fd701f6e558a91e421e6.jpg",
+    "hamming": 3,
+    "gray_rmse": 0.004914199933409691,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry-skin_10_jpeg.rf.05ea5fd64dd44672fa54cb62c5d83f03.jpg",
+    "b": "train/kering__-21-_JPG.rf.e924e9b833f56592ae696e35f0d55bfd.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0046873996034264565,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry16_jpg.rf.7b7025391d65d0421523057840945ff6.jpg",
+    "b": "val/Kering-41-_jpg.rf.f3f3353f42ce5c4f2d2e35b9441a118b.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.001862583914771676,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry18_jpg.rf.a5e4ad1b491a60ad22bdcc3d13758e30.jpg",
+    "b": "train/kering-1-_jpg.rf.c5fe9140c063a64de858298b8aaa503c.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.01510239765048027,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry18_jpg.rf.a5e4ad1b491a60ad22bdcc3d13758e30.jpg",
+    "b": "train/kering__-19-_JPG.rf.49ac03a6547c0e92f3c8207116e3b9d0.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0020099536050111055,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry18_jpg.rf.a5e4ad1b491a60ad22bdcc3d13758e30.jpg",
+    "b": "val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.001858547911979258,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry1_jpg.rf.888ce70f1734fd701f6e558a91e421e6.jpg",
+    "b": "train/kering__-21-_JPG.rf.e924e9b833f56592ae696e35f0d55bfd.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.0026932915206998587,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/dry20_JPG.rf.395f440a64cc9646df067ec1b00f982e.jpg",
+    "b": "train/kering_-93-_jpg.rf.904a6d50050b895102d8ea56dfaa9775.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.03735916316509247,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/istockphoto-638452020-612x612_jpg.rf.6b430ec0ec3611ab427a01cba0605013.jpg",
+    "b": "test/Image_34_jpeg.rf.4fce7deb6a32824580d5a2fdb0deb22c.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0027702583465725183,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-1-_jpg.rf.c5fe9140c063a64de858298b8aaa503c.jpg",
+    "b": "train/kering__-19-_JPG.rf.49ac03a6547c0e92f3c8207116e3b9d0.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.015032126568257809,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-1-_jpg.rf.c5fe9140c063a64de858298b8aaa503c.jpg",
+    "b": "val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.015081499703228474,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-10-_jpg.rf.b746ab2b79b4a7d0fec43f22ad35c674.jpg",
+    "b": "train/kering_-144-_jpg.rf.02201d791093990d9be44d61d465936b.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.01792946830391884,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-14-_jpg.rf.a0b76cfa799cb0ab5cdb699421374dfa.jpg",
+    "b": "train/normal-140-_jpg.rf.a8cc93010856132ca065e267404bf5b2.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002325204201042652,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-14-_jpg.rf.a0b76cfa799cb0ab5cdb699421374dfa.jpg",
+    "b": "test/Image_1_jpg.rf.15bf0dc256859541631d09c2f2be7ccf.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0021542152389883995,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-2-_jpg.rf.59c9cfb49785140b3c53580ce4b89e63.jpg",
+    "b": "train/kering__-54-_jpg.rf.39abf25f8fa50400c836185907be55fd.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.008831185288727283,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-2-_jpg.rf.59c9cfb49785140b3c53580ce4b89e63.jpg",
+    "b": "val/dry-107-_jpg.rf.b97a1f1d2d2e7feee6db30a6a1ddbfc9.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.010368254967033863,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-31-_jpg.rf.98fd15119431cbaaa3b40dfe5a27da25.jpg",
+    "b": "train/kering-44-_jpg.rf.6654de5b23962af655225cf6ed5b7c15.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.04383436590433121,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-32-_jpg.rf.a1c4caaf0c4aab4f11ec27b06fa2abc4.jpg",
+    "b": "train/kering-45-_jpg.rf.85c355124fd0d9680590f553e51e5cdb.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.030113911256194115,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-38-_jpg.rf.5deb3b837d023fbec6981326e76f4dbb.jpg",
+    "b": "train/kering-46-_jpg.rf.2c2bc974cb4ee4ca31a647b8e96f84f4.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.020953373983502388,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering-43-_jpg.rf.05e0a5e0e20a1177819d3c1be00345ea.jpg",
+    "b": "val/kering__-37-_jpg.rf.b62004716ab3f33741da25ee4a76f32b.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.013455303385853767,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering_-19-_jpg.rf.5b448c276365731cc65fd03d493436bf.jpg",
+    "b": "val/kering-25-_jpg.rf.4833d47c4c22c1231c9a96e43fbebcc8.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.016632841899991035,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering_-45-_jpg.rf.3f12fc2d05b043c7a87ab9977ee70a02.jpg",
+    "b": "test/kering_-46-_jpg.rf.2c3ce9c48d6061e7c34fd57ce3a85ccb.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.025336841121315956,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering_-68-_jpg.rf.7fc77db42d084803934d4439b047024d.jpg",
+    "b": "train/kering__-31-_jpg.rf.d4a63715b71838d3c94420bb3254eae6.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.01938755065202713,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering_-8-_jpg.rf.a894623646444ab7accc809e7c91082f.jpg",
+    "b": "val/kering_-9-_jpg.rf.7eb37d78e35521e97b6fbbe5a9e87b0c.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.030472347512841225,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering__-19-_JPG.rf.49ac03a6547c0e92f3c8207116e3b9d0.jpg",
+    "b": "val/kering-40-_jpg.rf.e4a3596f3ba5c9acc39387058b03680e.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0020024676341563463,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/kering__-54-_jpg.rf.39abf25f8fa50400c836185907be55fd.jpg",
+    "b": "val/dry-107-_jpg.rf.b97a1f1d2d2e7feee6db30a6a1ddbfc9.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0038695225957781076,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/levle0_353_jpg.rf.51bc6755b076997876a00bab4334915c.jpg",
+    "b": "train/levle0_353_png.rf.8d2068d017fc957673f4650f216eb15a.jpg",
+    "hamming": 4,
+    "gray_rmse": 0.0730568990111351,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/levle1_271_jpg.rf.8cb34954d0b564e2e3feef57bb49afd8.jpg",
+    "b": "train/levle1_271_png.rf.11b20c647d5998a472e47f508b486fa4.jpg",
+    "hamming": 3,
+    "gray_rmse": 0.06238299235701561,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/normal-140-_jpg.rf.a8cc93010856132ca065e267404bf5b2.jpg",
+    "b": "test/Image_1_jpg.rf.15bf0dc256859541631d09c2f2be7ccf.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0023090005852282047,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-102-_jpg.rf.0e6fca723abc99e3c7ffd3fb6b50de2c.jpg",
+    "b": "test/oily-42-_jpg.rf.bace91686323e6736b9bb488e2344e61.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0029842634685337543,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-145-_jpg.rf.14e073f9dc24c37f1a934bb0b960c7e4.jpg",
+    "b": "train/oily-252-_jpg.rf.73f17a41cd2f145c68057f04434aeaf2.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0022430154494941235,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-156-_jpg.rf.49ec189284dbf697bef3f0f0647e96d6.jpg",
+    "b": "train/oily-251-_jpg.rf.e88387255b092b31336aff809c82b622.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.00216811359860003,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-156-_jpg.rf.49ec189284dbf697bef3f0f0647e96d6.jpg",
+    "b": "val/oily27_jpg.rf.dbc004fddec7aaa8870496a389bcb3ed.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0022396650165319443,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-176-_jpg.rf.f4b84c491bacc37917a1d52c3d17a63b.jpg",
+    "b": "train/oily-278-_jpg.rf.ed3adca3e8e04b16d5c006b6b826833a.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0021542152389883995,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-192-_jpg.rf.29daec56393f11ed169ca844a096c04e.jpg",
+    "b": "test/oily-skin_109_jpeg.rf.5fbacb2e337c30553bddbf7bfd602977.jpg",
+    "hamming": 3,
+    "gray_rmse": 0.021268876269459724,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-212-_jpg.rf.75ae360db63f2180cb4e7aa57aa93313.jpg",
+    "b": "val/oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0021956462878733873,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-212-_jpg.rf.75ae360db63f2180cb4e7aa57aa93313.jpg",
+    "b": "test/Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg",
+    "hamming": 4,
+    "gray_rmse": 0.03650911897420883,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-251-_jpg.rf.e88387255b092b31336aff809c82b622.jpg",
+    "b": "val/oily27_jpg.rf.dbc004fddec7aaa8870496a389bcb3ed.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0015741706592962146,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-263-_jpg.rf.af32fc7f740975fbd99dcbb57ccbe761.jpg",
+    "b": "test/oily-112-_jpg.rf.f7a59e81093a1ea0f719d20c283f1903.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002279543550685048,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-47-_jpg.rf.1deb07087dcd7d744ccc0088d19fa3a8.jpg",
+    "b": "train/oily-94-_jpg.rf.985f8969e5ecf10310e2d8e11b76bab1.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0033359453082084656,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-80-_jpg.rf.49cbf9cb2d87fa1a204e55ba9414cae2.jpg",
+    "b": "val/berminyak__-29-_jpg.rf.52674e813972acf3fc054978bb5fc56b.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.002259692642837763,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily-skin_110_jpeg.rf.7d628eb44fc612c4d3a5742fc6c0f420.jpg",
+    "b": "val/oily-87-_jpg.rf.2f54e56d99bb6e76dea038c58ff02d88.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0027539466973394156,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily37_jpg.rf.883900c2c917d20dbd50d1dda14cac5d.jpg",
+    "b": "train/oily57_jpg.rf.333632d792b4d5545a53500957423ea5.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.001767427078448236,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "train/oily7_jpg.rf.f591a7038c278475a4dd56c41d10fe85.jpg",
+    "b": "val/kering__-64-_jpg.rf.32b4387f40e523cf62521f230f8a42e5.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.046423763036727905,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/Image_127_jpg.rf.6bfe520f8ede1ae8b40b8dcd67e0d1a5.jpg",
+    "b": "test/Image_10_jpg.rf.ad1378747ef024bbb55d8303d993608a.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0014551890781149268,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/Image_37_jpg.rf.0d83eb147af2cef1b358d7086952d160.jpg",
+    "b": "test/Image_53_png.rf.870501844ada1750de32496f832ff11b.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.027593130245804787,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/Image_49_jpg.rf.3beb0f8ba489b72c88143584eb0a6321.jpg",
+    "b": "test/Image_2_jpg.rf.bd4bea9a0b8020ffd4b78859af319fed.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0016350079094991088,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/Image_51_png.rf.360808079a579904692b0d92baa67426.jpg",
+    "b": "test/Kering-35-_jpeg.rf.efc481a843791cdc17e2d425ba5f7321.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.008058471605181694,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/dry-110-_jpg.rf.314c39e335f052c20cbeef522a5fc5a8.jpg",
+    "b": "val/dry-skin_31_jpeg.rf.27fd6fae58ae4b161995dede2ab45be5.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.04785190522670746,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/dry-128-_jpg.rf.51b6790156b026d6203d7edbb61fc9ef.jpg",
+    "b": "test/dry-256-_jpg.rf.f4851271ee93f20aac22d5c45818a99c.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0024356136564165354,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/kering__-67-_jpg.rf.687a0f1bc496ee49ebfb1a5a5167ec1b.jpg",
+    "b": "test/Image_106_jpg.rf.37587514eb393373a24a04787ff6360d.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.001902472460642457,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/oily-170-_jpg.rf.d95573dec7af554d503dd6c2ca19d736.jpg",
+    "b": "test/Image_86_jpg.rf.6fe97dec00c99ae358e1eb7f69b38488.jpg",
+    "hamming": 3,
+    "gray_rmse": 0.03637126088142395,
+    "cross_split": true,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "val/oily-183-_jpg.rf.ed5b0dea79059df61c996c47dc7c469c.jpg",
+    "b": "val/oily-229-_jpg.rf.b867a46e19d90cc1d29a0ce09d041d3b.jpg",
+    "hamming": 1,
+    "gray_rmse": 0.0022497011814266443,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "test/Image_22_jpg.rf.c03bd169faa571eebda006e0ecfbf232.jpg",
+    "b": "test/oily-81-_jpg.rf.d8cdb03f8219ca0e03b8e79ba484e520.jpg",
+    "hamming": 2,
+    "gray_rmse": 0.060473810881376266,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  },
+  {
+    "a": "test/Kering-32-_jpg.rf.4f815749c940743f5d4ac31dc298e004.jpg",
+    "b": "test/Kering-9-_jpeg.rf.0f68e182fd5459e6d36681b8aa0297cf.jpg",
+    "hamming": 0,
+    "gray_rmse": 0.0022696396335959435,
+    "cross_split": false,
+    "decision": "PENDING_HUMAN_REVIEW"
+  }
+]

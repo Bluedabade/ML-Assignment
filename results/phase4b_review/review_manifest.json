@@ -1,0 +1,1421 @@
+[
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "86_jpg.rf.b1eb85400c6489e45fda7bfd78b8479a.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\001.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "269_jpg.rf.7ceddc4b4c71a7a1d30fdda15eeb8fd9.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\002.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "571_jpg.rf.3a72d95bfb735a77c579b9cd414a95df.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\003.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "75_jpg.rf.452733ee1aa7ba860f394d983e9f9709.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\004.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "239_jpg.rf.f12d0c4e0338380f1f8fd8922a495e12.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\005.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "242_jpg.rf.33d33424a50a3bce6bc061e2dd4092c7.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\006.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "229_jpg.rf.010fa05a4819d475508f5633dc083978.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\007.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "616_jpg.rf.71ed9bcdaa839a125972ff1b16ff7a17.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\008.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "339_jpg.rf.b3bb51a072d6e7d28aed0940bf6790d9.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\009.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "236_jpg.rf.390e0731f1b0b1615b57135ed00bff3b.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\010.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "14_jpeg.rf.77fe1ddf65b70321fc86a1d23b67ab64.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\011.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "305_jpg.rf.fed8393a8aba20c036754d3cc28f98f5.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\012.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "174_jpg.rf.b6529a29cd3df8fb913215040307ba1e.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\013.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "5_jpeg.rf.e9d63d9b3c12291407eb7746a744cce1.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\014.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "272_jpg.rf.e4d4f3679807dc2b43dcb05870ce95ba.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\015.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "350_jpg.rf.7a381d66f91103ee208dca535f02f713.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\016.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "211_jpg.rf.6a20d215a23d87e59ea74737688305a1.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\017.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "307_jpg.rf.44b9c9bc793285cf2202295acf5cc80d.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\018.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "610_jpg.rf.9a3fb1db300625bc54f64f541e7970a8.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\019.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "34_jpeg.rf.8f3a32e4c5d882e0a7be13f6300c215c.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\020.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "363_jpg.rf.2005161743f65b157fa720f74fd8e6a2.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\021.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "89_jpg.rf.492679605078fe6d984a4de2d6d1d1fc.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\022.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "152_jpg.rf.977232bd98d02a5cff88d2e4d00afdf7.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\023.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "306_jpg.rf.81dccae0f989899fa4f1977dcccb26d3.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\024.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "train",
+    "filename": "353_jpg.rf.0546bd7ae932e06ac101725c4c017329.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\train\\025.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "67_jpg.rf.a2397d9290277391efb0731f2afde550.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\001.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "166_jpg.rf.335abd067c21fae5f134c4b0c703d63b.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\002.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "66_jpg.rf.7affad1105fba7d32a10c9dacbb38ee5.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\003.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "134_jpg.rf.e391ff8ca57634791adbfdae5d141478.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\004.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "114_jpg.rf.8abf04d31cfe689a3faddc7abc76b62f.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\005.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "76_jpg.rf.5ec8e8609ff6acfd3bfa04a6120ddb0d.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\006.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "86_jpg.rf.847c0579531ce31ff808e1a769f43dfd.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\007.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "val",
+    "filename": "133_jpg.rf.ac459e1042a90b2c4e81d5d4f043c7ab.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\val\\008.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "181_jpg.rf.9aef0fede927b3531155038ab24e0174.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\001.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "681_jpg.rf.b7eda6cef7ec6c876de0c8672790d742.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\002.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "182_jpg.rf.0bdc4187040650fbbef598f312468113.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\003.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "150_jpg.rf.6dd6eeef99fb6f98f6543dc869700215.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\004.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "40_jpg.rf.1dfa4ed7f59327f573b8efd453fd1944.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\005.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "285_jpg.rf.1268e99326acfc0290ecdebd99e29621.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\006.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "103_jpg.rf.667806df7be23ab76e06bcdfb89e140e.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\007.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "123_jpg.rf.4d55c8a6edcfd489a9b482571e67432f.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\008.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "567_jpg.rf.3949816f34f9652ab6e2145fd74294b6.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\009.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "340_jpg.rf.3d6df2179232e9a66942242841218563.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\010.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "140_jpg.rf.49657e8d0dafc3dfd41461c10c609947.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\011.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "177_jpg.rf.f614dab50a3b3369c06d039c0df5ad77.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\012.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "142_jpg.rf.ac3a909cb37bdb475e4f9483142e0fee.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\013.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "178_jpg.rf.acfb34b0b258a47ff4b1650e302603b4.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\014.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "179_jpg.rf.19d21d38a429e9729420fb8419e7fa6e.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\015.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "153_jpg.rf.5df543372d6496e6b35d01c751b3c35c.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\016.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "122_jpg.rf.78946f3fa9983061b33b936d42d7aee1.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\017.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "229_jpg.rf.dc936eeea31f948f81da03595d376150.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\018.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "279_jpg.rf.20bf74e621153f4c62db03d2d110d261.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\019.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "214_jpg.rf.5de5ae4fa310b84bdecb9f47a8b4ca7c.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\020.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "174_jpg.rf.a2fd31c92725f783804273006b2bddfe.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\021.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "32_jpg.rf.b7256c5d6a75b44134f1c16cf4cdcfe4.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\022.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "516_jpg.rf.712952fc43641d92df66c9c813c7159f.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\023.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "577_jpg.rf.bd8aabb696c23745621b28d2f2077a6b.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\024.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "wrinkle",
+    "split": "test",
+    "filename": "104_jpg.rf.f53374c55bf205e278f1d60fc96637a5.jpg",
+    "preview": "results\\phase4b_review\\wrinkle\\test\\025.jpg",
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_46_png.rf.6e9aaaf4b4f9d7d9f5ac9913031217d9.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\001.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "52_jpg.rf.54aba908ae10ec1f1cf3dd4feb1013cc.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Eyebags\\002.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "oily-48-_jpg.rf.e404d6e5cff64e3e1f4e78b8eb313f06.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Oily-Skin\\003.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_544_png.rf.8c69ec3aa3e7d2775471a522695c197d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\004.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering_-75-_jpg.rf.ca6c742cf37a9f147f66ecae5a6e47ce.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\005.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2688545621_1_jpg.rf.b871d4b48e4b4c4f3a0e42a1076a0343.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\006.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "oily42_jpg.rf.85638078c6a9d7cd0aab262987d8d0ad.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\007.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "GettyImages-546459592-5b215d8996c74956bc733aa9f6dd21a8_jpg.rf.4d4d68e619c67777bd9501d44c9e3eac.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\008.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "01F3MMYCDR14CJP0GTSEQTMHVN_jpeg_jpg.rf.710746101badfe650168a5bd6bb3acee.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\009.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_274_png.rf.73b4b808f7e289022100b6233a4d3773.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\010.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_513_png.rf.c8981f2f9256acb9d58af4c781739dcf.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\011.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "acne-412-_jpg.rf.747d919ed823b6ecae959bef3ddb84fd.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\012.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2720293102_1_jpg.rf.5e4b510617e3c796333ae0d1a971d61c.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\013.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "oily-278-_jpg.rf.ed3adca3e8e04b16d5c006b6b826833a.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\014.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "da-mong-noi-mach-mau-1-2_png.rf.35b6c09b6b34bf86e065b8a693137eea.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\015.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_97_jpg.rf.b54b7a23a05976cf7ce91f99a827b9aa.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\016.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_252_png.rf.3a1460487c14a04d0d8dd33fc5fa7117.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\017.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_151_jpg.rf.cb3ffb7e090af319696a983d5cd9348e.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\018.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "dry1_jpg.rf.888ce70f1734fd701f6e558a91e421e6.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\019.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2719473671_1_jpg.rf.ca3675df4273af3bbbe0feb030975823.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\020.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering-6-_jpg.rf.6b65ab481e8a6326e3be23d20bd0d64a.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\021.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "20220303_042827_532264_da-mat-bi-ngua-va-d-max-1800x1800_jpg.rf.b4487ea99e3e366d479aa02f0485815b.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\022.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_304_jpg.rf.fcb43e080273f656bbfcd1ec0c3a4a7d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\023.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle2_56_png.rf.d919231ac2e940b999585f9ed55d07f9.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\024.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_512_jpg.rf.feefb01d34326ff60b13f17bd517aeed.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\025.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "dry25_jpg.rf.80e1c5add70fc962c2695e5fda5cb50c.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\026.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "240_F_175181761_NaukWVZ1iZTbDytJzuiQqN5Y2Xc0zZ2C_jpg.rf.5be71cf7d0cd363e2a7763207bc6faf4.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\027.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Berminyak-15-_jpg.rf.1a3b994b2b7ae1e05103e64f3967928a.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\028.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Skin-Redness_jpg.rf.8dff0dbf21097c83d9917c4dde33568a.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\029.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle2_161_jpg.rf.889902c67c0192f0059aa705d5c0f1af.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\030.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_604_png.rf.a9243162d21532cd27e0835237e5b104.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\031.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_108_png.rf.a86528cf71fc7525d5a211dee01afd5d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\032.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering__-17-_JPG.rf.e08cf4407a0740ea99488d0a85774d5b.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\033.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2677149532_1_jpg.rf.59977e13a9483bea840059c7917568e8.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\034.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "oily55-4-_jpg.rf.5be4d366d0a86d91946d2c18626f5e65.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\035.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "da-mong-noi-gan-mau-la-benh-gi-2_jpg.rf.afeada50ad19d6d4ca12f378e1c309be.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\036.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_199_jpg.rf.99c94de947ff7c3fc0a0dd78d09c2224.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\037.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_296_jpg.rf.8134987aa6a6d8343206078253842301.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\038.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_250_png.rf.c8d43a32c7c73f44955afdabcf70e630.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\039.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "berminyak__-35-_jpg.rf.99e425264f121d4eee996347243c2ba3.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\040.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "120801881_1_jpg.rf.74c29b3d092879a64c4221fba96d49b4.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\041.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering-3-_jpg.rf.f438afc9a545e182b616db267fef70aa.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\042.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "noi-man-do-ngua-toan-than-4_jpg.rf.9558d6c65196a1bf9ef5089fb75acf9f.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\043.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "a7_jpg.rf.8147c62ecedff2a47d2c7c36d6faa72d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\044.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "286_jpg.rf.b61a8217b6e2ec0d18e486be8c06a0b4.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\045.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_385_png.rf.39ecfd2d528956dee4d15308561c8d7b.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\046.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering-25-_jpg.rf.3b5fb1c0eb4acc63ccf79bb2b8492763.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\047.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "236817064_1_jpg.rf.ce9a929cb069fd4577d3efba58d76651.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\048.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Berminyak96_jpg.rf.20406ae81a09f8a5e3d4659e5f4038fa.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\049.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "_2094077383_jpg.rf.c42b2c1599c714b3e7d2c810327c0638.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\050.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "a3_jpg.rf.1388e0540279c45c7117ceed88dbe3c8.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\051.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "288_jpg.rf.e34f9bd8789d4c119a977eeaa92f97a1.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\052.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_593_png.rf.f9937dae39e24c1a11fa4c3de3bf1bdf.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\053.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "berminyak__-31-_jpg.rf.59e2a49d2fac79d913db90f1f0e22f7d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\054.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2665784919_1_jpg.rf.f96f053e28eb05c2511c3ebd8c844d9b.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\055.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "oily52_jpg.rf.ae5cbeaaf94b29765276e4bdf0d47c85.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\056.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "_2250439467_jpg.rf.3a110c2e1deabd44da74625e60eafe52.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\057.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "01F3MMZ02QJ70C2QHKWDNJRWV6_jpeg_jpg.rf.2257140a88674a59abe1a79270a909fe.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Whiteheads\\058.jpg",
+    "original_categories": [
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_414_jpg.rf.3632bf3368c7e2956064bbd75f38cc9c.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\059.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_164_jpg.rf.c0e67b7628cb217a36c9f6ee2c9e809c.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\060.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering__-4-_JPG.rf.ffe81f9b7f0acba60b6084800658af5d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\061.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "1030333538_1_jpg.rf.ffcb885e0e33afe7d65555b71ebddf15.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\062.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Berminyak-7-_jpg.rf.15d697076e862f73d9469f6294236599.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\063.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Screenshot-2023-03-29-144534_png.rf.ad95dac391131cd236a960643c2848ee.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\064.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_255_png.rf.96514eacca25eef7d76dbf2ccd082706.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\065.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_381_png.rf.925a710d3317c3fd67e0d8895c54896d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\066.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "dry12_jpg.rf.94e2cc7094a0e9d47b0bce2ff0e73c5f.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\067.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2665879761_1_jpg.rf.cbfe72fdd8d31c57b14ad3362c06476b.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\068.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Berminyak87_jpg.rf.9668160693727e9f79ccffc6bfd803e3.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\069.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2973A28100000578-0-image-m-194_1433782669849_jpg.rf.dc179822fa269af29556ad0a61d151ab.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\070.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_166_png.rf.bfdb390c9162a38ab66e668a26a4c5dd.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\071.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_433_png.rf.82e5936052b52f32ad8fe0cbb0b0c9d5.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads__Whiteheads\\072.jpg",
+    "original_categories": [
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering_-29-_jpg.rf.1f11478fc893b0cf93c059838d242a05.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\073.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "240_F_477645690_E0R8uapTGEyyv0cwUM9P06Uk78kiLPXW_jpg.rf.156af4c2ffbfbda05b13698e52f89413.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\074.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "oily13_jpg.rf.f7e4346b4ac8d640fc62b799448ee503.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\075.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "shutterstock_1545102416_jpg.rf.30f47e0bfdfd3e87e2a794149158ceac.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\076.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_279_png.rf.c80c812276718789ad9a3e599fa7ef27.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\077.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering_-18-_jpg.rf.df435d15ce8833f72bd7539541ec09a7.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\078.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2708460596_1_jpg.rf.39e8b0369f17d4faa7adee292c6354b6.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\079.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Berminyak249_jpg.rf.8dbf6fac78b45acf37a03788d25974b8.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\080.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "how-to-get-rid-of-redness-on-face-feat_jpg.rf.382997c6a20171ace42aab72ab83c1b8.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\081.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_353_png.rf.8d2068d017fc957673f4650f216eb15a.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\082.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "dry-skin_118_jpeg.rf.a7587c4a3ba00779e2d904aa9705e2ec.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\083.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "240_F_505842148_TGTabIfdLCUOOQZD2kRsQnYJD7OTf3BT_jpg.rf.53c34ba426994d1afdca99d79a4e9164.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\084.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Berminyak302_jpg.rf.63c3361239cf725147817d0b68c4b422.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\085.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Screenshot-2023-03-29-145645_png.rf.466409b8f5d9c4b516410440b2546a5d.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\086.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle2_85_png.rf.dd0f45ce29b4a2d6aec43002151e3e0e.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\087.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Kering-1-_JPG.rf.1ab9c27f2a20280639d8124bea5e407a.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\088.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2692799934_1_jpg.rf.ed28c556d14a5b1a7fa263326291ce32.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\089.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Berminyak260_jpg.rf.e68ae7fced60eca74d8e1044b27f0e54.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\090.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "z4220863771590_9cf7e2bd92036ca75abebde81e8720ce_jpg.rf.60f31e46a6b0976947d669cc3b9b47c0.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\091.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle1_564_png.rf.dbcb9822d1e30a012d3163d2edf8b895.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\092.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Kering-24-_jpg.rf.471dabacbbf347d416faf29aff98cfa7.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\093.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "2947222498_1_jpg.rf.7ac067816e4f20ac69953f99ca9dd785.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\094.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "oily31_jpg.rf.79a6a1dbe6ad4f9775ed634088bdeaa9.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\095.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "sc-broken_png.rf.5d0c81c0173eac6d5fe957bc53a15565.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Skin-Redness\\096.jpg",
+    "original_categories": [
+      "Skin-Redness"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "levle0_124_png.rf.ca3ad935fa64f7f48a43ede8c71227eb.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Blackheads\\097.jpg",
+    "original_categories": [
+      "Blackheads"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "kering__-80-_jpg.rf.32745b5af9b9aefe676951afb4afc395.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Dry-Skin\\098.jpg",
+    "original_categories": [
+      "Dry-Skin"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "Image_29_jpg.rf.d392f075fe089104ccd4754fb5af8d79.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Eyebags\\099.jpg",
+    "original_categories": [
+      "Eyebags"
+    ],
+    "decision": "PENDING"
+  },
+  {
+    "kind": "negative",
+    "split": "train",
+    "filename": "berminyak__-51-_JPG.rf.fbcd94c739b95ed4fc6882544f0a1a75.jpg",
+    "preview": "results\\phase4b_review\\negatives\\Oily-Skin\\100.jpg",
+    "original_categories": [
+      "Oily-Skin"
+    ],
+    "decision": "PENDING"
+  }
+]
