@@ -1,0 +1,12 @@
+{
+  "yolo11n": {
+    "status": "AVAILABLE",
+    "epochs": 28,
+    "best_epoch": 13,
+    "source": "runs\\detect\\results\\training_v2\\yolo11n_clean\\results.csv"
+  },
+  "skn1": {
+    "status": "NOT AVAILABLE",
+    "reason": "External pretrained model; original epoch-by-epoch training logs were not available in downloaded artifacts."
+  }
+}

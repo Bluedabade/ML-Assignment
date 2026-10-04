@@ -1,0 +1,6 @@
+predicted_class / true_class,acne,wrinkle,dark_spot,enlarged_pore,background
+acne,82,0,0,0,136
+wrinkle,0,0,0,0,0
+dark_spot,0,0,0,0,0
+enlarged_pore,0,0,0,0,0
+background,1333,89,15,117,0

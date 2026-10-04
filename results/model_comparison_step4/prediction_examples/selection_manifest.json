@@ -1,0 +1,130 @@
+[
+  {
+    "image_id": 1,
+    "filename": "103_jpg.rf.667806df7be23ab76e06bcdfb89e140e.jpg",
+    "selection_reason": "Lexicographic first unused image containing acne",
+    "output": "prediction_examples/example_01.png",
+    "yolo11n": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 9
+    },
+    "skn1": {
+      "tp": 5,
+      "fp": 15,
+      "fn": 4
+    }
+  },
+  {
+    "image_id": 2,
+    "filename": "104_jpg.rf.f53374c55bf205e278f1d60fc96637a5.jpg",
+    "selection_reason": "Lexicographic first unused image containing wrinkle",
+    "output": "prediction_examples/example_02.png",
+    "yolo11n": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 10
+    },
+    "skn1": {
+      "tp": 8,
+      "fp": 11,
+      "fn": 2
+    }
+  },
+  {
+    "image_id": 108,
+    "filename": "Image_106_jpg.rf.37587514eb393373a24a04787ff6360d.jpg",
+    "selection_reason": "Lexicographic first unused image containing dark_spot",
+    "output": "prediction_examples/example_03.png",
+    "yolo11n": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 1
+    },
+    "skn1": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 1
+    }
+  },
+  {
+    "image_id": 5,
+    "filename": "122_jpg.rf.78946f3fa9983061b33b936d42d7aee1.jpg",
+    "selection_reason": "Lexicographic first unused image containing enlarged_pore",
+    "output": "prediction_examples/example_04.png",
+    "yolo11n": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 7
+    },
+    "skn1": {
+      "tp": 6,
+      "fp": 3,
+      "fn": 1
+    }
+  },
+  {
+    "image_id": 3,
+    "filename": "112_jpg.rf.b7b8c80a667711e01ee9c8c266ac1234.jpg",
+    "selection_reason": "First unused image with at least one TP for both models",
+    "output": "prediction_examples/example_05.png",
+    "yolo11n": {
+      "tp": 2,
+      "fp": 1,
+      "fn": 21
+    },
+    "skn1": {
+      "tp": 16,
+      "fp": 12,
+      "fn": 7
+    }
+  },
+  {
+    "image_id": 70,
+    "filename": "400_jpg.rf.8590644790a0b0f02c26b783210d51a7.jpg",
+    "selection_reason": "First unused YOLO-only TP image",
+    "output": "prediction_examples/example_06.png",
+    "yolo11n": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 6
+    },
+    "skn1": {
+      "tp": 0,
+      "fp": 8,
+      "fn": 7
+    }
+  },
+  {
+    "image_id": 4,
+    "filename": "119_jpg.rf.dc1a1b5fd63a8db1be18acb9c38f19a8.jpg",
+    "selection_reason": "First unused SKN-only TP image",
+    "output": "prediction_examples/example_07.png",
+    "yolo11n": {
+      "tp": 0,
+      "fp": 5,
+      "fn": 12
+    },
+    "skn1": {
+      "tp": 1,
+      "fp": 22,
+      "fn": 11
+    }
+  },
+  {
+    "image_id": 44,
+    "filename": "228_jpg.rf.ba61b72f5725d87310586c9a7f19bba7.jpg",
+    "selection_reason": "First unused positive image missed by both models",
+    "output": "prediction_examples/example_08.png",
+    "yolo11n": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 8
+    },
+    "skn1": {
+      "tp": 0,
+      "fp": 6,
+      "fn": 8
+    }
+  }
+]

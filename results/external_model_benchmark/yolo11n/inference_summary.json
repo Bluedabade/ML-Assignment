@@ -1,0 +1,28 @@
+{
+  "model_path": "runs\\detect\\results\\training_v2\\yolo11n_clean\\weights\\best.pt",
+  "checkpoint_sha256": "aab326fca99a0ed8a97d9758ad3b8a5582d8921a0cce58fc4a945de2cd46ce88",
+  "classes": {
+    "0": "acne",
+    "1": "wrinkle",
+    "2": "dark_spot",
+    "3": "enlarged_pore"
+  },
+  "device": 0,
+  "gpu": "NVIDIA GeForce GTX 1650 Ti",
+  "conf": 0.001,
+  "imgsz": 640,
+  "nms_iou": 0.7,
+  "max_det": 300,
+  "agnostic_nms": false,
+  "rect": true,
+  "multi_label": false,
+  "processed_images": 248,
+  "total_inference_seconds": 10.887480699981097,
+  "mean_inference_seconds": 0.043901131854762486,
+  "preprocessing": "Normal Ultralytics predict letterbox and normalization; no custom transforms",
+  "packages": {
+    "ultralytics": "8.4.163",
+    "torch": "2.14.0+cu130",
+    "torchvision": "0.29.0+cu130"
+  }
+}

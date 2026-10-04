@@ -1,0 +1,26 @@
+{
+  "input_hashes_unchanged": true,
+  "input_sha256": {
+    "datasets\\processed\\skin_detection_v2\\annotations\\instances_test.json": "4b103eae5309ead3f2a265dfe27e2476f5fd465d74ec2e48c5d662b1df0ae00f",
+    "runs\\detect\\results\\training_v2\\yolo11n_clean\\results.csv": "bb5fbff725e8abc6cda1a6af9751714802d19e291f42536a5abd4787a867683a",
+    "runs\\detect\\results\\training_v2\\yolo11n_clean\\results.png": "b212abcf7593dc852891594d248b3b69ac3faf20d9e79e68675b0bac06b693e1",
+    "runs\\detect\\results\\training_v2\\yolo11n_clean\\weights\\best.pt": "aab326fca99a0ed8a97d9758ad3b8a5582d8921a0cce58fc4a945de2cd46ce88",
+    "results\\external_model_benchmark\\shared_evaluation\\evaluation_config.json": "cbe1a1726e1869e59fddb3acb69391ea1c7c466aca2a28ae458409e3068c8f30",
+    "results\\external_model_benchmark\\shared_evaluation\\secondary_precision_recall.json": "5fdbce180904816e95a9556bf6c5113a53b0c782c68866e51e7225fb6f3ead2c",
+    "results\\external_model_benchmark\\skn1\\canonical_predictions.json": "ca30b38f1b8997f0db0a31465234476fa73bef136913c45597078625b80b3538",
+    "results\\external_model_benchmark\\skn1\\inference_summary.json": "59164a415671cf085913c9d3897fb5b0a4bb1ff94ee8b899a688c4fb43ab5a56",
+    "results\\external_model_benchmark\\skn1\\out_of_scope_predictions.json": "38d2d9640b60cb38b0f5fd610a201cfa322240317b630e53f4c359998dd395a1",
+    "results\\external_model_benchmark\\skn1\\raw_predictions.json": "08bdbc7962963aca13021411e0b5e19939e4aa405d6e6be13a9f8c4414b87888",
+    "results\\external_model_benchmark\\yolo11n\\canonical_predictions.json": "c26bd9f019974eb9050673715553f2561b8f0ca568c12b33e8385f992a78cc2e",
+    "results\\external_model_benchmark\\yolo11n\\inference_summary.json": "d6c8efce909909cb3e7270a4f043b5002ecfe18a24579f03df1f52a8f5851a28",
+    "results\\external_model_benchmark\\shared_evaluation\\overall_metrics.csv": "dc173ae5732f6eeb7a49daaf35260f19bc0e72e2dd1f30c95bb184e56083d2ed",
+    "results\\external_model_benchmark\\shared_evaluation\\per_class_metrics.csv": "750481dc542f6b4c70ed77e576cae9c86fa1ee17b6f3a2c803de50f8239f3b0b"
+  },
+  "original_results_png_byte_identical": true,
+  "matrix_reconciles_phase5b": true,
+  "training_epochs": 28,
+  "best_epoch": 13,
+  "prediction_examples": 8,
+  "images": 248,
+  "objects": 1636
+}
