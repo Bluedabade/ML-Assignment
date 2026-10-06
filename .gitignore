@@ -32,3 +32,9 @@ results/annotation_samples/
 *.cache
 *.tmp
 *.temp
+.env
+.env.*
+!.env.example
+
+# Generated app outputs may contain private uploaded face images
+results/streamlit_predictions/
